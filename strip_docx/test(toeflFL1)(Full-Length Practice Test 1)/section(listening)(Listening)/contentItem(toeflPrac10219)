@@ -1,0 +1,23 @@
+<gradItems>
+<question contentItemName="toeflPrac10219">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> Why is little known about the Caribbean monk seal?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10219.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice correct="yes">          It lived in extremely remote parts
+of the Caribbean sea.</answer-choice>
+<answer-choice> It never attracted the interest of scientists.</answer-choice>
+<answer-choice> It was difficult to catch in the wild.</answer-choice>
+<answer-choice> It became extinct before scientists could study it in-depth.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor begins his lecture by stating that little is known about
+the Caribbean monk seal because it was not studied in depth until after it
+had vanished (D). (B) contradicts this statement, so it is wrong. (A) and
+(C) are not mentioned as reasons why little is known about the species.</para>
+</explanation>
+</question>
+</gradItems>

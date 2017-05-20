@@ -1,0 +1,24 @@
+<gradItems>
+<question contentItemName="toeflPrac10226">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say about the 1908 Tunguska asteroid?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10226.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes">
+<answer-choice> It came down only 200 miles from Tunguska.</answer-choice>
+<answer-choice correct="yes"> It hit Earth with a force equal to about 15
+million tons of TNT.</answer-choice>
+<answer-choice> It was the last asteroid to hit Earth.</answer-choice>
+<answer-choice correct="yes"> It landed in a low-population area.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states specifically that the Tunguska impact contained
+roughly the same about of force as 15 million tons of TNT (B). He also states
+that the area was nearly <emphasis emphasis-type="italic"> uninhibited, </emphasis>which
+means it had a low-population (D). It was a <emphasis emphasis-type="italic"> 200-foot
+asteroid, </emphasis>not 200 miles away (A), We don't know (C) to be a fact.</para>
+</explanation>
+</question>
+</gradItems>

@@ -1,0 +1,18 @@
+<gradItems>
+<scopeSummary contentItemName="itemReviewMcat" title="Item Review">
+<mediaResources>
+<mediaObject type="image.gif" name="mcatOmitted" mediaRef="mcatQuestionOmitted.gif"/>
+<mediaObject type="image.gif" name="mcatCompleted" mediaRef="mcatQuestionAnswered.gif"/>
+<mediaObject type="image.gif" name="mcatMarked" mediaRef="mcatQuestionMarked.gif"/>
+<mediaObject type="image.gif" name="reviewIncomplete" mediaRef="nclexNavReviewIncomplete_lo.gif"/>
+<mediaObject type="image.gif" name="goToQuestion_lo" mediaRef="nclexNavReviewItem_lo.gif"/>
+<mediaObject type="image.gif" name="incomplete" mediaRef="itemIncomplete.gif"/>
+<mediaObject type="image.gif" name="endExam" mediaRef="nclexNavEnd_hi.gif"/>
+<mediaObject type="image.gif" name="mcatGoToQuestion_lo" mediaRef="mcatGoToQuestion_lo.gif"/>
+<mediaObject type="image.gif" name="mcatGoToQuestion_hi" mediaRef="mcatGoToQuestion_hi.gif"/>
+<mediaObject type="image.gif" name="mcat2015RevIncomplete" mediaRef="mcat2015RevIncomplete-question.png"/>
+<mediaObject type="image.gif" name="mcat2015RevCompleted" mediaRef="mcat2015RevCompleted-question.png"/>
+<mediaObject type="image.gif" name="mcat2015RevMarked" mediaRef="mcat2015RevMarked-question.png"/>
+</mediaResources>
+</scopeSummary>
+</gradItems>

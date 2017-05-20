@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10233">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> According to the professor, what are some of the features of writing?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10233.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes">
+<answer-choice correct="yes"> It uses punctuation to aid comprehension</answer-choice>
+<answer-choice correct="yes"> It uses longer and more complex sentences than
+spoken language.</answer-choice>
+<answer-choice> It often reflects the era in which it was written.</answer-choice>
+<answer-choice> It allows for information to be communicated with fewer errors
+than speech does.</answer-choice>
+<answer-choice correct="yes"> It is often directed to an unknown audience.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states specifically that <emphasis emphasis-type="italic"> we
+rely on punctuation marks to aid comprehension </emphasis>(A). She also states
+that "the sentences are<emphasis emphasis-type="italic"></emphasis>often longer
+and more complex" (B), and that "writing is often<emphasis emphasis-type="italic"></emphasis>directed
+to an unknown audience" (E). (C) is incorrect because it is<emphasis emphasis-type="italic"></emphasis>not
+mentioned as a feature of writing. And (D) is incorrect because<emphasis emphasis-type="italic"></emphasis>it
+does not specifically mention the type of error (that is, grammatical mistakes).</para>
+</explanation>
+</question>
+</gradItems>

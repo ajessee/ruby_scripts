@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10216">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.inference"/></categoryRefs>
+<question-stem>
+<para> What does the professor imply about Petrucci's editions?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10216.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> They were bought by a wide variety of educated
+people.</answer-choice>
+<answer-choice> They were bought only by the very rich.</answer-choice>
+<answer-choice> They were bought mainly by professional musicians.</answer-choice>
+<answer-choice> They were bought mostly for display purposes.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>  The professor says that Petrucci's editions were <emphasis emphasis-type="italic"> within
+the means, </emphasis>which means affordable, for gentry, merchants and artisans,
+so you<emphasis emphasis-type="italic">  c</emphasis>an infer that this comprises
+a broad range of educated people. The<emphasis emphasis-type="italic"></emphasis>other
+three options contradict this fact because they are too narrow<emphasis emphasis-type="italic"></emphasis>in
+scope.</para>
+</explanation>
+</question>
+</gradItems>

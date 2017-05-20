@@ -1,0 +1,22 @@
+<gradItems>
+<question contentItemName="toeflPrac10222">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> How did the monk seal get its name?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10222.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes">
+<answer-choice correct="yes"> From the way that it travels</answer-choice>
+<answer-choice> From the time of day it is active</answer-choice>
+<answer-choice> From the person who discovered it</answer-choice>
+<answer-choice correct="yes"> From its appearance</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> In the lecture, the professor states that the monk seal got its name
+because it "tended to travel alone, like a monk" ( A). He adds that it had
+a fold of skin that resembled a monk's hood (D), which means its appearance
+also helped give it its name. The professor does not mention the time of day
+it is active (B) or the discoverer (C) as reasons for its name.</para>
+</explanation>
+</question>
+</gradItems>

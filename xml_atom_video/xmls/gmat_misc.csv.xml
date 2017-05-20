@@ -1,0 +1,37 @@
+<gradItems>
+  <question-set contentItemName="GMATOri" title="GMAT Orientation">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="GMATOri" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="GMATOriSP" title="GMAT Orientation (Self-Paced)">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="GMATOriSP" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="GMATOriSPPLUS" title="GMAT Orientation (Self-Paced PLUS)">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="GMATOriSPPLUS" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="GMATOriQB" title="GMAT QBank Orientation">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="GMATOriQB" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="GMATOriPP" title="GMAT Practice Pack Orientation">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="GMATOriPP" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+</gradItems>

@@ -1,0 +1,24 @@
+<gradItems>
+<question contentItemName="toeflPrac10212">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> Why does the professor suggest that moveable type printing took a long
+time to become common?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10212.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> Very few people understood how the printing presses worked.</answer-choice>
+<answer-choice> Scribes united to protect their manuscript copying business.</answer-choice>
+<answer-choice correct="yes"> Early printers had a limited production capacity.</answer-choice>
+<answer-choice> People preferred handwritten books with colored illustrations.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that the early printing presses had a hard time
+keeping up with the demands, which indicates that the production capacity
+was limiting their requests. The professor said that there weren't enough
+people to copy books, not print them (A), and there is no mention of the scribes'
+uniting to protect the copying business (B). The fact that some people prefer
+handwritten books is not relevant (D).</para>
+</explanation>
+</question>
+</gradItems>

@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10218">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does one student mention the Everglades?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10218.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> To introduce the topic of endangered water birds</answer-choice>
+<answer-choice> To counter the argument that development hurts wildlife</answer-choice>
+<answer-choice> To illustrate the kinds of habitats where monk seals are commonly
+found</answer-choice>
+<answer-choice> To give an example of the dangers of uncontrolled development</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The student uses the Everglades as an example in response to the professor's
+question regarding uncontrolled development (D). He is not introducing a new
+topic (A) even though he does bring up birds&ndash;as an example. And he is
+not arguing with the professor (B)in fact he is providing support for the
+idea that development hurts wildlife. The student's response is not connected
+to seals (C) in any way.</para>
+</explanation>
+</question>
+</gradItems>

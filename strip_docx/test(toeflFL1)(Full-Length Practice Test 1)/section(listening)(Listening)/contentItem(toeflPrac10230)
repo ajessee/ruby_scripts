@@ -1,0 +1,24 @@
+<gradItems>
+<question contentItemName="toeflPrac10230">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What is the talk mainly about?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10230_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> The pros and cons of a current method of teaching reading</answer-choice>
+<answer-choice correct="yes"> The differences between spoken and written language</answer-choice>
+<answer-choice> The history of writing systems</answer-choice>
+<answer-choice> The developmental problems that can affect speech</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor begins the lecture by stating that today's focus will
+be on the differences between spoken and written language. Here, <emphasis
+emphasis-type="italic"> focus </emphasis>has the same meaning as main point,
+or main idea, so (B) is correct. (A) is incorrect because she does not focus
+only on reading, nor does she address the pros and cons (positives and negatives)
+of teaching it. (C) and (D) are sub-points, so they are not the main idea
+of the lecture.</para>
+</explanation>
+</question>
+</gradItems>

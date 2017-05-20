@@ -1,0 +1,27 @@
+<gradItems>
+<question contentItemName="toeflPrac10235">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the professor mention ancient cultures? <mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10235.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> To illustrate the point that languages can disappear over
+time</answer-choice>
+<answer-choice> To provide background for a discussion of phonemes</answer-choice>
+<answer-choice> To explain the relationships between ancient languages</answer-choice>
+<answer-choice correct="yes"> To give examples of culture that had writing
+systems</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that unlike speech, writing emerged in a few cultures,
+such as Sumerian, Phoenician, Egyptian, Chinese, Indus Valley and May an.
+It is assumed that the listener knows that these qualify as examples of ancient
+cultures, so (D) is correct. (A) is incorrect since the languages of some
+of the cultures mentioned still exist. These cultures are not mentioned as
+the basis of phonemes (B), and she does not discuss their interdependent relationships
+(C).</para>
+</explanation>
+</question>
+</gradItems>

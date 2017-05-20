@@ -1,0 +1,98 @@
+<sequence template="vid.act14orientation" title="ACT Orientation Video" timeOrder="1"></sequence>
+<sequence template="vid.actabout" title="About the ACT" timeOrder="1"></sequence>
+<sequence template="vid.satabout" title="About the SAT" timeOrder="1"></sequence>
+<sequence template="vid.actlom24i" title="Answer Absolute Value Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlow10i" title="Answer Ambiguous Pronoun Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom48i" title="Answer Combination + Permutation Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlor05i" title="Answer Critical Reading Detail Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlor08i" title="Answer Critical Reading Function Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlor07i" title="Answer Critical Reading Global Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlor06i" title="Answer Critical Reading Inference Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom51i" title="Answer Logic Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom17i" title="Answer Mean, Median + Mode Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlow17i" title="Answer Parallel Structure Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlow21i" title="Answer Passive Voice Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlos05i" title="Answer Patterns Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom45i" title="Answer Probability Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom21i" title="Answer Questions about Radicals" timeOrder="1"></sequence>
+<sequence template="vid.actlow13i" title="Answer Questions on Irrelevant + Misplaced Information" timeOrder="1"></sequence>
+<sequence template="vid.actlow11i" title="Answer Questions on Misused Objective + Subjective Pronouns" timeOrder="1"></sequence>
+<sequence template="vid.actlom16i" title="Answer Questions on Percents" timeOrder="1"></sequence>
+<sequence template="vid.actlom37i" title="Answer Questions on Polygons + Total Angle Measures" timeOrder="1"></sequence>
+<sequence template="vid.actlom44i" title="Answer Questions on Set Intersections + Unions" timeOrder="1"></sequence>
+<sequence template="vid.actlom50i" title="Answer Questions Using Charts, Tables + Graphs" timeOrder="1"></sequence>
+<sequence template="vid.actlom25i" title="Answer Questions Using Number Lines" timeOrder="1"></sequence>
+<sequence template="vid.actlom46i" title="Answer Ratio, Rate + Proportions Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlow07i" title="Answer Redundancy Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom35i" title="Answer Special Right Triangle Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlow08i" title="Answer Subject-Verb Agreement Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlor09i" title="Answer Vocab-in-Context Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlom42i" title="Answer Volume + Surface Area of Solids Questions" timeOrder="1"></sequence>
+<sequence template="vid.pcactorient" title="Anywhere Orientation Session" timeOrder="1"></sequence>
+<sequence template="vid.actlom38i" title="Basics of Circles" timeOrder="1"></sequence>
+<sequence template="vid.actlom18i" title="Basics of Ratios" timeOrder="1"></sequence>
+<sequence template="vid.pcactsession1" title="Class Session 1" timeOrder="1"></sequence>
+<sequence template="vid.pcactsession2" title="Class Session 2" timeOrder="1"></sequence>
+<sequence template="vid.pcactsession3" title="Class Session 3" timeOrder="1"></sequence>
+<sequence template="vid.pcactsession4" title="Class Session 4" timeOrder="1"></sequence>
+<sequence template="vid.pcactsession5" title="Class Session 5" timeOrder="1"></sequence>
+<sequence template="vid.pcactsession6" title="Class Session 6" timeOrder="1"></sequence>
+<sequence template="vid.actlow12i" title="Commonly Tested Idioms" timeOrder="1"></sequence>
+<sequence template="vid.actlow20i" title="Comparing Like Nouns + Verbs" timeOrder="1"></sequence>
+<sequence template="vid.actlos07i" title="Conflicting Viewpoints Questions" timeOrder="1"></sequence>
+<sequence template="vid.actlow03i" title="Correct Verb Tenses" timeOrder="1"></sequence>
+<sequence template="vid.actlow19i" title="Correcting Misused Adjectives + Adverbs" timeOrder="1"></sequence>
+<sequence template="vid.actlow09i" title="Correcting Pronoun Use" timeOrder="1"></sequence>
+<sequence template="vid.actlom31i" title="Define Key Terms: Parallel, Tangent + Perpendicular" timeOrder="1"></sequence>
+<sequence template="vid.actlom47i" title="Demystifying Trigonometry" timeOrder="1"></sequence>
+<sequence template="vid.actlow14i" title="FANBOYS Conjunctions" timeOrder="1"></sequence>
+<sequence template="vid.actlom27i" title="Find Equations of Parallel + Perpendicular Lines" timeOrder="1"></sequence>
+<sequence template="vid.actlom29i" title="Graph a Parabola" timeOrder="1"></sequence>
+<sequence template="vid.actlow06i" title="Identify + Correct Apostrophe Use" timeOrder="1"></sequence>
+<sequence template="vid.actlow05i" title="Identify + Correct Colon Use" timeOrder="1"></sequence>
+<sequence template="vid.actlow04i" title="Identify + Correct Comma Use" timeOrder="1"></sequence>
+<sequence template="vid.actlow15i" title="Identify + Correct Run-Ons" timeOrder="1"></sequence>
+<sequence template="vid.actlow16i" title="Identify + Correct Sentence Fragments" timeOrder="1"></sequence>
+<sequence template="vid.actlom39i" title="Identify + Work with Tangent Lines" timeOrder="1"></sequence>
+<sequence template="vid.actlos02i" title="Interpret Variables + Patterns in Figures" timeOrder="1"></sequence>
+<sequence template="vid.actlom26i" title="Manipulate Linear Equations" timeOrder="1"></sequence>
+<sequence template="vid.actlom20i" title="Multiply + Divide Exponents without a Calculator" timeOrder="1"></sequence>
+<sequence template="vid.actlom02i" title="Point Builder: Backsolving" timeOrder="1"></sequence>
+<sequence template="vid.actlom03i" title="Point Builder: Eliminating + Strategic Guessing" timeOrder="1"></sequence>
+<sequence template="vid.actlos06i" title="Point Builder: Explain the Method" timeOrder="1"></sequence>
+<sequence template="vid.actlom04i" title="Point Builder: Fundamental Math" timeOrder="1"></sequence>
+<sequence template="vid.actlos04i" title="Point Builder: Interpreting Figures" timeOrder="1"></sequence>
+<sequence template="vid.actlom09i" title="Point Builder: Kaplan Math Strategies" timeOrder="1"></sequence>
+<sequence template="vid.actlos03i" title="Point Builder: Kaplan Method for ACT Science" timeOrder="1"></sequence>
+<sequence template="vid.actlow01i" title="Point Builder: Kaplan Method for English Multiple Choice" timeOrder="1"></sequence>
+<sequence template="vid.actlor02i" title="Point Builder: Kaplan Reading Strategies" timeOrder="1"></sequence>
+<sequence template="vid.actlor01i" title="Point Builder: Passage Mapping" timeOrder="1"></sequence>
+<sequence template="vid.actlom01i" title="Point Builder: Picking Numbers" timeOrder="1"></sequence>
+<sequence template="vid.actlor04i" title="Point Builder: Prose Fiction Passages" timeOrder="1"></sequence>
+<sequence template="vid.actlor03i" title="Point Builder: Science Vocabulary" timeOrder="1"></sequence>
+<sequence template="vid.actlom05i" title="Point Builder: Using Your Calculator" timeOrder="1"></sequence>
+<sequence template="vid.actlom06i" title="Point Builder: Word Problems" timeOrder="1"></sequence>
+<sequence template="vid.actlom30i" title="Properties of Lines Cut by Transversals" timeOrder="1"></sequence>
+<sequence template="vid.actlos01i" title="Purpose, Method + Results" timeOrder="1"></sequence>
+<sequence template="vid.actlom34i" title="Pythagorean Triplets + When to Use Them" timeOrder="1"></sequence>
+<sequence template="vid.actlom28i" title="Quadratics: Foil + Reverse Foil" timeOrder="1"></sequence>
+<sequence template="vid.actlow18i" title="Recognizing Misplaced Modifiers" timeOrder="1"></sequence>
+<sequence template="vid.actlom32i" title="Recognizing Triangle Basics" timeOrder="1"></sequence>
+<sequence template="vid.actlom07i" title="Simplify Expressions Using the Order of Operations" timeOrder="1"></sequence>
+<sequence template="vid.actlom43i" title="Simplify Solids" timeOrder="1"></sequence>
+<sequence template="vid.actlom22i" title="Simplifying Logarithms" timeOrder="1"></sequence>
+<sequence template="vid.actlom23i" title="Solve an Inequality for an Unknown Variable" timeOrder="1"></sequence>
+<sequence template="vid.actlom10i" title="Solve for a System of Equations" timeOrder="1"></sequence>
+<sequence template="vid.actlom08i" title="Solve for an Unknown Variable" timeOrder="1"></sequence>
+<sequence template="vid.actlom11i" title="Solve Math Functions" timeOrder="1"></sequence>
+<sequence template="vid.actlom33i" title="The Pythagorean Theorem" timeOrder="1"></sequence>
+<sequence template="vid.actlow02i" title="Transitions and Flow" timeOrder="1"></sequence>
+<sequence template="vid.actlom40i" title="Understand Angles in a Circle, Arc Length + Sector Area" timeOrder="1"></sequence>
+<sequence template="vid.actlom13i" title="Understand Factors of a Number" timeOrder="1"></sequence>
+<sequence template="vid.actlom14i" title="Understand Multiples of a Number" timeOrder="1"></sequence>
+<sequence template="vid.actlom12i" title="Understand Number Properties" timeOrder="1"></sequence>
+<sequence template="vid.actlom15i" title="Understand Prime Numbers + Factors" timeOrder="1"></sequence>
+<sequence template="vid.actlom19i" title="Use Ratio Charts" timeOrder="1"></sequence>
+<sequence template="vid.actlom49i" title="Work with Matrices" timeOrder="1"></sequence>
+<sequence template="vid.actlow22i" title="Writing Logically" timeOrder="1"></sequence>
+

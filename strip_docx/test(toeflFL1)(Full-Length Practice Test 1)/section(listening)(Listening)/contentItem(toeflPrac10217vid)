@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10217vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10217_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> The effects of development on animal habitats</answer-choice>
+<answer-choice> The life cycle of the Caribbean monk seal</answer-choice>
+<answer-choice> The endangered species of the Everglades</answer-choice>
+<answer-choice correct="yes"> The extinction of an aquatic mammal</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>          The professor states that the talk is mainly about the extinction
+of a Florida mammal, the Caribbean monk seal, when he says "let's conclude
+our discussion of extinct Florida mammals"  talking about the Caribbean monk
+seal. He also finishes the lecture with a general summing statement referring
+to the extinction of the Caribbean monk seal. The lecture does not primarily
+concern the life cycle of the Caribbean monk seal (B), nor does it focus generally
+on the endangered species of the Everglades (C), focusing rather on one. (A)
+is too broad.</para>
+</explanation>
+</question>
+</gradItems>

@@ -1,0 +1,23 @@
+<scoreConversionTable name="writing">
+  <scoreConversionEntry n="10" scaledScore="30"/>
+  <scoreConversionEntry n="9.5" scaledScore="29"/>
+  <scoreConversionEntry n="9" scaledScore="28"/>
+  <scoreConversionEntry n="8.5" scaledScore="27"/>
+  <scoreConversionEntry n="8" scaledScore="25"/>
+  <scoreConversionEntry n="7.5" scaledScore="24"/>
+  <scoreConversionEntry n="7" scaledScore="22"/>
+  <scoreConversionEntry n="6.5" scaledScore="21"/>
+  <scoreConversionEntry n="6" scaledScore="20"/>
+  <scoreConversionEntry n="5.5" scaledScore="18"/>
+  <scoreConversionEntry n="5" scaledScore="17"/>
+  <scoreConversionEntry n="4.5" scaledScore="15"/>
+  <scoreConversionEntry n="4" scaledScore="14"/>
+  <scoreConversionEntry n="3.5" scaledScore="12"/>
+  <scoreConversionEntry n="3" scaledScore="11"/>
+  <scoreConversionEntry n="2.5" scaledScore="10"/>
+  <scoreConversionEntry n="2.0" scaledScore="8"/>
+  <scoreConversionEntry n="1.5" scaledScore="7"/>
+  <scoreConversionEntry n="1" scaledScore="5"/>
+  <scoreConversionEntry n="0.5" scaledScore="4"/>
+  <scoreConversionEntry n="0" scaledScore="0"/>
+</scoreConversionTable>

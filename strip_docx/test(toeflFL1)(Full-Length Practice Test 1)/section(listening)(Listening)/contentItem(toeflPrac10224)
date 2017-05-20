@@ -1,0 +1,27 @@
+<gradItems>
+<question contentItemName="toeflPrac10224">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the professor mention the moon?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10224.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> To emphasize a point about the impacts of meteorites on Mars
+and Jupiter</answer-choice>
+<answer-choice correct="yes"> To draw attention to the possibility of meteorite
+impacts on Earth</answer-choice>
+<answer-choice> To contrast it with Earth in terms of the size and shape of
+its craters</answer-choice>
+<answer-choice> To demonstrate that not all asteroids have orbits between
+Mars and Jupiter</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor mentions the large number of asteroids that have hit
+the moon as support for the likelihood that they have hit the Earth as well.
+Mars and Jupiter are not mentioned (A) and (D), and the analogy of asteroids
+of hitting the moon supports, not contrasts, their hitting the Earth, too
+(C).</para>
+</explanation>
+</question>
+</gradItems>

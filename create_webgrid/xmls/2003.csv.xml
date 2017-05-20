@@ -1,0 +1,168 @@
+<gradItems>
+  <question-set contentItemName="ielts17GT2003">
+    <stimulus></stimulus>
+    <question-set-member contentItemName="ielts17GT2003.01">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.mtchead"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="IX"></exactAnswer>
+          <exactAnswer value="ix"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.02">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.mtchead"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="XI"></exactAnswer>
+          <exactAnswer value="xi"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.03">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.mtchead"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="II"></exactAnswer>
+          <exactAnswer value="ii"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.04">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.mtchead"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="VII"></exactAnswer>
+          <exactAnswer value="vii"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.05">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.mtchead"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="I"></exactAnswer>
+          <exactAnswer value="i"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.06">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.mtchead"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="III"></exactAnswer>
+          <exactAnswer value="iii"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.07">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="TRUE"></exactAnswer>
+          <exactAnswer value="True"></exactAnswer>
+          <exactAnswer value="true"></exactAnswer>
+          <exactAnswer value="T"></exactAnswer>
+          <exactAnswer value="t"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.08">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="FALSE"></exactAnswer>
+          <exactAnswer value="False"></exactAnswer>
+          <exactAnswer value="false"></exactAnswer>
+          <exactAnswer value="F"></exactAnswer>
+          <exactAnswer value="f"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.09">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="FALSE"></exactAnswer>
+          <exactAnswer value="False"></exactAnswer>
+          <exactAnswer value="false"></exactAnswer>
+          <exactAnswer value="F"></exactAnswer>
+          <exactAnswer value="f"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.010">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="NOT GIVEN"></exactAnswer>
+          <exactAnswer value="Not Given"></exactAnswer>
+          <exactAnswer value="Not given"></exactAnswer>
+          <exactAnswer value="not given"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.011">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="TRUE"></exactAnswer>
+          <exactAnswer value="True"></exactAnswer>
+          <exactAnswer value="true"></exactAnswer>
+          <exactAnswer value="T"></exactAnswer>
+          <exactAnswer value="t"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.012">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="TRUE"></exactAnswer>
+          <exactAnswer value="True"></exactAnswer>
+          <exactAnswer value="true"></exactAnswer>
+          <exactAnswer value="T"></exactAnswer>
+          <exactAnswer value="t"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+    <question-set-member contentItemName="ielts17GT2003.013">
+      <categoryRefs>
+        <catRef-IELTS-QTopic categoryName="read.tfng"></catRef-IELTS-QTopic>
+      </categoryRefs>
+      <fillInInteraction>
+        <fillInInput>
+          <exactAnswer value="FALSE"></exactAnswer>
+          <exactAnswer value="False"></exactAnswer>
+          <exactAnswer value="false"></exactAnswer>
+          <exactAnswer value="F"></exactAnswer>
+          <exactAnswer value="f"></exactAnswer>
+        </fillInInput>
+      </fillInInteraction>
+    </question-set-member>
+  </question-set>
+</gradItems>

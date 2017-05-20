@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10223">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<question-stem>
+<para>What is the main point of this lecture?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10223_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Large objects from outer space occasionally
+hit Earth.</answer-choice>
+<answer-choice> Meteorite impacts on Earth have killed millions of animals.</answer-choice>
+<answer-choice> A large meteorite is likely to hit the moon sometime in the
+next century.</answer-choice>
+<answer-choice> It was only in the 20th century that meteorites were discovered.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>The professor begins by saying "today we will talk about," another way
+of stating the theme of the lecture, which is Near Earth Objects (N-E-Os),
+and their impact on the history of the Earth. The remainder of the lecture
+provides supporting details of this main idea. (B) is an exaggeration of fact.
+(C) is not the main topic, and (D) is false.</para>
+</explanation>
+</question>
+</gradItems>

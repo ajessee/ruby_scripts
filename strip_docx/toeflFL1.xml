@@ -1,0 +1,3159 @@
+<gradItems>
+<scopeSummary contentItemName="itemReviewMcat" title="Item Review">
+<mediaResources>
+<mediaObject type="image.gif" name="mcatOmitted" mediaRef="mcatQuestionOmitted.gif"/>
+<mediaObject type="image.gif" name="mcatCompleted" mediaRef="mcatQuestionAnswered.gif"/>
+<mediaObject type="image.gif" name="mcatMarked" mediaRef="mcatQuestionMarked.gif"/>
+<mediaObject type="image.gif" name="reviewIncomplete" mediaRef="nclexNavReviewIncomplete_lo.gif"/>
+<mediaObject type="image.gif" name="goToQuestion_lo" mediaRef="nclexNavReviewItem_lo.gif"/>
+<mediaObject type="image.gif" name="incomplete" mediaRef="itemIncomplete.gif"/>
+<mediaObject type="image.gif" name="endExam" mediaRef="nclexNavEnd_hi.gif"/>
+<mediaObject type="image.gif" name="mcatGoToQuestion_lo" mediaRef="mcatGoToQuestion_lo.gif"/>
+<mediaObject type="image.gif" name="mcatGoToQuestion_hi" mediaRef="mcatGoToQuestion_hi.gif"/>
+<mediaObject type="image.gif" name="mcat2015RevIncomplete" mediaRef="mcat2015RevIncomplete-question.png"/>
+<mediaObject type="image.gif" name="mcat2015RevCompleted" mediaRef="mcat2015RevCompleted-question.png"/>
+<mediaObject type="image.gif" name="mcat2015RevMarked" mediaRef="mcat2015RevMarked-question.png"/>
+</mediaResources>
+</scopeSummary>
+<question-set contentItemName="toeflPrac10101">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <emphasis emphasis-type="italic">             The Life and
+Work of J.D. Salinger</emphasis>         </para>
+<para>           Writer J. D. Salinger will always be remembered for his most
+famous character, Holden Caulfield. The protagonist of the novel <emphasis
+emphasis-type="italic"> The Catcher in the Rye</emphasis>, Caulfield became
+the voice of <highlightSpan id="toeflPrac10101_01"> disaffected</highlightSpan> youth
+not only for his generation-those coming of age in the early 1950s-but for
+generations to come. The struggle to reconcile innocence and youth with the
+pressures and expectations of the wider world is a theme that runs not only
+through Salinger's work, but his life as well.</para>
+<para>           Jerome David Salinger was born in New York City in 1919 to
+an upper-middle class family. His father was a manager in a successful cheese
+and meat importing company. As an adolescent, Salinger attended public schools
+as well as a military academy.<sentence-insertion-point id="1"></sentence-insertion-point> He
+dropped out of several colleges in New York, opting instead to immerse himself
+in the Greenwich Village literary scene. This route paid off for Salinger;
+he had his first work published in 1940 in <emphasis emphasis-type="italic">Story</emphasis> magazine,
+after making the acquaintance of some of New York's most prestigious editors.</para>
+<para>           Salinger's literary career, however, soon took a back seat
+to events overseas. Despite a mild heart condition, Salinger volunteered to
+fight in World War II and was sent to serve in Europe. One of the few bright
+spots during his time in Europe was meeting the writer Ernest Hemingway, with
+whom Salinger developed a lasting correspondence.</para>
+<para>           While Salinger's experience of the war certainly left him
+traumatized, when he returned to New York, he more or less picked up where
+he left off. Before the war, he had started writing a series of stories about
+a young man who suffers a nervous breakdown in the middle of Manhattan. <highlightSpan
+id="toeflPrac10101_010"> These</highlightSpan> would later form the basis
+for Salinger's first and only novel, <emphasis emphasis-type="italic">The
+Catcher in the Rye</emphasis>, published in 1951.</para>
+<para>           Parallels between Holden Caulfield's and Salinger's lives
+are evident, especially as far as their educational careers are concerned.<emphasis
+emphasis-type="italic"> The Catcher in the Rye</emphasis> begins with Caulfield
+on the verge of expulsion from boarding school, after already having been
+kicked out of two previous schools. He leaves his prestigious New England
+prep school for a two-day adventure in New York City, and meets characters
+from walks of life he had never encountered within his privileged milieu.</para>
+<para>           What drew the <highlightSpan id="toeflPrac10101_02"> acclaim</highlightSpan> of
+critics and readers alike was the authenticity of Caulfield's inner</para>
+<para>           monologue. <sentence-insertion-point id="2"></sentence-insertion-point>He
+is shown to be not just a "'rebel without a cause," but a thoughtful and clever</para>
+<para>           young man, <highlightSpan id="toeflPrac10101_03"> astutely</highlightSpan> critical
+of society and its "'phoniness," yet at the same time, desiring</para>
+<para>           acceptance from it. <highlightSpan id="toeflPrac10101_011"> Some
+critics have gone so far as to suggest that Holden Caulfield was the archetype
+for modern "bad boy" culture heroes such as James Dean.</highlightSpan><sentence-insertion-point
+id="3"></sentence-insertion-point></para>
+<para>           Salinger would go on to publish numerous other stories in <emphasis
+emphasis-type="italic">The New Yorker</emphasis> over the next decade. The
+most famous of them, published in book form in 1961, was <emphasis emphasis-type="italic">Franny
+and Zooey</emphasis>, about the relationship between a gifted brother and
+sister who, each in their own way, struggle with the expectations of maturity.
+Other noteworthy stories written in this period include: <emphasis emphasis-type="italic">Raise
+High the Roof Beam</emphasis>, <emphasis emphasis-type="italic">Carpenters</emphasis> and <emphasis
+emphasis-type="italic">Seymore, an Introduction</emphasis>.</para>
+<para>           After <emphasis emphasis-type="italic">Hapsworth 16, 1924</emphasis> was
+published in 1965, Salinger mysteriously withdrew from the public eye. Living
+more or less as a recluse in rural New Hampshire, Salinger has ceased to submit
+anything for publication, and rarely, if ever, gives interviews.<sentence-insertion-point
+id="4"></sentence-insertion-point></para>
+<para>           Some observers suspect that Salinger's withdrawal from society
+is indicative of a mental breakdown of some sort; in this respect, at least,
+perhaps Salinger has much more in common with his maladjusted characters than
+most people may have realized.</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10101.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> disaffected</highlightSpan>in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           condemned</answer-choice>
+<answer-choice correct="yes">           alienated</answer-choice>
+<answer-choice>           complicated</answer-choice>
+<answer-choice>           despised</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10101_01"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">             Disaffected </emphasis>means
+resentful against authority. <emphasis emphasis-type="italic"> Alienated </emphasis>means
+estranged or separated from</para>
+<para>           others, which is similar in meaning. The clue to meaning
+is in paragraph 1: "'the struggle to</para>
+<para>           reconcile." Although the young people were emotionally (C) <emphasis
+emphasis-type="italic"> complicated </emphasis>and may hove (D) <emphasis
+emphasis-type="italic"> despised </emphasis>authority, these words are not
+synonyms of <emphasis emphasis-type="italic"> disaffected</emphasis>. (D) <emphasis
+emphasis-type="italic"> condemned </emphasis>is incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.02">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> acclaim</highlightSpan> in the passage
+is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           disdain</answer-choice>
+<answer-choice>           criticism</answer-choice>
+<answer-choice>           interest</answer-choice>
+<answer-choice correct="yes">           praise</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10101_02"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">             Praise </emphasis>is
+a synonym of <emphasis emphasis-type="italic"> acclaim</emphasis>. The clue
+to meaning is in the same sentence: "'authenticity,"</para>
+<para>           which means Salinger created a believable character. This
+can only be accomplished by a</para>
+<para>           good writer and would be worthy of praise, (A) Disdain and
+(8) <emphasis emphasis-type="italic"> criticism </emphasis>are opposite in
+meaning. (C) <emphasis emphasis-type="italic"> Interest </emphasis>implies
+no judgment; the job of a critic is to judge.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.03">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> astutely</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">           shrewdly</answer-choice>
+<answer-choice>           unnecessarily</answer-choice>
+<answer-choice>           silently</answer-choice>
+<answer-choice>           significantly</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10101_03"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">             Astutely </emphasis>and <emphasis
+emphasis-type="italic"> shrewdly </emphasis>are synonyms, both meaning perceptive.
+The clue to meaning is in the same sentence : Caulfield is a "thoughtful and
+clever" young man who is "'critical of</para>
+<para>           . .. <emphasis emphasis-type="italic"> ;" </emphasis>offering
+thoughtful criticism is a result of perception. Caulfield is not (C) <emphasis
+emphasis-type="italic"> silent </emphasis>(quiet) in his criticism . (B) <emphasis
+emphasis-type="italic"> Unnecessarily </emphasis>critical would imply there
+was no real reason to be critical, which is not true.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.04">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>           According to the passage, one of the main themes that concerned
+J.D. Salinger was</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">           the difficulties young people faced
+as they entered adulthood</answer-choice>
+<answer-choice>           the pressures society placed on individuals to conform</answer-choice>
+<answer-choice>           the ability of a single individual to change a society</answer-choice>
+<answer-choice>           the importance of serving those in need</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>           Paragraph 1 states that the theme running throughout Salinger's
+work was that of youth struggling to reconcile innocence with the expectations
+of the world (A). Examples of these struggles in his work are noted in paragraphs
+5 and 7. Items (B) and (C) are elements of Salinger's work, but are too narrow
+in scope. (D) is not mentioned in the passage.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.05">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>           According to the passage, Salinger</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           graduated from New York University</answer-choice>
+<answer-choice>           attended a private high school</answer-choice>
+<answer-choice>           dropped out of high school</answer-choice>
+<answer-choice correct="yes">           did not finish college</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>           This detail is presented in paragraph 2: "He dropped out
+of several colleges ... " To "drop out" is to leave before finishing (D).
+(A) is attractive because he went to colleges in New York but it doesn't say
+he went to <emphasis emphasis-type="italic"> New York University; </emphasis>(B)
+is attractive because a military academy can be confused with private school-in
+addition, Caulfield attended a private school; (C) is attractive because he
+did "drop out" of school, but it was college, not high school.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.06">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.inference"/></categoryRefs>
+<question-stem>
+<para>           According to the passage, Holden Caulfield is similar to
+J .D. Salinger in that</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           he is about the same age</answer-choice>
+<answer-choice>           he wants to be a writer</answer-choice>
+<answer-choice correct="yes">           he has attended several different
+schools</answer-choice>
+<answer-choice>           he is interested in popular culture</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>           This detail (C) is presented in paragraph 5, where the "parallel"
+between the writer and his character's educational career is noted. (A) is
+attractive because Caulfield's struggles occurred at the same age as Salinger's.
+(B) is noted only about Salinger. (D) is attractive because they both struggle
+with culture and fitting in, which is not the same as showing an "interest"
+(detached observation) in popular culture.</para>
+<para>           &emsp;         </para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.07">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.mainidea"/></categoryRefs>
+<question-stem>
+<para>           It can be inferred that Salinger was considered</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">           unstable</answer-choice>
+<answer-choice>           rebellious</answer-choice>
+<answer-choice>           a model citizen</answer-choice>
+<answer-choice>           a hero for youth</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>           (A) <emphasis emphasis-type="italic"> Unstable </emphasis>in
+this context means having a lack of emotional control. The author states in
+the last paragraph that some people suspect Salinger became a recluse because
+he'd had a mental breakdown. (B) is attractive because Salinger dropped out
+of school and his characters were rebellious. (C) is attractive because Salinger's
+character Caulfield became an "archetype," which is a model or prototype.
+(D) is attractive because</para>
+<para>           Salinger created the archetype for a "culture hero."</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.08">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.organization"/></categoryRefs>
+<question-stem>
+<para>           The author recounts the plot of <emphasis emphasis-type="italic"> The
+Catcher in the Rye</emphasis> in paragraph 5 in order to</para>
+<para>            Paragraph 5 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           make the passage more entertaining</answer-choice>
+<answer-choice correct="yes">           illustrate a similarity between Caulfield
+and Salinger</answer-choice>
+<answer-choice>           demonstrate how unconventional the novel was</answer-choice>
+<answer-choice>           support the claim that the novel's protagonist revolutionized
+popular culture</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="6"/></passage-arrow>
+<explanation interaction="true">
+<para>           In sentence 1 of paragraph 5 the author states that there
+are parallels between the lives of Salinger and Caulfield (B). After the plot
+is summarized, it is left to the reader to relate these events to Salinger's
+life in paragraph 2. The concepts of entertainment (A), unconventionality
+(B), and revolution (D) are not noted in paragraph 5.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.09">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.reference"/></categoryRefs>
+<question-stem>
+<para>           There are four squares [ <insertion-point enabled="no"/> ]
+in the passage. These squares represent places where the sentence below could
+be added to the passage.</para>
+<para>           <emphasis emphasis-type="bold">             The horrors and
+tragedies of what he saw there affected him deeply.</emphasis>         </para>
+<para>           Where would the sentence best fit?</para>
+<para class="question-direction">           Click on the square [ <insertion-point
+enabled="no"/> ] in the passage where the sentence fits the best.</para>
+</question-stem>
+<insert-sentence section-class="passage">
+<sentence>The horrors and tragedies of what he saw there affected him deeply.</sentence>
+<insertion-points>
+<insertion-point id="1"/>
+<insertion-point id="2"/>
+<insertion-point id="3" correctAnswer="yes"/>
+<insertion-point id="4"/></insertion-points>
+</insert-sentence>
+<explanation interaction="true">
+<para>           In this passage, the noun phrase "horrors and tragedies of
+what he saw there" could only apply to war, which is the topic of the sentence
+preceding (C). Also, the word <emphasis emphasis-type="italic"> there </emphasis>implies
+place, which is another clue to establishing coherence. The "places" noted
+in the other three positions are not related to war: (A) Salinger's lie; (B)
+Greenwich Village; (D) New York.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.010">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.diction"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> These</highlightSpan> in the passage
+refers to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           Salinger's war experiences</answer-choice>
+<answer-choice>           Salinger's literary influences</answer-choice>
+<answer-choice correct="yes">           Stories Salinger began writing before
+the war</answer-choice>
+<answer-choice>           Publishers to whom Salinger submitted his work.</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10101_010"/>
+<explanation interaction="true">
+<para>           The pronominal referent must precede the word <emphasis emphasis-type="italic"> these </emphasis>and
+must "form the basis" (or foundation) of Salinger's novel. Stories form the
+foundation of a book. A "series of stories" (C) is noted in the preceding
+sentence. His war experiences (A) were mentioned too early in the paragraph
+to be a referent for these. Neither publishers (D) nor literary influences
+(B) are mentioned in the passage.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.011">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.inference"/></categoryRefs>
+<question-stem>
+<para>           Which of the following best expresses the essential information
+in the highlighted sentence in the passage? Incorrect choices change the meaning
+in important ways or leave out essential information</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">           After <emphasis emphasis-type="italic"> The
+Catcher in the Rye</emphasis>, popular culture became more appreciative of
+rebellious, troubled figures.</answer-choice>
+<answer-choice>           Despite the example set by Holden Caulfield, youth
+heroes became more rebellious.</answer-choice>
+<answer-choice>           Holden Caulfield was inspired by figures like James
+Dean.</answer-choice>
+<answer-choice>           <emphasis emphasis-type="italic">             The
+Catcher in the Rye </emphasis>was based loosely on events in the life of James
+Dean.</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10101_011"/>
+<explanation interaction="true">
+<para>           Essential information noted in the highlighted sentence includes
+"bad boy" which means a rebellious, troubled figure, and "modern ... culture,"
+which means popular culture (A). That Salinger's bad boy archetype became
+a culture hero implies the culture appreciated (liked) the archetype. The
+other choices are incorrect because they do not paraphrase the sentence nor
+they are not true.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.012">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.nounphrases"/></categoryRefs>
+<question-stem>
+<para>           Which of the following statements most accurately reflects
+the author's opinion about J.D. Salinger?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           He is the most important author of the twentieth
+century.</answer-choice>
+<answer-choice>           He imitated the style of Ernest Hemingway.</answer-choice>
+<answer-choice>           His short stories are much stronger than his novels.</answer-choice>
+<answer-choice correct="yes">           His troubled characters are based
+on his own experiences.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>           The author parallels Salinger's life with Caulfield's  in
+paragraph 5. In paragraph 1 it is stated that the theme of reconciling innocence
+with reality runs through both Salinger's work and life. It is stated in paragraph
+9 that Salinger had in common with his characters a mental breakdown. All
+of these details make (D) the correct answer. None of the other choices are
+true, although each contains an element that is mentioned: Salinger is an
+acclaimed author, corresponds with Hemmingway, and writes short stories</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10101.013">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.nounphrases"/></categoryRefs>
+<question-stem>
+<para>           <emphasis emphasis-type="bold">Directions:</emphasis> The
+sentence below is an introductory sentence for a short summary of the passage.
+Select THREE answer choices from the chart that represent important ideas
+in the passage. Some sentences are incorrect because they contain information
+that was not in the passage or contain information that is a minor detail. <emphasis
+emphasis-type="italic"><emphasis emphasis-type="bold"> This question is worth </emphasis>2 <emphasis
+emphasis-type="italic"> points.</emphasis></emphasis></para>
+<para>           <emphasis emphasis-type="bold">             J.D. Salinger
+is an important figure in American literature.</emphasis>         </para>
+<!--The following para needs to be in grey box-->
+<para class="question-direction">           Use the mouse to drag the answer
+choices to the spaces where they belong. To remove an answer; choice, click
+on it. To look at the reading passage again, click on 'View Text.'</para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="no">           He created a memorable character who
+defined a generation.</answer-choice>
+<answer-choice correct="yes">           He is considered the founder of a
+new genre of literature</answer-choice>
+<answer-choice correct="no">           The life of his most famous character
+paralleled that of his own.</answer-choice>
+<answer-choice correct="yes">           The language used by his characters
+became the language of youth culture.</answer-choice>
+<answer-choice correct="yes">           Contemporary critics considered his
+use of inner monologue as a literary device revolutionary</answer-choice>
+<answer-choice correct="no">           After a prosperous writing career,
+he withdrew from public life.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>           (A) Salinger's character who defined a generation is noted
+in paragraph 1. (C) That Caulfield paralleled his own life is noted in paragraph
+5. (F) That Salinger withdrew from public life is noted in the last paragraph.</para>
+<para>           (B) is attractive because Salinger's character established
+an archetype, but this is not the same as creating a new genre of literature.
+(D) is incorrect because Salinger's writing captured the voice of disaffected
+youth, it did not create a new mode of expression. (E) is incorrect because
+Salinger masterfully used this device, he did not revolutionize (change) it.</para>
+</explanation>
+</question-set-member>
+</question-set>
+<question-set contentItemName="toeflPrac10102">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <emphasis emphasis-type="italic">             American Neoclassicism
+and the U.S. Capitol Building</emphasis>         </para>
+<para>           Visitors to America's capital city, Washington, D.C., have
+long been impressed by its majestic, white stone buildings and one in particular:
+the U.S. Capitol. With its lofty dome, triangular pediment depicting various
+historical scenes, and supporting row of columns, the building hearkens back
+to the temples of ancient Greece and Rome. These design elements, replicated
+in countless public buildings in the capital and around the country, were
+more than mere flights of fancy on the part of its designers. The building's
+visionaries were attempting to anchor the young democracy to the very cradle
+of Western civilization, while at the same time asserting the nation's own
+unique identity.<sentence-insertion-point id="1"></sentence-insertion-point></para>
+<para>           This incorporation of classic Greek and Roman <highlightSpan
+id="toeflPrac10102_01"> motifs</highlightSpan> in art and architecture&mdash;neoclassicism,
+as the movement came to be called&mdash;was not a novel idea at the time of
+the Capitol's design. The emerging field of archaeology yielded several previously
+undiscovered Roman ruins in the early 18th century, renewing appreciation
+for Greco-Roman architectural sophistication. <sentence-insertion-point id="2"></sentence-insertion-point>Enthusiasm
+for these physical forms was closely tied to the political and philosophical
+principles the re resented: democracy and rationalism. This was especially
+the case later in the century, as the ferment of democratic revolution grew,
+and archaeologists made spectacular discoveries at Pompeii and Herculaneum.</para>
+<para>           Imported from Great Britain, neoclassicism found expression
+in the American colonies, primarily in New England, and in the buildings of
+Edmund Woolley and Ebenezer Tomlinson. The Pennsylvania Statehouse (later
+named Independence Hall) is an outstanding example of American neoclassicism
+as it existed before the Revolutionary War, <highlightSpan id="toeflPrac10102_05"> Due
+to material and technical limitations, innovations were mostly confined to
+detail and ornamentation.</highlightSpan> It was not until after the Revolution
+and the opportunity <highlightSpan id="toeflPrac10102_02"> it</highlightSpan> afforded
+to fashion a capital city from the ground up that American neoclassicism assumed
+its unique and monumental character.<sentence-insertion-point id="3"></sentence-insertion-point></para>
+<para>           The American statesman most responsible for this shift was
+Thomas Jefferson, an architect in his own right. Unlike his New England compatriots,
+Jefferson's classical inspiration came largely by way of France, where he
+had spent a great deal of time before the Revolution and later as ambassador
+under President Washington. In the throes of its own democratic revolution,
+France similarly looked to the ancient world in erecting its new institutions
+and monuments. Jefferson was awed by Roman ruins, as well as more recent constructions
+that sought to resurrect not just the details, but the very scale and grandeur
+of ancient Roman temples.</para>
+<para>           Jefferson was emotionally and administratively involved in
+almost all aspects of the capital's design and construction, including the
+decision to entrust the task of planning the new city to tho French officer
+Charles L'Enfant. Jefferson's sensibilities were also reflected in the design
+for the capitol building, approved in a public competition in 1793. <sentence-insertion-point
+id="4"></sentence-insertion-point>Submitted by William Thornton, the plan
+was <highlightSpan id="toeflPrac10102_03"> reminiscent of</highlightSpan> the
+Roman Pantheon, with its distinctive circular rotunda, colonnade and dome.
+Jefferson's <highlightSpan id="toeflPrac10102_04"> fondness</highlightSpan> for
+the style, and the dome in particular, could be seen in the way he fashioned
+his own famous estate, Monticello. It is thus not surprising that this period
+is alternately referred to as the Idealistic or Jeffersonian era of American
+neoclassicism, and that the dome has become one of its defining features.</para>
+<para>           <catRef-GRAD-UQTopic categoryName="rc.vocab"/> Before it
+was completed in 1826, the Capitol building went through four a architects
+and one complete reconstruction after being burnt to the ground by the British
+in 1812. While its final form did not deviate greatly from Thornton's original
+design, the building's final architect, Benjamin Latrobe, is credited with
+imbuing the Capitol with a distinctively American sensibility. One of the
+building's most admired features, said to have been suggested by Jefferson,
+reflects this synthesis: the columns in the rotunda , whose orders were adorned
+with American crops like tobacco leaves and corn. It is a fitting irony that
+Latrobe, who has been given the title of America's first professional architect
+and would go on to design some of the country's most celebrated edifices,
+was an immigrant from England.</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10102.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> motifs</highlightSpan> in the passage
+is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           goals</answer-choice>
+<answer-choice correct="yes">           themes</answer-choice>
+<answer-choice>           ruins</answer-choice>
+<answer-choice>           artists</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_01"/>
+<explanation interaction="true">
+<para>           A <emphasis emphasis-type="italic"> motif </emphasis>is a
+central theme (B). A clue to meaning is in the same sentence: "movement,"<emphasis
+emphasis-type="italic"></emphasis>which in art and architecture implies a
+central organizing theme. (A) <emphasis emphasis-type="italic"> goals </emphasis>and
+(C) <emphasis emphasis-type="italic"> artist; </emphasis>are incorrect; neither
+could be incorporated into art and architecture. (C) <emphasis emphasis-type="italic"> ruins </emphasis>is
+attractive because ancient temples were mentioned in the previous paragraph.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.02">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.reference"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> it</highlightSpan> in paragraph
+3 refers to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           capital city</answer-choice>
+<answer-choice>           monumental character</answer-choice>
+<answer-choice correct="yes">           the Revolution</answer-choice>
+<answer-choice>           American neoclassicism</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_02"/>
+<explanation interaction="true">
+<para>           The pronominal referent must precede the word <emphasis emphasis-type="italic"> it. </emphasis>Part
+of the challenge here is to understand the function of <emphasis emphasis-type="italic"> it </emphasis>within
+this clause. Meaning becomes clearer if the clause is reordered such that
+the object follows the verb: "it afforded (made available) the opportunity
+to fashion (create) a capital city. The Revolution (C) made available such
+an opportunity. The other choices are attractive because they appear in the
+same paragraph.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.03">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The words <highlightSpan> reminiscent of</highlightSpan> in
+the passage are closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">           similar to</answer-choice>
+<answer-choice>           smaller than</answer-choice>
+<answer-choice>           copied from</answer-choice>
+<answer-choice>           confused with</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_03"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">             Reminiscent </emphasis>comes
+from the word remember and means a tendency to remind, which would require
+that the two items be (A) <emphasis emphasis-type="italic"> similar to </emphasis>each
+other. (C) copied <emphasis emphasis-type="italic"> from </emphasis>is attractive,
+because a copy would certainly remind one of the original. (D) <emphasis emphasis-type="italic"> confused
+with </emphasis>is attractive because two items that are similar might be
+confused with each other. (B) <emphasis emphasis-type="italic"> smaller than </emphasis>is
+incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.04">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> fondness</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           familiarity</answer-choice>
+<answer-choice>           talent</answer-choice>
+<answer-choice>           labor</answer-choice>
+<answer-choice correct="yes">           liking</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_04"/>
+<explanation interaction="true">
+<para>           (D) <emphasis emphasis-type="italic"> liking </emphasis>is
+a synonym of <emphasis emphasis-type="italic"> fondness. </emphasis>(A) <emphasis
+emphasis-type="italic"> familiarity</emphasis> is attractive because Jefferson
+would</para>
+<para>           have to be familiar with the style in order to use in fashioning
+his own estate,  but familiarity can be eliminated because it requires the
+preposition <emphasis emphasis-type="italic"> with, </emphasis>not <emphasis
+emphasis-type="italic"> for </emphasis>(which follows <emphasis emphasis-type="italic"> fondness). </emphasis>(B) <emphasis
+emphasis-type="italic"> talent </emphasis>and (C) <emphasis emphasis-type="italic"> labor </emphasis>are
+incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.05">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.diction"/></categoryRefs>
+<question-stem>
+<para>            Which of the following best expresses the essential information
+in the highlighted sentence in the passage? <emphasis emphasis-type="italic"> Incorrect </emphasis>choices
+change the meaning in important ways or leave out essential information.</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            A lack of resources limited the expression
+of   neoclassical architectural features in America</answer-choice>
+<answer-choice>            American colonists preferred to express neoclassicism
+in details rather than grand designs.</answer-choice>
+<answer-choice>            The only expressions of neoclassicism in America
+were seen in ornamentation.</answer-choice>
+<answer-choice>            Technical difficulties prevented American neoclassicists
+from attending to details.</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_05"/>
+<explanation interaction="true">
+<para>            Essential information noted in the highlighted sentence
+includes: "material and technical limitations," which means a lack of resources;
+"mostly confined to," which is paraphrased by "limited the expression of"
+and "detail and ornamentation," which is referred to as "architectural features."
+All of these are found in (A). Two other choices can be quickly eliminated
+because the paraphrased sentences use words contrary to the original statement:
+(B) preference is not noted; and (C) <emphasis emphasis-type="italic"> only </emphasis>implies
+severe restriction, the original uses <emphasis emphasis-type="italic"> mostly. </emphasis>(D)
+is incorrect because, due to technical limitations, neoclassicists "were mostly
+confined to details," not prevented from using detail.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.06">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            According to the passage, the original designer of the U.S.
+Capitol was</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            Ebenezer Tomlinson</answer-choice>
+<answer-choice>            Thomas Jefferson</answer-choice>
+<answer-choice correct="yes">            William Thornton</answer-choice>
+<answer-choice>            Benjamin Latrobe</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail is presented in paragraph 5, where it is stated
+that William Thornton (C) submitted a plan. The preceding sentence states
+that a public competition was held for design of the Capitol. (A) is attractive
+because Ebenezer Tomlinson applied neoclassicist design principles to buildings
+in Pennsylvania. (B) is attractive because Thomas Jefferson influenced the
+design of the Capitol. (D) is attractive because Benjamin Latrobe was the
+final architect of the Capitol.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.07">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            In the passage, all of the following are given as reasons
+for the rise of neoclassicism EXCEPT</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            the development of the field of archaeology</answer-choice>
+<answer-choice>            political revolution</answer-choice>
+<answer-choice>            the discoveries at Pompeii</answer-choice>
+<answer-choice correct="yes">            Washington's time spent in France</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            Paragraph 2 states that archaeological discoveries led to
+increased interest in neoclassicism; thus (A) is not the answer. Paragraph
+4 states that one result of the French Revolution was an interest in neoclassicism;
+thus (B) is not the answer. (C) is related to (A); paragraph 2 states that
+the discoveries at Pompeii were "especially" connected to "enthusiasm" for
+neoclassical forms. This leaves (D) as the answer; no mention is made of Washington
+spending time in France or of Washington being connected to the rise of neoclassicism
+(it was Jefferson who spent time in France and who later was interested in
+neoclassicism).</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.08">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            All of the following are true about Thomas Jefferson EXCEPT</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            He admired Greco-Roman architecture</answer-choice>
+<answer-choice correct="yes">            He hired Charles L'Enfant to build
+Monticello</answer-choice>
+<answer-choice>            He served as ambassador to France</answer-choice>
+<answer-choice>            He was involved in the planning and design of Washington,
+D.C.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            Here, it is essential to find the statement that is  NOT
+true. (C) is correct because in paragraph five it states that Jefferson "fashioned
+[designed] his own famous estate, Monticello," therefore he could not have
+hired Charles L'Enfant to do it, Jefferson did hire L'Enfant to design the
+capital city. The other choices are all true (and therefore not the correct
+answer): (A) is noted in paragraph 3; (C) is noted in paragraph 4; (D) is
+noted in paragraph 5.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.09">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.mainidea"/></categoryRefs>
+<question-stem>
+<para>            In paragraph two, the author explains the interest in neoclassicism
+in the 18th century by</para>
+<para>            Paragraph 2 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            discussing the discovery of archaeological
+sites from ancient Greece and Rome</answer-choice>
+<answer-choice>            demonstrating the connection between democratic
+revolutions and ancient Greece</answer-choice>
+<answer-choice>            pointing out the European royalty's admiration
+for ancient Rome</answer-choice>
+<answer-choice>            asserting that European culture had been influenced
+by ancient Greece and Rome for centuries</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="3"/></passage-arrow>
+<explanation interaction="true">
+<para>            In sentence 2 of paragraph 2, the author notes that the
+"emerging field of archaeology" yielded new discoveries of Roman ruins and
+thus renewed appreciation for Greco-Roman architecture (A). The author then
+links the new enthusiasm to the growing interest in democracy. (B) is attractive
+because democratic revolution is mentioned; however, no connection to ancient
+Greece is made. (C) is incorrect; royalty is not mentioned. (D) is incorrect;
+neither culture nor centuries are mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.010">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.organization"/></categoryRefs>
+<question-stem>
+<para>            There are four squares [ <insertion-point enabled="no"/> ]
+in the passage. These squares represent places where the sentence below could
+be added to the passage.</para>
+<para>           <emphasis emphasis-type="bold">              Jefferson carried
+this grand vision back to America with him.</emphasis>         </para>
+<para>            Where would the sentence best fit?</para>
+<para class="question-direction">            Click on the square [ <insertion-point
+enabled="no"/> ] in the passage where the sentence fits the best.</para>
+</question-stem>
+<insert-sentence section-class="passage">
+<sentence>Jefferson carried this grand vision back to America with him.</sentence>
+<insertion-points>
+<insertion-point id="1"/>
+<insertion-point id="2"/>
+<insertion-point id="3"/>
+<insertion-point id="4" correctAnswer="yes"/></insertion-points>
+</insert-sentence>
+<explanation interaction="true">
+<para>            There are two main ideas in the new sentence: "grand vision"
+and "carried ... back to America with him." The sentence preceding (D) discusses
+subject matter that qualifies as a grand vision: new construction that "sought
+to resurrect ... the very scale and grandeur of ancient Roman  temples" This
+passage also discusses Jefferson's visit to France, which would lead naturally
+to a statement about bringing an idea "back to America." Passages preceding
+the other choices are incorrect because: (A) Edmund Woolley and Ebenezer Tomlinson
+are noted, not Jefferson; (B) no mention of travel is made; (C) classical
+inspiration is noted, but is not discussed as a grand vision.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.011">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            An important feature of American neoclassicism is</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            artwork depicting American crops</answer-choice>
+<answer-choice>            ornamentation</answer-choice>
+<answer-choice correct="yes">            a dome</answer-choice>
+<answer-choice>            Greek inscriptions</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail is presented in the last sentence of paragraph
+5 where it is stated that the dome (C) became one of the defining features
+of American neoclassicism. (A) is attractive because depiction of American
+crops on the columns in the Capitol's rotunda is noted in paragraph 6. However,
+it is not said that this feature appeared regularly American neoclassicism.
+Ornamentation (B) is too general to be a defining feature; most architectural
+styles have ornamentation. (D) Greek inscriptions are not mentioned in the
+passage.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.012">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.verbs"/></categoryRefs>
+<question-stem>
+<para>           <emphasis emphasis-type="italic">             <emphasis emphasis-type="bold">
+             Directions:</emphasis>           </emphasis> Select the appropriate
+names and phrases and match them with the period of American neoclassicism
+with which they are associated.<emphasis emphasis-type="italic"><emphasis
+emphasis-type="bold"> This question is worth 2 points.</emphasis></emphasis></para>
+<!--The following para needs to be in grey box-->
+<para>            Use the mouse to drag the answer choices to the spaces where
+they belong. To remove an answer choice from the placeholder, click on it.
+To look at the reading passage again, click on 'View Text.'</para>
+<para align="center">           <emphasis emphasis-type="bold">
+  <centered-info>Pre-Revolution American Neoclassicism</centered-info>
+       </emphasis>         </para>
+<!--Should be divided in 2 groups.-->
+<!--First group has 2 bullets and should be entitled 'Pre-Revolution American Neoclassicism'-->
+<!--Second group has 3 bullets and should be entitled 'Post-Revolution American Neoclassicism'-->
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="2" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="no">            Jeffersonian era</answer-choice>
+<answer-choice correct="yes" group="1">            Edmund Wooley</answer-choice>
+<answer-choice>            Wrought-iron railings</answer-choice>
+<answer-choice correct="yes" group="1">            Pennsylvania Statehouse</answer-choice>
+<answer-choice correct="no">            Benjamin Latrobe</answer-choice>
+<answer-choice correct="no">            United States Capitol</answer-choice>
+<answer-choice>            Pantheon</answer-choice>
+<answer-choice>            George Washington</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            In order to answer this question, you must understand that
+the U.S. Capitol (F) was not built until after the American Revolution, and
+you must select answers that relate to American neoclassicism.</para>
+<para>           <emphasis emphasis-type="italic">              Pre-Revolution
+American Neoclassicism: </emphasis>(B) Edmund Wooley and (D) the Pennsylvania
+Statehouse are correct because paragraph 3 clearly states that Edmund Wooley
+was one of the people who designed the Pennsylvania Statehouse "before the
+Revolutionary War."</para>
+<para>           <emphasis emphasis-type="italic">              Post-Revolution
+American Neoclassicism: </emphasis>In paragraph 5, the Jeffersonian era (A)
+is linked to the building of the U.S. Capitol, which expressed neoclassicism.
+Benjamin Latrobe (E) was the Capitol's (F) final architect.</para>
+<para>           <emphasis emphasis-type="italic">              None: </emphasis>(C)
+is not mentioned in the passage. (G) is attractive because the Capitol is
+"reminiscent" of the Pantheon; however, the Pantheon is not an American building,
+nor is it neoclassical. (H) is not an answer because George Washington is
+only mentioned briefly in the passage (he was president when Jefferson was
+ambassador to France), and not in relation to neoclassicism.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.012b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.verbs"/></categoryRefs>
+<question-stem>
+<para>           <emphasis emphasis-type="italic">             <emphasis emphasis-type="bold">
+             Directions:</emphasis>           </emphasis> Select the appropriate
+names and phrases and match them with the period of American neoclassicism
+with which they are associated. <emphasis emphasis-type="italic"><emphasis
+emphasis-type="bold"> This question is worth 2 points.</emphasis></emphasis></para>
+<!--The following para needs to be in grey box-->
+<para>            Use the mouse to drag the answer choices to the spaces where
+they belong. To remove an answer choice from the placeholder, click on it.
+To look at the reading passage again, click on 'View Text.'</para>
+<para align="center">           <emphasis emphasis-type="bold">
+  <centered-info>Post-Revolution American Neoclassicism</centered-info>
+        </emphasis>         </para>
+<!--Should be divided in 2 groups.-->
+<!--First group has 2 bullets and should be entitled 'Pre- Revolution American Neoclassicism'-->
+<!--Second group has 3 bullets and should be entitled 'Post- Revolution American Neoclassicism'-->
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="yes" group="1">            Jeffersonian era</answer-choice>
+<answer-choice correct="no">            Edmund Wooley</answer-choice>
+<answer-choice>            Wrought-iron railings</answer-choice>
+<answer-choice correct="no">            Pennsylvania Statehouse</answer-choice>
+<answer-choice correct="yes" group="1">            Benjamin Latrobe</answer-choice>
+<answer-choice correct="yes" group="1">            United States Capitol</answer-choice>
+<answer-choice>            Pantheon</answer-choice>
+<answer-choice>            George Washington</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            In order to answer this question, you must understand that
+the U.S. Capitol (F) was not built until after the American Revolution, and
+you must select answers that relate to American neoclassicism.</para>
+<para>           <emphasis emphasis-type="italic">              Pre-Revolution
+American Neoclassicism: </emphasis>(B) Edmund Wooley and (D) the Pennsylvania
+Statehouse are correct because paragraph 3 clearly states that Edmund Wooley
+was one of the people who designed the Pennsylvania Statehouse "before the
+Revolutionary War."</para>
+<para>           <emphasis emphasis-type="italic">              Post-Revolution
+American Neoclassicism: </emphasis>In paragraph 5, the Jeffersonian era (A)
+is linked to the building of the U.S. Capitol, which expressed neoclassicism.
+Benjamin Latrobe (E) was the Capitol's (F) final architect.</para>
+<para>           <emphasis emphasis-type="italic">              None: </emphasis>(C)
+is not mentioned in the passage. (G) is attractive because the Capitol is
+"reminiscent" of the Pantheon; however, the Pantheon is not an American building,
+nor is it neoclassical. (H) is not an answer because George Washington is
+only mentioned briefly in the passage (he was president when Jefferson was
+ambassador to France), and not in relation to neoclassicism.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.013">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            According to the passage, what is the significance of the
+designs found on the columns in the Capitol's rotunda?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            They reflect the use of distinctly American stone-working
+technique.</answer-choice>
+<answer-choice>            They show the genius of Benjamin Latrobe.</answer-choice>
+<answer-choice correct="yes">            They are a uniquely American expression
+of neoclassicism</answer-choice>
+<answer-choice>            They demonstrate Thomas Jefferson's willingness
+to compromise on design decisions.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            The main idea of the passage is how neoclassicism is expressed
+in American architecture. In the last paragraph the author notes that the
+designs on the rotunda's columns reflect a distinctly American sensibility."
+This detail (C) relates to the main idea. The other three choices are not
+true.</para>
+</explanation>
+</question-set-member>
+</question-set>
+<question-set contentItemName="toeflPrac10103">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <emphasis emphasis-type="italic">             Agonistic Displays</emphasis>
+       </para>
+<para>           Animals exhibit many kinds of display behavior. Among the
+most familiar are courtship displays used when animals intend to mate. Another
+well-known set of display patterns are termed <highlightSpan id="toeflPrac10103_01"> agonistic</highlightSpan> ;
+these are displays used by animals in situations involving attack, escape,
+or fear. Scientists have discovered that there are three <highlightSpan id="toeflPrac10103_02"> discrete</highlightSpan> types
+of motor patterns used as basic building blocks for agonistic displays, all
+of which arise out of conflict between competing emotional motivations. Most
+agonistic displays are derived from these three sets of motor patterns.<sentence-insertion-point
+id="1"></sentence-insertion-point></para>
+<para>           The first motor pattern consists of irrelevant actions, which
+animal behaviorists call displacement activities. These are actions that appear
+to be performed in inappropriate contexts. In one experimental setting, male
+Wood Thrushes put in a position that required a choice between attacking <emphasis
+emphasis-type="italic"> or </emphasis>fleeing would begin to scratch, or clean
+their wings, eat,   or even sleep. Examples of a displacement activity in
+humans would be chewing one's nails or drumming one's fingers on the table
+when nervous, or whistling when scared. In such situations, there seems to
+be a feeling that an action-any action-is called for, whether it is appropriate
+or not. Displacement activities usually consist of actions normally associated
+with parts of an individual's daily maintenance routine-actions such as preening,
+scratching, yawning, stretching, and eating.</para>
+<para>           The second motor pattern consists of actions performed in
+the correct contexts, but directed towards the wrong objects, and are called
+redirected activities. These are most common when an initial intention is <highlightSpan
+id="toeflPrac10103_04"> thwarted</highlightSpan>, or otherwise unable to be
+completed. <sentence-insertion-point id="2"></sentence-insertion-point>For
+example, a male bird might be unable or unwilling to risk attacking another
+larger bird invading his territory, and in stead peck at the branch upon which
+he is perched. A dog on a leash might be tempted to bite another dog, but
+restrained by its owner from doing so, <highlightSpan id="toeflPrac10103_05"> it</highlightSpan> tries
+to bite its owner or a nearby object. An employee angry with his boss might
+yell at a friend or relative. Redirected activities, like displacement activities,
+arise out of conflict between motivations, and convey information about the
+emotional<highlightSpan id="toeflPrac10103_06"> state</highlightSpan> of the
+animal.</para>
+<para>           The third motor pattern consists of uncompleted initial stages
+of ordinary actions, called intention movements. Examples would be birds crouching
+just before taking off, or someone making a fist before hitting another person.
+The bird may not actually take off, and a person may not actually strike the
+opponent, but the intent has been signaled. An emotional conflict arises out
+of whether to follow through on the act once it has been signaled as having
+begun. These intention movements reveal information about the animal's emotional
+state.</para>
+<para>           Displacement activities, redirected activities, and intention
+movements all convey information about the animal's motivations and emotional
+state. <sentence-insertion-point id="3"></sentence-insertion-point>Over time,
+exaggeration and stereotyping ritualize these behaviors and incorporate them
+into displays. The exaggeration and stereotyping of the components of a display
+are important in creating unambiguous communication. If the movements vary
+too much between individuals within a species, or in one individual over time,
+then the information content becomes less clear.</para>
+<para>           While the information content of an agonistic display may
+be clear to the animals involved, it is less so to the scientists who study
+displays. Several key questions about agonistic displays remain unanswered:
+Do displays always reveal the true intentions of an animal? Do animals ever
+use displays to bluff or lie about their intentions?</para>
+<para>           Some scientists argue that it makes sense for animals to
+bluff. <highlightSpan id="toeflPrac10103_010"> If a display signaling a readiness
+to attack a rival over a food resource results in the rival's departure, then
+it is worth signaling, even if there is no true resolve to fight.</highlightSpan> In
+theory, an animal that always signals it intends to attack, regardless of
+its actual intention, will initially win more contests than one that signals
+honestly.<sentence-insertion-point id="4"></sentence-insertion-point></para>
+<para>           However, other researchers have pointed out that if winning
+contests plays a major role in gaining reproductive success, cheaters sending
+false signals would spread through the population rapidly, Soon, others would
+learn to ignore these signals. If the reliability of the information contained
+in the display decreases over time, eventually there would no point in reacting
+to it.</para>
+<para>           Much more research is needed before scientists have a full
+understanding of the complex information content and actual uses of agonistic
+displays.</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10103.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            Based on the information in paragraph 1, <highlightSpan> agonistic</highlightSpan> display
+patterns</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            involve injury, pain, or suffering</answer-choice>
+<answer-choice>            help others through self-sacrifice</answer-choice>
+<answer-choice correct="yes">            have to do with attacking, escaping,
+or being afraid</answer-choice>
+<answer-choice>            show intent to perform an action before it is actually
+performed</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_01"/>
+<explanation interaction="true">
+<para>            In paragraph 1, <emphasis emphasis-type="italic"> agonistic </emphasis>is
+defined as "display used by animals in situations involving attack, escape,
+or fear." Therefore, (C) is correct. (A) is attractive because an animal might
+suffer injury or pain in such a situation. (B) is not mentioned. (D) is attractive
+because "intention movements" are mentioned in paragraph 4.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.02">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> discrete</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            distinct</answer-choice>
+<answer-choice>            similar</answer-choice>
+<answer-choice>            cautious</answer-choice>
+<answer-choice>            unknown</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_02"/>
+<explanation interaction="true">
+<para>            In this sentence <emphasis emphasis-type="italic"> discrete </emphasis>is
+an adjective modifying the word <emphasis emphasis-type="italic"> types. Discrete </emphasis>means
+separate or distinct (A). The passage goes on to describe three distinct types
+of motor patterns, which is a clue to meaning. (B) <emphasis emphasis-type="italic"> similar </emphasis>is
+attractive because the sentence speaks about building blocks, which might
+lead one to guess that the types of motor patterns are similar. (C) <emphasis
+emphasis-type="italic"> cautious </emphasis>is attractive because agonistic
+behaviors deal with situations that call for caution. (D) <emphasis emphasis-type="italic"> unknown </emphasis>is
+incorrect; a clue to meaning is that the passage goes on to describe the patterns,
+which would be impossible if they were unknown.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.03">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            What do animal behaviorists call acts that seem to be inappropriate
+for their contexts?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            bluffing</answer-choice>
+<answer-choice>            redirected activities</answer-choice>
+<answer-choice>            agnostic movements</answer-choice>
+<answer-choice correct="yes">            displacement activities</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This question requires you to link information in two sentences.
+The first sentence of paragraph 2 describes "irrelevant actions" called displacement
+activities (D). The following sentence states the actions are inappropriate
+for their contexts. (A) <emphasis emphasis-type="italic"> bluffing</emphasis> is
+not discussed in relation to any particular pattern typo (paragraphs 6 and
+7). In addition, it would <emphasis emphasis-type="italic"> not</emphasis> be
+inappropriate for an animal to bluff a rival over a food source. (B) <emphasis
+emphasis-type="italic"> redirected</emphasis><emphasis emphasis-type="italic"> activities</emphasis> is
+incorrect; see paragraph 3. (C) <emphasis emphasis-type="italic"> agonistic</emphasis><emphasis
+emphasis-type="italic"> movements</emphasis> is attractive because all the
+movement patterns are agonistic; this answer is too general.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.04">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> thwarted</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            replaced</answer-choice>
+<answer-choice correct="yes">            prevented</answer-choice>
+<answer-choice>            attempted</answer-choice>
+<answer-choice>            destroyed</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_04"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">              Thwarted</emphasis> means
+to oppose successfully, which in this case would stop or (B) prevent the action.
+A clue to meaning is in the next clause : "unable to be completed." (A) <emphasis
+emphasis-type="italic"> replaced </emphasis>is attractive because the paragraph
+describes animals that direct action toward wrong objects, and thus could
+be said to replace one object for another. (C) <emphasis emphasis-type="italic"> attempted
+ </emphasis>is attractive because an animal may attempt one action and have
+to redirect its behavior. (D) <emphasis emphasis-type="italic"> destroyed</emphasis> means
+to put out of existence, which makes it attractive. However, the intention
+is not eliminated; it continues to exist, but is prevented.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.05">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.reference"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> it</highlightSpan>in paragraph
+3 refers to</para>
+<para>            Paragraph 3 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            a dog</answer-choice>
+<answer-choice>            a leash</answer-choice>
+<answer-choice>            a temptation</answer-choice>
+<answer-choice>            an object</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_05"/>
+<passage-arrow>
+<arrowSpan para-index="4"/></passage-arrow>
+<explanation interaction="true">
+<para>            The pronominal referent must precede the word It and must
+possess the ability to "try to bite its owner." The first clause of the sentence
+notes a dog that  "might be tempted to bite," therefore (D) dog is the correct
+answer. (B) a leash, (C) a <emphasis emphasis-type="italic"> temptation</emphasis>,
+and (D) an object are incorrect and could be eliminated quickly as none can
+bite its owner.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.06">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> state</highlightSpan> in the passage
+is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            country</answer-choice>
+<answer-choice>            express</answer-choice>
+<answer-choice>            explain</answer-choice>
+<answer-choice correct="yes">            condition</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_06"/>
+<explanation interaction="true">
+<para>            In this sentence <emphasis emphasis-type="italic"> state</emphasis> is
+used as a noun and is  modified by the adjective <emphasis emphasis-type="italic"> emotional</emphasis>,
+which is a  clue to meaning: emotional condition (D) . Of the 4  words presented,
+only (A) <emphasis emphasis-type="italic"> country</emphasis> and (D)  <emphasis
+emphasis-type="italic"> condition</emphasis> are nouns. (A) is attractive
+because a  state is part of a country, however, it can be  eliminated because
+a country cannot be described  as emotional. (B) <emphasis emphasis-type="italic"> express</emphasis> and
+(C) <emphasis emphasis-type="italic"> explain</emphasis>, both  verbs, are
+attractive because they are synonyms  of <emphasis emphasis-type="italic"> state</emphasis> in
+its verb form.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.07">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            An important factor in creating display patterns is</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            vocalization of intent</answer-choice>
+<answer-choice>            repetition of complex acts</answer-choice>
+<answer-choice correct="yes">            stereotyping of behaviors</answer-choice>
+<answer-choice>            recognition of individual's markings</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail is presented in paragraph 5. Stereotyping (C)
+is mentioned in the second and third sentences. The importance of this factor
+in creating display patterns is explained in sentences 3 and 4. (A) is not
+mentioned. (B) is attractive because stereotyping can be defined as the repetition
+of complex acts . (D) is not mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.08">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            Which of the following is mentioned as a potential cause
+for miscommunication?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            Variation in display movements</answer-choice>
+<answer-choice correct="no">            Display movements that are similar</answer-choice>
+<answer-choice correct="no">            Poor execution of display movements</answer-choice>
+<answer-choice correct="no">            Introduction of new display movements</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail (A) is presented in the last sentence of paragraph
+5. A due to meaning is the phrase "unambiguous [clear] communication" in the
+preceding sentence, which locates the topic of communication. One must also
+understand that in the last sentence, "information content becomes less clear"
+means that miscommunication occurs. (B), (C), and (D) are attractive because
+each would logically result in miscommunication, however, none of these are
+mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.09">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.mainidea"/></categoryRefs>
+<question-stem>
+<para>            In paragraph 6, the author illustrates that there are unresolved
+issues regarding information content in agonistic displays by</para>
+<para>            Paragraph 6 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            posing questions</answer-choice>
+<answer-choice correct="no">            citing examples of faulty research</answer-choice>
+<answer-choice correct="no">            describing the problems in detail</answer-choice>
+<answer-choice correct="no">            quoting the works of a well-known
+scientist</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="7"/></passage-arrow>
+<explanation interaction="true">
+<para>            In the first sentence of this paragraph the author introduces
+the idea that the information content of agonistic displays may be unclear
+to scientists. The author then poses or asks questions (A), each of which
+opens an area of doubt to be examined. Authors often use this device to illustrate
+unresolved issues. (B), (C), and (D) are incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.010">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.diction"/></categoryRefs>
+<question-stem>
+<para>            Which of the following best expresses the essential information
+in the highlighted sentence in the passage? <emphasis emphasis-type="italic"> Incorrect </emphasis>choices
+change the meaning in important ways or leave out essential information.</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="no">            If an animal does not have the resolve
+to fight, it should not signal a readiness to attack.</answer-choice>
+<answer-choice correct="yes">            When signaling willingness to fight
+is enough to scare away rivals, then it should be done.</answer-choice>
+<answer-choice correct="no">            By attacking rivals for food resources,
+an animal signals that it is superior and therefore the best mate.</answer-choice>
+<answer-choice correct="no">            It is worth signaling the ownership
+of a rival's food resource if the rival does not have the resolve to fight.</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_010"/>
+<explanation interaction="true">
+<para>            Essential information noted in the highlighted sentence
+includes three key phrases that are paraphrased in (B). "Readiness to attack"
+can be paraphrased as "willingness to fight." "Results in the rival's departure"
+is similar to "'scare away rivals," although the original phrase does not
+include the concept of fear. "Then it is worth signaling" implies "it should
+be done." The meaning of the second clause in (A) is contrary to that of the
+highlighted statement. (C) is incorrect; the quality of being a superior mate
+is not mentioned. (D) is incorrect; not having the resolve to fight is mentioned
+in relation to the animal that attacks a rival, not the rival.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.011">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.organization"/></categoryRefs>
+<question-stem>
+<para>            There are four squares [ <insertion-point enabled="no"/> ]
+in the passage. These squares represent places where the sentence below could
+be added to the passage.</para>
+<para>           <emphasis emphasis-type="bold">              Dishonest most
+likely results in the extinction of a display behavior.</emphasis>
+ </para>
+<para>            Where would the sentence best fit?</para>
+<para class="question-direction">            Click on the square [ <insertion-point
+enabled="no"/> ] in the passage where the sentence fits the best.</para>
+</question-stem>
+<insert-sentence section-class="passage">
+<sentence>Dishonest most likely results in the extinction of a display behavior.</sentence>
+<insertion-points>
+<insertion-point id="1"/>
+<insertion-point id="2"/>
+<insertion-point id="3" correctAnswer="yes"/>
+<insertion-point id="4"/></insertion-points>
+</insert-sentence>
+<explanation interaction="true">
+<para>            The key to coherence here is found in the words dishonesty
+and extinction. The sentence preceding (C) discusses tho reliability of information
+that decreases over time1 which forms a link to dishonesty. This sentence
+also introduces the idea of no longer reacting to a display, which leads naturally
+to a statement about the extinction (elimination) of a display behavior. (A)
+is attractive because dishonesty can be confused with information content
+becoming less dear. But dishonesty requires intent to deceive, which is not
+a factor here. (B) is attractive because honestly appears in the preceding
+sentence. But, t his sentence indicates that an animal that signals dishonestly
+will win, which is opposite in meaning to the new sentence. (D) is entirely
+unrelated.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.012">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.inference"/></categoryRefs>
+<question-stem>
+<para>            Based on the information in paragraph 7 and paragraph 8,
+what can be inferred about bluffing?</para>
+<para>            Paragraph 7 and paragraph 8 are marked with arrows [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            It is not a genetic trait.</answer-choice>
+<answer-choice>            Most animals will bluff under certain conditions.</answer-choice>
+<answer-choice>            There is no scientific evidence to suggest that
+animals bluff.</answer-choice>
+<answer-choice correct="yes">            Scientists disagree as to whether
+it is advantageous for animals to bluff.</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="8"/>
+<arrowSpan para-index="9"/></passage-arrow>
+<explanation interaction="true">
+<para>            Paragraph 7 discusses why scientists believe that it would
+be advantageous for animals to bluff, and paragraph 8 takes the opposite position.
+Thus, the author infers that scientists disagree (D). (A) is incorrect; the
+author infers that bluffing Is a genetic trait by stating that "cheaters would
+spread through the population rapidly ." (B) is incorrect; neither paragraph
+states that animals actually bluff. Both paragraphs discuss imagined behavior.
+(C) is incorrect; while both paragraphs discuss imagined behavior--which is
+not scientific evidence--the concept of lack of scientific evidence is not
+mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.013">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.nounphrases"/></categoryRefs>
+<question-stem>
+<para>            Directions: The sentence below is an introductory sentence
+for a short summary of the passage. Select THREE answer choices from the chart
+that represent important ideas in the passage. Some sentences are incorrect
+because they contain information that was not in the passage or contain information
+that is a minor detail. <emphasis emphasis-type="italic"><emphasis emphasis-type="bold"> This
+question is worth 2 points</emphasis>.</emphasis></para>
+<para>           <emphasis emphasis-type="bold">             The components
+of agonistic displays arise from conflicting emotional motivations and can
+be characterized as belonging to one of three basic categories.</emphasis>
+       </para>
+<!--The following para should be in a grey box-->
+<para class="question-direction">            Use the mouse to drag the answer
+choices tothe spaces where they belong. To remove an answer choice, click
+on it. To look at the reading passage again, click on 'View Text.'</para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="no">            Animal behaviorists recognize displacement
+activities, redirected activities, and intention movements as being the building
+blocks of all agonistic displays.</answer-choice>
+<answer-choice correct="yes">            All emotional motivations are centered
+on enhancing access to food, shelter", and mates.</answer-choice>
+<answer-choice correct="no">            Agonistic displays convey information
+about an animal's emotional frame of mind.</answer-choice>
+<answer-choice correct="yes">            Of these three, intention movements
+convey the most information , and are therefore the most likely to be observed.</answer-choice>
+<answer-choice correct="yes">            The three categories of behavior
+animal behaviorists most often display are displacement activities, redirected
+activities, and intention movements.</answer-choice>
+<answer-choice correct="no">            Exaggeration and stereotyping of these
+three components is important in creating the final displays .</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            A summary of the passage should note the 3 types of agonistic
+displays, which (A) does successfully. Competing emotional motivations (C)
+are identified in paragraph 1 as basic to agonistic displays; this idea is
+restated in paragraph s. Paragraph 5 states that exaggeration and stereotyping
+are important.</para>
+<para>            (B) and (D) do not appear in the passage. Throughout the
+passage, the word <emphasis emphasis-type="italic"> display </emphasis>appears
+as a noun or an adjective (e.g., display pattern). (E) uses <emphasis emphasis-type="italic"> display </emphasis>as
+a verb and incorrectly attributes the action to behaviorists .</para>
+</explanation>
+</question-set-member>
+</question-set>
+<question contentItemName="toeflPrac10207">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the librarian say about the printer?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10207.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice> It is not working.</answer-choice>
+<answer-choice correct="yes">          It is slow</answer-choice>
+<answer-choice> It requires a pass code to use.</answer-choice>
+<answer-choice> It is on the second floor.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> Because the librarian says that the printer is a little slow and that
+the student may have to wait a minute or two for it to print, (B) is correct.
+(A) is contrary to fact (it <emphasis emphasis-type="italic"> is </emphasis>working).
+The printer requires an 10 number, not a pass code (C), and there is no mention
+of the floor where the printer is located (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10219">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> Why is little known about the Caribbean monk seal?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10219.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice correct="yes">          It lived in extremely remote parts
+of the Caribbean sea.</answer-choice>
+<answer-choice> It never attracted the interest of scientists.</answer-choice>
+<answer-choice> It was difficult to catch in the wild.</answer-choice>
+<answer-choice> It became extinct before scientists could study it in-depth.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor begins his lecture by stating that little is known about
+the Caribbean monk seal because it was not studied in depth until after it
+had vanished (D). (B) contradicts this statement, so it is wrong. (A) and
+(C) are not mentioned as reasons why little is known about the species.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10226">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say about the 1908 Tunguska asteroid?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10226.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes">
+<answer-choice> It came down only 200 miles from Tunguska.</answer-choice>
+<answer-choice correct="yes"> It hit Earth with a force equal to about 15
+million tons of TNT.</answer-choice>
+<answer-choice> It was the last asteroid to hit Earth.</answer-choice>
+<answer-choice correct="yes"> It landed in a low-population area.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states specifically that the Tunguska impact contained
+roughly the same about of force as 15 million tons of TNT (B). He also states
+that the area was nearly <emphasis emphasis-type="italic"> uninhibited, </emphasis>which
+means it had a low-population (D). It was a <emphasis emphasis-type="italic"> 200-foot
+asteroid, </emphasis>not 200 miles away (A), We don't know (C) to be a fact.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10232">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.organization"/></categoryRefs>
+<question-stem>
+<para> How does the professor characterize the spoken language children use
+before they enter school?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10232.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> As primarily short sentences using simple words and phrases</answer-choice>
+<answer-choice> As more advanced than the language they use in reading and
+writing</answer-choice>
+<answer-choice correct="yes"> As centered on contexts involving "here" and
+"now"</answer-choice>
+<answer-choice> As grammatically inaccurate most of the time</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that the conversations of pre-schoolers are <emphasis
+emphasis-type="italic"> usually about </emphasis>things and people "here"
+and "now," so (C) is correct. (A) is incorrect because the professor states
+that written sentences are longer (than spoken sentences), but she doesn't
+limit this characteristic to pre-schoolers. (B) is false, and while she states
+that, in general, there are grammatical errors in spoken language, she does
+not state that pre-school children make mistakes in their language use "most
+of the time," so (D) is not correct.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10201">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What reason did the student give for starting a new job?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10201_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> He needs more spending money.</answer-choice>
+<answer-choice correct="yes"> He needs money to pay for school.</answer-choice>
+<answer-choice> He wants valuable work experience.</answer-choice>
+<answer-choice> He wants to earn credit towards graduation.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (B) is correct because the student had to take on (accept) extra work
+in order to pay for the rise in tuition, to earn more money for college, not
+to spend on other miscellaneous things (A). There is no mention that he wants
+the work experience (C) or that he will receive college credit for his work
+(D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10202">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the student say regarding his work?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10202.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> His bakery job does not have a set schedule.</answer-choice>
+<answer-choice correct="yes"> His Environmental Systems job ends in four weeks.</answer-choice>
+<answer-choice> His job at the bakery conflicts with the class schedule.</answer-choice>
+<answer-choice> His Environmental Systems job begins at the end of the semester.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (B) is correct because the student says that his job will last only
+another four weeks. His bakery job's hours are late at night and do not conflict
+with his class hours (A, C). His Environmental Systems job ends in four weeks,
+one week after the midterm (mid-semester), rather than starting at the end
+(D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10203">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor suggest that the student do?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10203.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> Drop the class</answer-choice>
+<answer-choice> Reduce the number of hours he works</answer-choice>
+<answer-choice> Get ahead on the course reading</answer-choice>
+<answer-choice correct="yes"> Attend a later class section</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (D) is correct because the professor offers the student a position
+in the 10:00 A.M. class instead of in his current 8:00 A.M. class. Though
+the other three options are logical, the professor does not mention them to
+the student so they are incorrect.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10204">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the Professor say this?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10204_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> To indicate agreement with the student</answer-choice>
+<answer-choice> To encourage the student to elaborate</answer-choice>
+<answer-choice> To ask the student to repeat his question</answer-choice>
+<answer-choice> To end the discussion with the student</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (A) is correct because the function of the idiomatic expression "tell
+me about it" is to indicate agreement, so the professor supports the student's
+statement that the buses run late in the morning. The expression does not
+request additional information (B), nor does it indicate that she does not
+understand what he has said (C). There is also no indication that the discussion
+will stop (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10205">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.inference"/></categoryRefs>
+<question-stem>
+<para> What can be inferred about the student's performance in class this
+semester?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10205.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> He has had good grades and attendance until
+recently.</answer-choice>
+<answer-choice> He is unlikely to improve his attendance.</answer-choice>
+<answer-choice> His grades have been decreasing steadily.</answer-choice>
+<answer-choice> His poor attendance has lowered his grade.</answer-choice>
+</answer-choice-set>
+<explanation>
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10206">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What is the topic of the article the student needs?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10206_01.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice> East Asian politics</answer-choice>
+<answer-choice> Classical Greek poetry</answer-choice>
+<answer-choice> World history</answer-choice>
+<answer-choice correct="yes"> Japanese literature</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="no">
+<para> (D) is correct because the student says she is studying Japanese literature,
+specifically Classical Japanese Poetry (poetry is one form of literature).
+(A) is attractive because Japan is in East Asia, but the student is not studying
+politics. (D) is attractive because it repeats the words <emphasis emphasis-type="italic"> classical </emphasis>and <emphasis
+emphasis-type="italic"> poetry. </emphasis>(C) is not mentioned.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10208">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para></para>
+<para> Why does the librarian say this?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10208_02.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice correct="yes"> To indicate that the student has not given him
+the correct Information</answer-choice>
+<answer-choice> To inform the student that she has entered the wrong journal
+title into the computer</answer-choice>
+<answer-choice> To find out whether the student knows how to use a database
+function</answer-choice>
+<answer-choice> To aid the student in finding additional articles by the same
+author</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="no">
+<para> (A) is correct because the function of the expression "but what about
+the journal title" is to indicate that the librarian needs this information
+to help her. (C) is attractive because earlier the student says she is having
+trouble finding the information she needs, but the librarian is not implying
+anything about her understanding of databases here. Neither (B) or (D) is
+mentioned in the dialogue, nor are they implied in any way.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10209">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the librarian say this?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10209_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> To indicate that he is repeating a previous
+instruction</answer-choice>
+<answer-choice> To indicate that the student will need to enter the article
+title again</answer-choice>
+<answer-choice> To indicate that the student needs to choose a different option</answer-choice>
+<answer-choice> To indicate that he is unsure about what the student wants</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (A) is correct because the function of the expression <emphasis emphasis-type="italic"> so
+again </emphasis>is to highlight the fact that the librarian is repeating
+something he has already stated. The student is asked to select a subtopic,
+not the title of an article (B). He does not ask the student to change her
+topic (C). It is clear that the librarian understands what the student wants
+(D), not that he is unsure.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10210">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.inference"/></categoryRefs>
+<question-stem>
+<para> What will the student probably do next?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10210.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Print an article</answer-choice>
+<answer-choice> Check the journal out from the library</answer-choice>
+<answer-choice> Show the librarian her student ID</answer-choice>
+<answer-choice> Save an article to a disk</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>The last statement in the dialogue is the librarian's instruction on
+how the student can print the article (A); therefore, you can infer that the
+student plans to use the printer. None of the other three choices are mentioned
+at the end of the conversation, so there is no evidence from which you can
+draw an inference.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10211">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<question-stem>
+<para>          What is the talk mainly about?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10211_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>          When manuscript copying was replaced by music printing</answer-choice>
+<answer-choice correct="yes">          How text printing led to the development
+of, music printing</answer-choice>
+<answer-choice>          Why printed music is as elegant and beautiful as
+manuscripts</answer-choice>
+<answer-choice>          Who bought printed music in the sixteenth century</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>          The professor begins his lecture by stating that the topic
+of the lecture is the beginnings of the music printing industry, which would
+lead to its development (B). The other options are details, not main ideas.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10212">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> Why does the professor suggest that moveable type printing took a long
+time to become common?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10212.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> Very few people understood how the printing presses worked.</answer-choice>
+<answer-choice> Scribes united to protect their manuscript copying business.</answer-choice>
+<answer-choice correct="yes"> Early printers had a limited production capacity.</answer-choice>
+<answer-choice> People preferred handwritten books with colored illustrations.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that the early printing presses had a hard time
+keeping up with the demands, which indicates that the production capacity
+was limiting their requests. The professor said that there weren't enough
+people to copy books, not print them (A), and there is no mention of the scribes'
+uniting to protect the copying business (B). The fact that some people prefer
+handwritten books is not relevant (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10213">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> What does the professor mean when he says:<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10213_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> That he is returning to his original topic after
+an interruption</answer-choice>
+<answer-choice> That he wants to find out what the students know</answer-choice>
+<answer-choice> That he is summarizing the argument so far</answer-choice>
+<answer-choice> That he is unsure what is being asked</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> "So ... what about the music?" means that the professor wants to explore
+the earlier topic of music further (A). This is a rhetorical question; therefore,
+he is not trying to discover (find out) or elicit his students' responses
+(B). <emphasis emphasis-type="italic"> So </emphasis>here does not mean <emphasis
+emphasis-type="italic"> therefore </emphasis>or <emphasis emphasis-type="italic"> to</emphasis><emphasis
+emphasis-type="italic"> summarize </emphasis>(C). The professor's tone is
+confident, rather than unsure of his topic (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10214">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.organization"/></categoryRefs>
+<question-stem>
+<para> According to the discussion, which of the following problems slowed
+down the rise of music printing?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10214.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3">
+<answer-choice> Professional musicians often could not read music.</answer-choice>
+<answer-choice correct="yes"> Music is complex to print.</answer-choice>
+<answer-choice correct="yes"> Printers were more interested in publishing
+other. material.</answer-choice>
+<answer-choice> Local rulers refused to grant licenses for printing music.</answer-choice>
+<answer-choice correct="yes"> There were not many potential customers.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> Three key reasons for the slowing down in the rise of music printing
+are that it was difficult to print, printers were more interested in other
+areas of concentration, and there was not a great demand for music printing
+at that time. (A) is not a main reason, and (D) is not mentioned.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10215">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What type of music did Petrucci print?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10215.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> Music written for a large orchestra</answer-choice>
+<answer-choice> Rare religious music</answer-choice>
+<answer-choice> Music that had never been printed before</answer-choice>
+<answer-choice correct="yes"> Music that was well-known</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that Petrucci aimed to sell to people who wanted
+to hear familiar music; <emphasis emphasis-type="italic"> well-known </emphasis>is
+a synonym for <emphasis emphasis-type="italic"> familiar. </emphasis>(A) is
+not a given reason and Petrucci did not focus on rare religious music (B).
+(C) is contrary to fact.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10216">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.inference"/></categoryRefs>
+<question-stem>
+<para> What does the professor imply about Petrucci's editions?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10216.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> They were bought by a wide variety of educated
+people.</answer-choice>
+<answer-choice> They were bought only by the very rich.</answer-choice>
+<answer-choice> They were bought mainly by professional musicians.</answer-choice>
+<answer-choice> They were bought mostly for display purposes.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>  The professor says that Petrucci's editions were <emphasis emphasis-type="italic"> within
+the means, </emphasis>which means affordable, for gentry, merchants and artisans,
+so you<emphasis emphasis-type="italic">  c</emphasis>an infer that this comprises
+a broad range of educated people. The<emphasis emphasis-type="italic"></emphasis>other
+three options contradict this fact because they are too narrow<emphasis emphasis-type="italic"></emphasis>in
+scope.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10217">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<question-stem>
+<para>          What is the talk mainly about?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10217_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> The effects of development on animal habitats</answer-choice>
+<answer-choice> The life cycle of the Caribbean monk seal</answer-choice>
+<answer-choice> The endangered species of the Everglades</answer-choice>
+<answer-choice correct="yes"> The extinction of an aquatic mammal</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>          The professor states that the talk is mainly about the extinction
+of a Florida mammal, the Caribbean monk seal, when he says "let's conclude
+our discussion of extinct Florida mammals"  talking about the Caribbean monk
+seal. He also finishes the lecture with a general summing statement referring
+to the extinction of the Caribbean monk seal. The lecture does not primarily
+concern the life cycle of the Caribbean monk seal (B), nor does it focus generally
+on the endangered species of the Everglades (C), focusing rather on one. (A)
+is too broad.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10218">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does one student mention the Everglades?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10218.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> To introduce the topic of endangered water birds</answer-choice>
+<answer-choice> To counter the argument that development hurts wildlife</answer-choice>
+<answer-choice> To illustrate the kinds of habitats where monk seals are commonly
+found</answer-choice>
+<answer-choice> To give an example of the dangers of uncontrolled development</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The student uses the Everglades as an example in response to the professor's
+question regarding uncontrolled development (D). He is not introducing a new
+topic (A) even though he does bring up birds&ndash;as an example. And he is
+not arguing with the professor (B)in fact he is providing support for the
+idea that development hurts wildlife. The student's response is not connected
+to seals (C) in any way.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10220">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say Hawaii should do to save its seals?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10220.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Exchange more scientific data with researchers
+in Florida</answer-choice>
+<answer-choice> Begin a research program to learn as much as possible about
+the habitat needs of monk seals</answer-choice>
+<answer-choice> Educate the public to prevent further poaching of monk seals</answer-choice>
+<answer-choice> Consider Florida's experience with monk seals a warning of
+what could happen in Hawaii</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor says that Hawaiian monk seals are endangered, probably
+for similar reasons the Caribbean monk seals became extinct in Florida: tourism
+and rapid, uncontrolled development. So (D) is the correct choice. Though
+they are logical, (A), (B), and (C) are never mentioned as ways to save Hawaii's
+seals.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10221">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.subordclause"/></categoryRefs>
+<question-stem>
+<para>          What does the professor mean when he says:<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10221_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Marine biologists do not believe there are isolated
+populations of monk seals</answer-choice>
+<answer-choice> Marine biologists hope science will find a way to restore
+the monk seal population.</answer-choice>
+<answer-choice> Marine biologists feel the time has come for frank discussion
+about pollution in the Caribbean.</answer-choice>
+<answer-choice> Marine biologists think isolated islands in the Caribbean
+offer the best chance of finding populations of monk seals.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The function of the idiomatic expression <emphasis emphasis-type="italic"> wishful
+thinking </emphasis>is to show that what is desired is impossible, or at least
+improbable, to achieve; therefore, marine biologists do not believe that they
+exist. <emphasis emphasis-type="italic"> Hopes, </emphasis>unlike wishes,
+indicate possibilities (B). <emphasis emphasis-type="italic"> Frank discussions </emphasis>(C)
+and <emphasis emphasis-type="italic"> offer the best chance </emphasis>(D)
+have nothing to do with the original statement.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10222">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> How did the monk seal get its name?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10222.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes">
+<answer-choice correct="yes"> From the way that it travels</answer-choice>
+<answer-choice> From the time of day it is active</answer-choice>
+<answer-choice> From the person who discovered it</answer-choice>
+<answer-choice correct="yes"> From its appearance</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> In the lecture, the professor states that the monk seal got its name
+because it "tended to travel alone, like a monk" ( A). He adds that it had
+a fold of skin that resembled a monk's hood (D), which means its appearance
+also helped give it its name. The professor does not mention the time of day
+it is active (B) or the discoverer (C) as reasons for its name.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10223">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<question-stem>
+<para>What is the main point of this lecture?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10223_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Large objects from outer space occasionally
+hit Earth.</answer-choice>
+<answer-choice> Meteorite impacts on Earth have killed millions of animals.</answer-choice>
+<answer-choice> A large meteorite is likely to hit the moon sometime in the
+next century.</answer-choice>
+<answer-choice> It was only in the 20th century that meteorites were discovered.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>The professor begins by saying "today we will talk about," another way
+of stating the theme of the lecture, which is Near Earth Objects (N-E-Os),
+and their impact on the history of the Earth. The remainder of the lecture
+provides supporting details of this main idea. (B) is an exaggeration of fact.
+(C) is not the main topic, and (D) is false.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10224">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the professor mention the moon?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10224.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> To emphasize a point about the impacts of meteorites on Mars
+and Jupiter</answer-choice>
+<answer-choice correct="yes"> To draw attention to the possibility of meteorite
+impacts on Earth</answer-choice>
+<answer-choice> To contrast it with Earth in terms of the size and shape of
+its craters</answer-choice>
+<answer-choice> To demonstrate that not all asteroids have orbits between
+Mars and Jupiter</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor mentions the large number of asteroids that have hit
+the moon as support for the likelihood that they have hit the Earth as well.
+Mars and Jupiter are not mentioned (A) and (D), and the analogy of asteroids
+of hitting the moon supports, not contrasts, their hitting the Earth, too
+(C).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10225">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> How does the professor present the information about N-E-Os in this
+lecture?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10225.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> By discussing the real and potential effects
+of smaller to larger objects.</answer-choice>
+<answer-choice> By detailing the debate over their actual existence</answer-choice>
+<answer-choice> By explaining the effects of those objects throughout history
+in chronological order</answer-choice>
+<answer-choice> By comparing theories about why they hit the moon and Earth</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor begins by talking about a small asteroid that hit Tungusaka
+and continues by discussing medium and then large sized N-E-O's. The structure
+of this lecture is thus best represented by (A). Although the professor does
+mention a debate (B), it is important in the last part of the talk. Some of
+the effects are potential or theoretical and order is not chronological (C).
+No theories for why N-E-Os hit the moon and Earth are discussed (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10227">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say is surprising about medium-sized asteroids?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10227.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> They are thought to hit Earth every 500,000 years.</answer-choice>
+<answer-choice correct="yes"> More damage would be caused by atmospheric pollution
+than by their actual impact.</answer-choice>
+<answer-choice> There are several hundred of them discovered near Earth every
+year.</answer-choice>
+<answer-choice> More have hit Earth in the past million years than at any
+other time in Earth's history.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (B) is correct because the professor states that the surprising thing
+is that the most damage is not caused by the impact, but (is caused by) atmospheric
+poisoning. This is the only point of reference he makes to <emphasis emphasis-type="italic"> surprisingly, </emphasis>so
+(A), (C) and (D) are incorrect.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10228">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why was the Alvarez team's 1980 paper important?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10228.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> It disproved Edmond Halley's theories.</answer-choice>
+<answer-choice> It proved that the extinction of the dinosaurs was not caused
+by a comet hitting Earth.</answer-choice>
+<answer-choice> It showed that dust from meteorite impacts could alter global
+weather patterns.</answer-choice>
+<answer-choice correct="yes"> It produced the first firm evidence of a large-scale
+meteorite impact on Earth around the time the dinosaurs became extinct.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states the <emphasis emphasis-type="italic"> famous paper </emphasis>by
+Alvarez's team was the first time <emphasis emphasis-type="italic"> hard evidence, </emphasis>or
+firm evidence, was presented as support, so (D) is correct. The Alvarez paper
+supported, not disproved Halley's theories, so (A) is contrary to fact. (B)
+is also false, and (C) is not related to the Alvarez team's paper.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10229">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<question-stem>
+<para>What does the professor mean when he says this:<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10229_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> NEO research can generate significant income for observatories.</answer-choice>
+<answer-choice> Even the low costs of NEO research outweigh any probable benefits.</answer-choice>
+<answer-choice> Tracking NEOs costs less and provides more benefits than most
+other" forms of space research .</answer-choice>
+<answer-choice correct="yes"> It is worthwhile to devote resources to tracking
+NEOs to avoid a possible impact.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>The professor implies that it is worthwhile to spend money <emphasis
+emphasis-type="italic"> (devote resources) </emphasis>to track NEOs in order
+to avoid a possible impact when<emphasis emphasis-type="italic"></emphasis>he
+states that "given [considering] the potential benefits ... it's not<emphasis
+emphasis-type="italic"></emphasis>really that expensive" (D). (A) is incorrect
+because no one's income<emphasis emphasis-type="italic"></emphasis>is mentioned
+by the speaker. (B) contradicts what he says, and (C)<emphasis emphasis-type="italic"></emphasis>is
+not mentioned.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10230">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What is the talk mainly about?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10230_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> The pros and cons of a current method of teaching reading</answer-choice>
+<answer-choice correct="yes"> The differences between spoken and written language</answer-choice>
+<answer-choice> The history of writing systems</answer-choice>
+<answer-choice> The developmental problems that can affect speech</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor begins the lecture by stating that today's focus will
+be on the differences between spoken and written language. Here, <emphasis
+emphasis-type="italic"> focus </emphasis>has the same meaning as main point,
+or main idea, so (B) is correct. (A) is incorrect because she does not focus
+only on reading, nor does she address the pros and cons (positives and negatives)
+of teaching it. (C) and (D) are sub-points, so they are not the main idea
+of the lecture.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10231">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say about reading and writing?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10231.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> They are both activities that must be learned.</answer-choice>
+<answer-choice> They both exist in all modern cultures.</answer-choice>
+<answer-choice> They each use parts of the brain that speech does not.</answer-choice>
+<answer-choice> They each developed much later then most people realize.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor specifically states that "we have to learn to read or
+write" (A). She states only that writing emerged in highly complex cultures,
+not that both skills exist in all cultures (B). (C) and (D) are not mentioned
+during the lecture.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10233">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> According to the professor, what are some of the features of writing?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10233.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes">
+<answer-choice correct="yes"> It uses punctuation to aid comprehension</answer-choice>
+<answer-choice correct="yes"> It uses longer and more complex sentences than
+spoken language.</answer-choice>
+<answer-choice> It often reflects the era in which it was written.</answer-choice>
+<answer-choice> It allows for information to be communicated with fewer errors
+than speech does.</answer-choice>
+<answer-choice correct="yes"> It is often directed to an unknown audience.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states specifically that <emphasis emphasis-type="italic"> we
+rely on punctuation marks to aid comprehension </emphasis>(A). She also states
+that "the sentences are<emphasis emphasis-type="italic"></emphasis>often longer
+and more complex" (B), and that "writing is often<emphasis emphasis-type="italic"></emphasis>directed
+to an unknown audience" (E). (C) is incorrect because it is<emphasis emphasis-type="italic"></emphasis>not
+mentioned as a feature of writing. And (D) is incorrect because<emphasis emphasis-type="italic"></emphasis>it
+does not specifically mention the type of error (that is, grammatical mistakes).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10234">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the professor say this: <mediaExhibit frameType="mp3" mediaRef="toeflPrac10234_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> To emphasize that all humans are born with an
+ability to learn language</answer-choice>
+<answer-choice> To indicate that genetic background plays a role in determining
+how well people acquire languages</answer-choice>
+<answer-choice> To correct a commonly held misperception about language acquisition</answer-choice>
+<answer-choice> To assure her audience that all children can be taught to
+read and write</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that the language skill is innate, which means
+that all humans are born with it, so (A) is correct. This does not determine
+how well the language will be acquired, so (B) does not relate to her statement.
+She does not state that this contradicts a common misperception (C), and she
+is talking about spoken language, not reading and writing, so (D) is incorrect.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10235">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the professor mention ancient cultures? <mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10235.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> To illustrate the point that languages can disappear over
+time</answer-choice>
+<answer-choice> To provide background for a discussion of phonemes</answer-choice>
+<answer-choice> To explain the relationships between ancient languages</answer-choice>
+<answer-choice correct="yes"> To give examples of culture that had writing
+systems</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that unlike speech, writing emerged in a few cultures,
+such as Sumerian, Phoenician, Egyptian, Chinese, Indus Valley and May an.
+It is assumed that the listener knows that these qualify as examples of ancient
+cultures, so (D) is correct. (A) is incorrect since the languages of some
+of the cultures mentioned still exist. These cultures are not mentioned as
+the basis of phonemes (B), and she does not discuss their interdependent relationships
+(C).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10301">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPracSpeak1.mp4"
+hideProgressBar="yes"/>         </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="15" recordTime="45" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10302">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPracSpeak2.mp4"
+hideProgressBar="yes"/>         </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="15" recordTime="45" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10303PT1">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPracSpeak3.mp4"
+hideProgressBar="yes"/>         </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="15" recordTime="45" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10303PT2">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10303_02.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="15" recordTime="45" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10304PT1">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPracSpeak4.mp4"
+hideProgressBar="yes"/>         </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="30" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10304PT2">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10304_02.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="30" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10305PT1">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPracSpeak5.mp4"
+hideProgressBar="yes"/>         </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="20" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10305PT2">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10305_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="20" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10306PT1">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPracSpeak6.mp4"
+hideProgressBar="yes"/>         </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="20" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10306PT2">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10306_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="20" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<document contentItemName="toeflPracCongrats">
+<para>Test is Over</para>
+<para></para>
+<para>Congratulations!</para>
+<para></para>
+<para>You have completed the test. Click on <emphasis emphasis-type="bold">Quit </emphasis> to
+continue.</para>
+</document>
+<document contentItemName="toeflPracListenDirex">
+<para>       <emphasis emphasis-type="bold">LISTENING</emphasis>     </para>
+<para>       <emphasis emphasis-type="bold">SECTION DIRECTIONS</emphasis>
+   </para>
+<para></para>
+<para>In this section of the test, you will hear dialogues and academic talks,
+and you will be tested on your ability to understand them. You will hear each
+dialogue and academic top only once, and then answer some questions after
+each is finished. The questions ask about the main idea, supporting details,
+and the way the speakers use language. Answer each question based on what
+is stated or implied by the speakers.</para>
+<para></para>
+<para>While you listen, you may take notes. You can then use your notes when
+answering questions.</para>
+<para></para>
+<para></para>
+<para></para>
+<para>You will see the following headphones icon appear with some questions: <graphic
+graphic-ref="toeflsoundicon.png"/> . This icon indicates that you will hear
+part of the dialogue or academic talk repeated for the question.</para>
+<para></para>
+<para>Most questions are worth one point. Questions that are worth more than
+one point have a special note telling you how many total points they are worth.</para>
+<para></para>
+<para>You must answer every question in this section. After you answer each
+question click on the <emphasis emphasis-type="bold">Next</emphasis>. Then
+click on <emphasis emphasis-type="bold">Next</emphasis> in order to move on
+to the next question. After you click on <emphasis emphasis-type="bold">Next</emphasis> you
+cannot return to a question.</para>
+<para></para>
+<para>You will be given 20 minutes to answer questions in this section. This
+does not include the time to listen to the dialogues and academic talks. A
+clock at the top of the screen will show you how much time you have remaining
+as you work through the section.</para>
+</document>
+<document contentItemName="toeflPracListenEnd">
+<para>End of Section</para>
+<para></para>
+<para>This is the end of the Listening section.</para>
+<para>Click on <emphasis emphasis-type="bold">Next </emphasis> to proceed.</para>
+<para></para>
+<para>Once you leave this section and proceed to the next, you will NOT be
+able to return to it.</para>
+</document>
+<document contentItemName="toeflPracMoreTime">
+<para>More time left</para>
+<para></para>
+<para>You still have time left for this question. You may go back to the question
+and review your response. click on <emphasis emphasis-type="bold">Next </emphasis> to
+proceed.</para>
+<para></para>
+<para>Once you leave this question you will NOT be able to change your response
+for this question.</para>
+</document>
+<document contentItemName="toeflPracReadingDirex">
+<para>       <emphasis emphasis-type="bold">READING</emphasis>     </para>
+<para>       <emphasis emphasis-type="bold">SECTION DIRECTIONS</emphasis>
+   </para>
+<para></para>
+<para>In this section of the test, you will read three passages. You will
+be tested on your ability to understand them by answering several questions
+on each passage.</para>
+<para></para>
+<para>While you read, you may take notes. You can then use your notes when
+answering questions.</para>
+<para></para>
+<para>Most questions are worth one point. Questions that are worth more than
+one point have a special note telling you how many total points they are worth.</para>
+<para></para>
+<para>You will have 60 minutes to read the three passages and answer all questions.
+Some of the passages include a word or phrase that is in blue color. Click
+on such word or phrase to see a definition or explanation.</para>
+<para></para>
+<para>When you are ready to move to the next question, click on <emphasis
+emphasis-type="bold">Next</emphasis>. In this section, it is possible to skip
+questions and then return to the later, as long as there is time remaining.
+When you want to return to previous questions that you have skipped, click
+on <emphasis emphasis-type="bold">Back</emphasis>.</para>
+<para></para>
+<para>Clicking on <emphasis emphasis-type="bold">Review</emphasis> in this
+section will take you to a review screen which shows the questions you have
+answered and the questions you have not answered. You are able to go directly
+to a new question in this section from the review screen.</para>
+<para></para>
+<para>When you are ready to begin the Reading section, click on <emphasis
+emphasis-type="bold">Next</emphasis>.</para>
+</document>
+<document contentItemName="toeflPracSpeakDirex">
+<para>       <emphasis emphasis-type="bold">SPEAKING</emphasis>     </para>
+<para>       <emphasis emphasis-type="bold">SECTION DIRECTIONS</emphasis>
+   </para>
+<para></para>
+<para>In this section, you will be asked to respond to a variety of tasks
+and topics. There are six tasks. Respond to each task as completely as you
+can, always speaking clearly into the microphone.</para>
+<para></para>
+<para>For tasks 1 and 2, you will speak about topic that are familiar to you.
+Your responses will be graded on your ability to speak about the topic clearly.</para>
+<para></para>
+<para>For tasks 3 and 4, you will be asked to read a short text. The text
+will then go off the screen and you will hear a talk on the same topic. For
+each task, you will be asked a question about what you have read and heard.
+You will need to use information from the text and the talk to answer the
+questions. Your responses will be graded on your ability to speak clearly
+and accurately about what you have read and heard.</para>
+<para></para>
+<para>For tasks 5 and 6, you will hear part of a dialogue or an academic talk.
+For each task, you will then answer a question about what you have heard.
+Your responses will be graded on your ability to speak clearly and accurately
+about what you have heard.</para>
+<para></para>
+<para>You are allowed to take notes during the reading and listening. You
+are allowed to use your notes to help you respond.</para>
+<para></para>
+<para>Listen closely to the directions for each task. You will <emphasis emphasis-type="bold">not</emphasis> see
+the directions on screen.</para>
+<para></para>
+<para>For each task, you will be given a short time to prepare your response.
+A clock on the screen will show how much preparation time remains. After the
+preparation time is finished, you will hear a beep. You will be given a certain
+amount of time to speak. A clock will show how much speaking time remains.</para>
+</document>
+<document contentItemName="toeflPracTestDirex">
+<para>       <emphasis emphasis-type="allcap">TEST DIRECTIONS</emphasis>
+   </para>
+<para></para>
+<para>This test is designed to measure your ability to understand and to use
+English in an academic context. The test has four sections.</para>
+<para></para>
+<para>In the <emphasis emphasis-type="bold">Reading</emphasis>  section, you
+will read three passages and answer questions about them.</para>
+<para></para>
+<para>In the <emphasis emphasis-type="bold">Listening</emphasis> section,
+you will listen to two dialogues and four talks and answer questions about
+them.</para>
+<para></para>
+<para>In the <emphasis emphasis-type="bold">Speaking</emphasis> section, there
+are six tasks. The first two tasks ask you to speak based on your personal
+experience. In the other four, you will read passages and/or listen to dialogues
+and talks, then speak based on what you have read and/or heard.</para>
+<para></para>
+<para>In the <emphasis emphasis-type="bold">Writing</emphasis> section, there
+are two tasks. In the first task, you will read a passage, listen, to a talk
+then write based on what you have read and heard. The second task asks you
+to write based on your own personal experience and ideas.</para>
+<para></para>
+<para>There is a 10-minute break after the <emphasis emphasis-type="bold">Listening</emphasis> section.</para>
+<para></para>
+<para>At the beginning of each section, there are directions which explain
+how to answer the questions or respond to the tasks in the section.</para>
+<para></para>
+<para>In the <emphasis emphasis-type="bold">Reading</emphasis> and <emphasis
+emphasis-type="bold">Listening</emphasis> sections, you should work carefully
+but quickly. You should try to answer every question to the best of your ability.
+Make an educated guess on questions that you are unsure of. In the <emphasis
+emphasis-type="bold">Speaking</emphasis> and <emphasis emphasis-type="bold">Writing</emphasis> sections,
+each task is separately timed. In each case, you should try to respond to
+the task as completely as possible in the given time.</para>
+<para></para>
+<para>When you are ready to begin the test, click <emphasis emphasis-type="bold">Next</emphasis>.</para>
+</document>
+<document contentItemName="toeflPracTestVolume">
+<para>You may now change the volume. When you are finished, click on Next.</para>
+<para></para>
+<para></para>
+<para></para>
+</document>
+<document contentItemName="toeflPracWriteDirex">
+<para>       <emphasis emphasis-type="bold">WRITING</emphasis>     </para>
+<para>       <emphasis emphasis-type="bold">SECTION DIRECTIONS</emphasis>
+   </para>
+<para></para>
+<para>You will need your headphones for this section.</para>
+<para></para>
+<para>This section is designed to measure your ability to write in English.
+There are two tasks.</para>
+<para></para>
+<para>For the first task, you will read a short text and listen to an academic
+talk. you will answer a question about what you have read and heard. For the
+second task, you will use your knowledge and experience to answer a question.</para>
+<para></para>
+<para>Listen to the directions for the first task.</para>
+</document>
+<document contentItemName="toeflPracWriteDirex02">
+<para>       <emphasis emphasis-type="bold">Directions</emphasis>: For this
+task, you will have 3 minutes to read a short text. You may take notes if
+you wish. Then you will hear an academic talk on the same topic. You may take
+notes while you listen.</para>
+<para></para>
+<para>You will then read a question that asks about the relationship between
+the text and the talk. You will have 20 minutes to write a response. Using
+information from the text and talk, answer the question as completely as you
+can. You will <emphasis emphasis-type="bold">not</emphasis> be asked to give
+your opinion. You will be able to review the text while you write. You may
+use your notes to help you write your response.</para>
+<para></para>
+<para>You should try to write 150 words or more. Your response will be graded
+on the quality, completeness, and accuracy of your writing. If you finish
+early, you may move on to the second task.</para>
+</document>
+<tutorialItem contentItemName="toeflPracBreak1">
+<para>Break</para>
+<para></para>
+<para>You may now take a break.</para>
+<para>If you do not wish to take a break, click on <emphasis emphasis-type="bold">Next</emphasis> to
+continue.</para>
+</tutorialItem>
+<question contentItemName="toeflPrac10201vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10201_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> He needs more spending money.</answer-choice>
+<answer-choice correct="yes">         He needs money to pay for school.</answer-choice>
+<answer-choice> He wants valuable work experience.</answer-choice>
+<answer-choice> He wants to earn credit towards graduation.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (B) is correct because the student had to take on (accept) extra work
+in order to pay for the rise in tuition, to earn more money for college, not
+to spend on other miscellaneous things (A). There is no mention that he wants
+the work experience (C) or that he will receive college credit for his work
+(D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10204vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10204_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> To indicate agreement with the student</answer-choice>
+<answer-choice> To encourage the student to elaborate</answer-choice>
+<answer-choice> To ask the student to repeat his question</answer-choice>
+<answer-choice> To end the discussion with the student</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (A) is correct because the function of the idiomatic expression "tell
+me about it" is to indicate agreement, so the professor supports the student's
+statement that the buses run late in the morning. The expression does not
+request additional information (B), nor does it indicate that she does not
+understand what he has said (C). There is also no indication that the discussion
+will stop (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10206vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10206_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> East Asian politics</answer-choice>
+<answer-choice> Classical Greek poetry</answer-choice>
+<answer-choice> World history</answer-choice>
+<answer-choice correct="yes">         Japanese literature</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (D) is correct because the student says she is studying Japanese literature,
+specifically Classical Japanese Poetry (poetry is one form of literature).
+(A) is attractive because Japan is in East Asia, but the student is not studying
+politics. (D) is attractive because it repeats the words <emphasis emphasis-type="italic"> classical </emphasis>and <emphasis
+emphasis-type="italic"> poetry. </emphasis>(C) is not mentioned.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10208vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<mediaExhibit frameType="flv" mediaRef="toeflPrac10208_01.mp4"/>
+<para></para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> To indicate that the student has not given him
+the correct Information</answer-choice>
+<answer-choice> To inform the student that she has entered the wrong journal
+title into the computer</answer-choice>
+<answer-choice> To find out whether the student knows how to use a database
+function</answer-choice>
+<answer-choice> To aid the student in finding additional articles by the same
+author</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (A) is correct because the function of the expression "but what about
+the journal title" is to indicate that the librarian needs this information
+to help her. (C) is attractive because earlier the student says she is having
+trouble finding the information she needs, but the librarian is not implying
+anything about her understanding of databases here. Neither (B) or (D) is
+mentioned in the dialogue, nor are they implied in any way.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10209vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<mediaExhibit frameType="flv" mediaRef="toeflPrac10209_01.mp4"/>
+<para></para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> To indicate that he is repeating a previous
+instruction</answer-choice>
+<answer-choice> To indicate that the student will need to enter the article
+title again</answer-choice>
+<answer-choice> To indicate that the student needs to choose a different option</answer-choice>
+<answer-choice> To indicate that he is unsure about what the student wants</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (A) is correct because the function of the expression <emphasis emphasis-type="italic"> so
+again </emphasis>is to highlight the fact that the librarian is repeating
+something he has already stated. The student is asked to select a subtopic,
+not the title of an article (B). He does not ask the student to change her
+topic (C). It is clear that the librarian understands what the student wants
+(D), not that he is unsure.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10211vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10211_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> When manuscript copying was replaced by music printing</answer-choice>
+<answer-choice correct="yes"> How text printing led to the development of,
+music printing</answer-choice>
+<answer-choice> Why printed music is as elegant and beautiful as manuscripts</answer-choice>
+<answer-choice> Who bought printed music in the sixteenth century</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>         <catRef-GRAD-UQTopic categoryName="listen.context"/> The professor
+begins his lecture by stating that the topic of the lecture is the beginnings
+of the music printing industry, which would lead to its development (B). The
+other options are details, not main ideas.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10213vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<mediaExhibit frameType="flv" mediaRef="toeflPrac10213_01.mp4"/>
+<para></para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> That he is returning to his original topic after
+an interruption</answer-choice>
+<answer-choice> That he wants to find out what the students know</answer-choice>
+<answer-choice> That he is summarizing the argument so far</answer-choice>
+<answer-choice> That he is unsure what is being asked</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> "So ... what about the music?" means that the professor wants to explore
+the earlier topic of music further (A). This is a rhetorical question; therefore,
+he is not trying to discover (find out) or elicit his students' responses
+(B). <emphasis emphasis-type="italic"> So </emphasis>here does not mean <emphasis
+emphasis-type="italic"> therefore </emphasis>or <emphasis emphasis-type="italic"> to</emphasis><emphasis
+emphasis-type="italic"> summarize </emphasis>(C). The professor's tone is
+confident, rather than unsure of his topic (D).</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10217vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10217_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> The effects of development on animal habitats</answer-choice>
+<answer-choice> The life cycle of the Caribbean monk seal</answer-choice>
+<answer-choice> The endangered species of the Everglades</answer-choice>
+<answer-choice correct="yes"> The extinction of an aquatic mammal</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>          The professor states that the talk is mainly about the extinction
+of a Florida mammal, the Caribbean monk seal, when he says "let's conclude
+our discussion of extinct Florida mammals"  talking about the Caribbean monk
+seal. He also finishes the lecture with a general summing statement referring
+to the extinction of the Caribbean monk seal. The lecture does not primarily
+concern the life cycle of the Caribbean monk seal (B), nor does it focus generally
+on the endangered species of the Everglades (C), focusing rather on one. (A)
+is too broad.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10221vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.subordclause"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10221_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes">         Marine biologists do not believe there
+are isolated populations of monk seals</answer-choice>
+<answer-choice>          Marine biologists hope science will find a way to
+restore the monk seal population.</answer-choice>
+<answer-choice>          Marine biologists feel the time has come for frank
+discussion about pollution in the Caribbean.</answer-choice>
+<answer-choice>          Marine biologists think isolated islands in the Caribbean
+offer the best chance of finding populations of monk seals.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>          The function of the idiomatic expression <emphasis emphasis-type="italic"> wishful
+thinking </emphasis>is to show that what is desired is impossible, or at least
+improbable, to achieve; therefore, marine biologists do not believe that they
+exist. <emphasis emphasis-type="italic"> Hopes, </emphasis>unlike wishes,
+indicate possibilities (B). <emphasis emphasis-type="italic"> Frank discussions </emphasis>(C)
+and <emphasis emphasis-type="italic"> offer the best chance </emphasis>(D)
+have nothing to do with the original statement.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10223vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10223_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> Large objects from outer space occasionally
+hit Earth.</answer-choice>
+<answer-choice> Meteorite impacts on Earth have killed millions of animals.</answer-choice>
+<answer-choice> A large meteorite is likely to hit the moon sometime in the
+next century.</answer-choice>
+<answer-choice> It was only in the 20th century that meteorites were discovered.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>          The professor begins by saying "today we will talk about,"
+another way of stating the theme of the lecture, which is Near Earth Objects
+(N-E-Os), and their impact on the history of the Earth. The remainder of the
+lecture provides supporting details of this main idea. (B) is an exaggeration
+of fact. (C) is not the main topic, and (D) is false.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10230vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10230_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> The pros and cons of a current method of teaching reading</answer-choice>
+<answer-choice correct="yes">          The differences between spoken and
+written language</answer-choice>
+<answer-choice> The history of writing systems</answer-choice>
+<answer-choice> The developmental problems that can affect speech</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> The professor begins the lecture by stating that today's focus will
+be on the differences between spoken and written language. Here, <emphasis
+emphasis-type="italic"> focus </emphasis>has the same meaning as main point,
+or main idea, so (B) is correct. (A) is incorrect because she does not focus
+only on reading, nor does she address the pros and cons (positives and negatives)
+of teaching it. (C) and (D) are sub-points, so they are not the main idea
+of the lecture.</para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10301b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">           Describe a teacher
+or another person from whom you learned something important and explain why
+what you learned was Important. Include details and examples to support your
+explanation.</emphasis>         <mediaExhibit frameType="mp3" mediaRef="toeflPrac10301.mp3"/>
+     </para>
+</question-stem>
+<mediaCapture prepTime="15" recordTime="45" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10302b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">           Some people believe
+that honesty Is the best policy; that people should tell the truth all the
+time. Other people believe that it is okay to lie as long as the reasons for
+telling the lie are honorable. Which approach to honesty do you think Is better?
+Include details and examples to support your explanation.</emphasis>
+   <mediaExhibit frameType="mp3" mediaRef="toeflPrac10302.mp3"/>       </para>
+</question-stem>
+<mediaCapture prepTime="15" recordTime="45" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10303PT1b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">Students ' University Bus Pass
+(U- Pass) Fare Set to Increase</emphasis>       </para>
+<para>The Chicago Transit Authority (CTA) announced yesterday that student
+transit fares will go up by fifteen percent next fall. The CTA's President,
+Carole Brown, said the fare hike is necessary to offset the recent increase
+in student ridership. More students are using public</para>
+<para>transit because of the cost effectiveness of the University's Student
+U-P ass program. The higher student demand for public transit has placed a
+major strain on the system. To maintain the current level of service along
+major commuter routes, the CTA plans to purchase 14 new fuel&bull;efficient
+buses.<mediaExhibit frameType="mp3" mediaRef="toeflPrac10303_01.mp3"/></para>
+</question-stem>
+<mediaCapture prepTime="30" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10303PT2b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">The woman expresses her opinion
+about the announcement. State her opinion and explain the reasons she gives
+for having that opinion.</emphasis>         <mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10303_03.mp3"/>       </para>
+</question-stem>
+<mediaCapture prepTime="15" recordTime="45" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10304PT1b" border="no">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">The Patient's Medical History</emphasis>
+     </para>
+<para>The elements in a medical history can be divided into two main</para>
+<para>categories: historical elements (those related to the patient's</para>
+<para>background) and current elements (those directly related to the</para>
+<para>problem at hand). While a particular situation may call for the addition</para>
+<para>of elements specific to the case, as a general rule, a basic medical</para>
+<para>history should include the following:</para>
+<para>         <emphasis emphasis-type="bold">Historical elements</emphasis>
+       <emphasis emphasis-type="bold">Current elements</emphasis>       </para>
+<para>Any family history of disease (parents, siblings, children) Detailed
+description of symptoms and their duration</para>
+<para>Any childhood or adult diseases Physicians already consulted</para>
+<para>Any medications Medication already prescribed</para>
+<para>Any allergies Recent test results</para>
+<para>Any recent exposure to disease or insect bites  Reason for referral</para>
+<para>Any recent change in diet Status (better or worse)</para>
+<para>Occupation and residence  Miscellaneous problems<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10304_01.mp3"/></para>
+</question-stem>
+<mediaCapture prepTime="30" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10305PT2b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <mediaExhibit frameType="mp3" mediaRef="toeflPrac10305_02.mp3"/>
+     </para>
+<para>         <emphasis emphasis-type="bold">The students discuss two possible
+solutions to the woman's problem. Describe the problem. Then state which of
+the two solutions you prefer and explain why.</emphasis>       </para>
+</question-stem>
+<mediaCapture prepTime="20" recordTime="60" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10306PT1b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <mediaExhibit frameType="mp3" mediaRef="toeflPrac10305_02.mp3"/>
+     </para>
+<para>         <emphasis emphasis-type="bold">The students discuss two possible
+solutions to the woman's problem. Describe the problem. Then state which of
+the two solutions you prefer and explain why.</emphasis>       </para>
+</question-stem>
+<mediaCapture prepTime="20" recordTime="60" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10306PT2b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">Using points and examples from
+the talk, explain how this new machine aids in the diagnosis and treatment
+of patients.</emphasis>         <mediaExhibit frameType="mp3" mediaRef="toeflPrac10306_02.mp3"/>
+     </para>
+</question-stem>
+<mediaCapture prepTime="20" recordTime="60" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question contentItemName="toeflPrac10304PT2b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="spk.speaking"/></categoryRefs>
+<question-stem>
+<para>         <emphasis emphasis-type="bold">The professor describes some
+of the difficulties involved in taking a medical history. Explain what effects
+these particular difficulties might have on a medical history. Use examples
+to support your explanation.</emphasis>         <mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10304_03.mp3"/>       </para>
+</question-stem>
+<mediaCapture prepTime="30" recordTime="60" type="mp3"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question-set contentItemName="toeflPrac10401mod" itemLayout="splitScreenRightLeft">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<stimulus>
+<passage>
+<para>In recent years, many prestigious American colleges have developed substantial
+and often highly structured core curricula. A core curriculum is a sequence
+of thematically focused interdisciplinary courses that are obligatory for
+all students. These courses are usually taken in the same order, and typically
+make up a third of the undergraduate program.</para>
+<para>While components of core curricula may vary, their structure and content
+are often designed to develop students' skills in communication (reading,
+writing, listening, speaking), in</para>
+<para>quantitative thinking (numeracy), in reasoning (critical thinking, problem-solving,
+analysis and synthesis, decision making), and in interpersonal interaction
+(teamwork, collaborative learning, cooperative learning). In addition to emphasizing
+skills development across the curriculum, most core curricula include subjects
+from the humanities, the sciences, and social sciences. Many core curricula
+attempt to address current concerns by addino the study of multicultural and
+gender issues. This &bull;reaching across the disciplines&bull; in a purposeful
+way can ensure a genuinely coherent and integrative educational experience.</para>
+<para>Thus, it is not surprising that colleges with ambitious core curricula
+have reaped rich rewards: a stronger sense of institutional identity, greater
+faculty satisfaction, increased enrollment (particularly of high-quality students),
+significantly higher levels of student retention and performance, and an improved
+public profile.</para>
+<para>Students who have experienced the core curriculum believe that the intellectual
+challenge provided by these courses and the diversity of philosophies, religious
+cultures, and world views they encounter along the way, give them a broader
+perspective on life, the opportunity to discover personal values and interests,
+and skills that apply across careers .</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10401mod.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<essayQuestion hide="yes">
+<essayTopic></essayTopic>
+</essayQuestion>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question-set-member>
+</question-set>
+<question-set contentItemName="toeflPrac10402mod" itemLayout="splitScreenRightLeft">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<stimulus>
+<passage>
+<para>In recent years, many prestigious American colleges have developed substantial
+and often highly structured core curricula. A core curriculum is a sequence
+of thematically focused interdisciplinary courses that are obligatory for
+all students. These courses are usually taken in the same order, and typically
+make up a third of the undergraduate program.</para>
+<para>While components of core curricula may vary, their structure and content
+are often designed to develop students' skills in communication (reading,
+writing, listening, speaking), in</para>
+<para>quantitative thinking (numeracy), in reasoning (critical thinking, problem-solving,
+analysis and synthesis, decision making), and in interpersonal interaction
+(teamwork, collaborative learning, cooperative learning). In addition to emphasizing
+skills development across the curriculum, most core curricula include subjects
+from the humanities, the sciences, and social sciences. Many core curricula
+attempt to address current concerns by addino the study of multicultural and
+gender issues. This &bull;reaching across the disciplines&bull; in a purposeful
+way can ensure a genuinely coherent and integrative educational experience.</para>
+<para>Thus, it is not surprising that colleges with ambitious core curricula
+have reaped rich rewards: a stronger sense of institutional identity, greater
+faculty satisfaction, increased enrollment (particularly of high-quality students),
+significantly higher levels of student retention and performance, and an improved
+public profile.</para>
+<para>Students who have experienced the core curriculum believe that the intellectual
+challenge provided by these courses and the diversity of philosophies, religious
+cultures, and world views they encounter along the way, give them a broader
+perspective on life, the opportunity to discover personal values and interests,
+and skills that apply across careers .</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10402mod.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<essayQuestion>
+<essayTopic>
+<stimulus>
+<para>Summarize the problems with the core curriculum discussed in the lecture,
+and then explain the advantages to fixing these problems using points from
+the reading.<mediaExhibit frameType="mp3" mediaRef="toeflPrac10401_02.mp3"/></para>
+</stimulus>
+</essayTopic>
+<controlSets>
+<controlSet name="essayToolBar">
+<control-cut name="cut" title="Cut" disabled="never" accessKey="alt+x">
+<normalState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_cut.png"/></normalState>
+<selectedState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_cut_press.png"/></selectedState>
+</control-cut>
+<control-copy name="copy" title="Copy" disabled="never" accessKey="alt+c">
+<normalState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_copy.png"/></normalState>
+<selectedState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_copy_press.png"/></selectedState>
+</control-copy>
+<control-paste name="paste" title="Paste" disabled="never" accessKey="alt+v">
+<normalState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_paste.png"/></normalState>
+<selectedState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_paste_press.png"/></selectedState>
+</control-paste>
+<control-autoSave name="autoSave" timeInterval="60"/></controlSet>
+</controlSets>
+</essayQuestion>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question-set-member>
+</question-set>
+<question contentItemName="toeflPrac10401vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10401_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<mediaCapture prepTime="20" recordTime="60" type="mp3" hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+<question-set contentItemName="toeflPrac10403mod" itemLayout="splitScreenRightLeft">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<stimulus>
+<para>Do you agree or disagree with the following statement?</para>
+<para>         <emphasis emphasis-type="bold">It is better to marry someone
+who is similar to you, rather than someone who is different from you.  Use
+specific reasons and examples to support your answer.</emphasis>       </para>
+<para>Use specific reasons and examples to support your answer.</para>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10403mod.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<essayQuestion>
+<essayTopic>
+<stimulus></stimulus>
+</essayTopic>
+<controlSets>
+<controlSet name="essayToolBar">
+<control-cut name="cut" title="Cut" disabled="never" accessKey="alt+x">
+<normalState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_cut.png"/></normalState>
+<selectedState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_cut_press.png"/></selectedState>
+</control-cut>
+<control-copy name="copy" title="Copy" disabled="never" accessKey="alt+c">
+<normalState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_copy.png"/></normalState>
+<selectedState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_copy_press.png"/></selectedState>
+</control-copy>
+<control-paste name="paste" title="Paste" disabled="never" accessKey="alt+v">
+<normalState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_paste.png"/></normalState>
+<selectedState>
+<mediaObject type="image.gif" mediaRef="toeflbtn_paste_press.png"/></selectedState>
+</control-paste>
+<control-autoSave name="autoSave" timeInterval="60"/></controlSet>
+</controlSets>
+</essayQuestion>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question-set-member>
+</question-set>
+<question contentItemName="toeflPracWriteDirex03doc">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="wrt.writing"/></categoryRefs>
+<stimulus>
+<passage>
+<para>For this task, you will be asked to write an essay in which you state,
+explain, and support your opinion on an issue. You will have 30 minutes to
+complete your essay.</para>
+<para>You should try to write 300 words or more. Your essay will be graded
+on how well you use language, organize your essay, and develop your ideas. </para>
+</passage>
+</stimulus>
+<mediaCapture hide="yes"></mediaCapture>
+<explanation interaction="false" hide="yes">
+<para></para>
+</explanation>
+</question>
+</gradItems>

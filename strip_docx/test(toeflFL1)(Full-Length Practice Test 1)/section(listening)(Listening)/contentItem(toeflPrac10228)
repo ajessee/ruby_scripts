@@ -1,0 +1,26 @@
+<gradItems>
+<question contentItemName="toeflPrac10228">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why was the Alvarez team's 1980 paper important?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10228.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> It disproved Edmond Halley's theories.</answer-choice>
+<answer-choice> It proved that the extinction of the dinosaurs was not caused
+by a comet hitting Earth.</answer-choice>
+<answer-choice> It showed that dust from meteorite impacts could alter global
+weather patterns.</answer-choice>
+<answer-choice correct="yes"> It produced the first firm evidence of a large-scale
+meteorite impact on Earth around the time the dinosaurs became extinct.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states the <emphasis emphasis-type="italic"> famous paper </emphasis>by
+Alvarez's team was the first time <emphasis emphasis-type="italic"> hard evidence, </emphasis>or
+firm evidence, was presented as support, so (D) is correct. The Alvarez paper
+supported, not disproved Halley's theories, so (A) is contrary to fact. (B)
+is also false, and (C) is not related to the Alvarez team's paper.</para>
+</explanation>
+</question>
+</gradItems>

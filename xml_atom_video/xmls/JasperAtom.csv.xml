@@ -1,0 +1,499 @@
+<gradItems>
+  <question-set contentItemName="actlow13iAtom" title="Irrelevant + Misplaced Information">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow13i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor01iAtom" title="Point Builder: Passage Mapping">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor01i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow21iAtom" title="Passive Voice">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow21i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow20iAtom" title="Comparing Like Nouns + Verbs">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow20i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow19iAtom" title="Misused Adjectives + Adverbs">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow19i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow18iAtom" title="Misplaced Modifiers">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow18i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow17iAtom" title="Parallel Structure">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow17i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow16iAtom" title="Sentence Fragments">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow16i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow15iAtom" title="Run-Ons">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow15i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow14iAtom" title="FANBOYS Conjunctions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow14i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow12iAtom" title="Commonly Tested Idioms">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow12i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow11iAtom" title="Misused Objective + Subjective Pronouns">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow11i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow10iAtom" title="Ambiguous Pronoun">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow10i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow09iAtom" title="Pronoun Use">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow09i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow08iAtom" title="Subject-Verb Agreement">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow08i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow07iAtom" title="Redundancy">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow07i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow05iAtom" title="Colon Use">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow05i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow06iAtom" title="Apostrophe Use">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow06i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow04iAtom" title="Comma Use">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow04i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow02iAtom" title="Transitions + Flow">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow02i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlow01iAtom" title="Point Builder: Kaplan Method for English">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlow01i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor09iAtom" title="Vocab-in-Context Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor09i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor08iAtom" title="Function Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor08i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor07iAtom" title="Global Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor07i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor06iAtom" title="Inference Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor06i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor05iAtom" title="Detail Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor05i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor04iAtom" title="Point Builder: Prose Fiction Passages">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor04i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlor02iAtom" title="Point Builder: Kaplan Reading Strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlor02i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom50iAtom" title="Answer Questions Using Charts, Tables + Graphs">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom50i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom49iAtom" title="Work with Matrices">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom49i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom48iAtom" title="Answer Combination + Permutation Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom48i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom47iAtom" title="Demystifying Trigonometry">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom47i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom46iAtom" title="Answer Ratio, Rate + Proportions Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom46i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom45iAtom" title="Answer Probability Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom45i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom43iAtom" title="Simplify Solids">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom43i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom42iAtom" title="Answer Volume + Surface Area of Solids Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom42i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom40iAtom" title="Understand Angles in a Circle, Arc Length + Sector Area">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom40i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom39iAtom" title="Identify + Work with Tangent Lines">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom39i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom38iAtom" title="Basics of Circles">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom38i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom37iAtom" title="Answer Questions on Polygons + Total Angle Measures">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom37i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom35iAtom" title="Answer Special Right Triangle Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom35i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom34iAtom" title="Pythagorean Triplets + When to Use Them">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom34i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom33iAtom" title="The Pythagorean Theorem">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom33i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom32iAtom" title="Recognizing Triangle Basics">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom32i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom30iAtom" title="Properties of Lines Cut by Transversals">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom30i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom29iAtom" title="Graph a Parabola">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom29i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom28iAtom" title="Quadratics: Foil + Reverse Foil">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom28i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom27iAtom" title="Find Equations of Parallel + Perpendicular Lines">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom27i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom26iAtom" title="Manipulate Linear Equations">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom26i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom25iAtom" title="Answer Questions Using Number Lines">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom25i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom24iAtom" title="Answer Absolute Value Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom24i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom23iAtom" title="Solve an Inequality for an Unknown Variable">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom23i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom22iAtom" title="Simplifying Logarithms">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom22i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom21iAtom" title="Answer Questions about Radicals">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom21i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom20iAtom" title="Multiply + Divide Exponents without a Calculator">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom20i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom19iAtom" title="Use Ratio Charts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom19i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom18iAtom" title="Basics of Ratios">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom18i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom17iAtom" title="Answer Mean, Median + Mode Questions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom17i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom16iAtom" title="Answer Questions on Percents">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom16i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom15iAtom" title="Understand Prime Numbers + Factors">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom15i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom14iAtom" title="Understand Multiples of a Number">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom14i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom13iAtom" title="Understand Factors of a Number">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom13i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom11iAtom" title="Solve Math Functions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom11i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom10iAtom" title="Solve for a System of Equations">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom10i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom08iAtom" title="Solve for an Unknown Variable">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom08i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom07iAtom" title="Simplify Expressions Using the Order of Operations">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom07i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom06iAtom" title="Translating English into Math">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom06i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom05iAtom" title="Point Builder: Using Your Calculator">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom05i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom04iAtom" title="Point Builder: Fundamental Math">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom04i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom02iAtom" title="Point Builder: Backsolving">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom02i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="actlom01iAtom" title="Point Builder: Picking Numbers">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="actlom01i" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+</gradItems>

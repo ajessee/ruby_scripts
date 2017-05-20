@@ -1,0 +1,23 @@
+<gradItems>
+<question contentItemName="toeflPrac10201">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What reason did the student give for starting a new job?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10201_01.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> He needs more spending money.</answer-choice>
+<answer-choice correct="yes"> He needs money to pay for school.</answer-choice>
+<answer-choice> He wants valuable work experience.</answer-choice>
+<answer-choice> He wants to earn credit towards graduation.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (B) is correct because the student had to take on (accept) extra work
+in order to pay for the rise in tuition, to earn more money for college, not
+to spend on other miscellaneous things (A). There is no mention that he wants
+the work experience (C) or that he will receive college credit for his work
+(D).</para>
+</explanation>
+</question>
+</gradItems>

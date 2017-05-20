@@ -1,0 +1,27 @@
+<gradItems>
+<question contentItemName="toeflPrac10223vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10223_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> Large objects from outer space occasionally
+hit Earth.</answer-choice>
+<answer-choice> Meteorite impacts on Earth have killed millions of animals.</answer-choice>
+<answer-choice> A large meteorite is likely to hit the moon sometime in the
+next century.</answer-choice>
+<answer-choice> It was only in the 20th century that meteorites were discovered.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>          The professor begins by saying "today we will talk about,"
+another way of stating the theme of the lecture, which is Near Earth Objects
+(N-E-Os), and their impact on the history of the Earth. The remainder of the
+lecture provides supporting details of this main idea. (B) is an exaggeration
+of fact. (C) is not the main topic, and (D) is false.</para>
+</explanation>
+</question>
+</gradItems>

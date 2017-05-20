@@ -1,0 +1,17 @@
+<root>
+  <sequence template="mcat3eVidOri01" title="MCAT Orientation" timeOrder="1"></sequence>
+  <sequence template="mcat3eVidOri02" title="MCAT Orientation" timeOrder="1"></sequence>
+  <sequence template="mcat3eVidOri03" title="MCAT Orientation" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro001" title="CARS 1 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro002" title="Chem / Phys 1 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro003" title="Bio / Biochem 1 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro004" title="Psych / Soc 1 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro005" title="CARS 2 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro006" title="Chem / Phys 2 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro007" title="Bio / Biochem 2 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro008" title="Psych / Soc 2 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro009" title="CARS 3 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro010" title="Chem / Phys 3 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro011" title="Bio / Biochem 3 Session Intro" timeOrder="1"></sequence>
+  <sequence template="mcat3eIntro012" title="Psych / Soc 3 Session Intro" timeOrder="1"></sequence>
+</root>

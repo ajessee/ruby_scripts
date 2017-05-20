@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10229">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<question-stem>
+<para>What does the professor mean when he says this:<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10229_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> NEO research can generate significant income for observatories.</answer-choice>
+<answer-choice> Even the low costs of NEO research outweigh any probable benefits.</answer-choice>
+<answer-choice> Tracking NEOs costs less and provides more benefits than most
+other" forms of space research .</answer-choice>
+<answer-choice correct="yes"> It is worthwhile to devote resources to tracking
+NEOs to avoid a possible impact.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>The professor implies that it is worthwhile to spend money <emphasis
+emphasis-type="italic"> (devote resources) </emphasis>to track NEOs in order
+to avoid a possible impact when<emphasis emphasis-type="italic"></emphasis>he
+states that "given [considering] the potential benefits ... it's not<emphasis
+emphasis-type="italic"></emphasis>really that expensive" (D). (A) is incorrect
+because no one's income<emphasis emphasis-type="italic"></emphasis>is mentioned
+by the speaker. (B) contradicts what he says, and (C)<emphasis emphasis-type="italic"></emphasis>is
+not mentioned.</para>
+</explanation>
+</question>
+</gradItems>

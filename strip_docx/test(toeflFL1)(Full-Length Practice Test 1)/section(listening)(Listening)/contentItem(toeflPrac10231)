@@ -1,0 +1,22 @@
+<gradItems>
+<question contentItemName="toeflPrac10231">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say about reading and writing?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10231.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> They are both activities that must be learned.</answer-choice>
+<answer-choice> They both exist in all modern cultures.</answer-choice>
+<answer-choice> They each use parts of the brain that speech does not.</answer-choice>
+<answer-choice> They each developed much later then most people realize.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor specifically states that "we have to learn to read or
+write" (A). She states only that writing emerged in highly complex cultures,
+not that both skills exist in all cultures (B). (C) and (D) are not mentioned
+during the lecture.</para>
+</explanation>
+</question>
+</gradItems>

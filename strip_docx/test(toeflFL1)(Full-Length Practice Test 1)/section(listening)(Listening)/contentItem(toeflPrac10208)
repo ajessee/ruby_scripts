@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10208">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para></para>
+<para> Why does the librarian say this?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10208_02.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice correct="yes"> To indicate that the student has not given him
+the correct Information</answer-choice>
+<answer-choice> To inform the student that she has entered the wrong journal
+title into the computer</answer-choice>
+<answer-choice> To find out whether the student knows how to use a database
+function</answer-choice>
+<answer-choice> To aid the student in finding additional articles by the same
+author</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="no">
+<para> (A) is correct because the function of the expression "but what about
+the journal title" is to indicate that the librarian needs this information
+to help her. (C) is attractive because earlier the student says she is having
+trouble finding the information she needs, but the librarian is not implying
+anything about her understanding of databases here. Neither (B) or (D) is
+mentioned in the dialogue, nor are they implied in any way.</para>
+</explanation>
+</question>
+</gradItems>

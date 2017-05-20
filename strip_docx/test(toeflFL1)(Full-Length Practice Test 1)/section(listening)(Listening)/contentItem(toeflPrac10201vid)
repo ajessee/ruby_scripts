@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10201vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10201_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> He needs more spending money.</answer-choice>
+<answer-choice correct="yes">         He needs money to pay for school.</answer-choice>
+<answer-choice> He wants valuable work experience.</answer-choice>
+<answer-choice> He wants to earn credit towards graduation.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (B) is correct because the student had to take on (accept) extra work
+in order to pay for the rise in tuition, to earn more money for college, not
+to spend on other miscellaneous things (A). There is no mention that he wants
+the work experience (C) or that he will receive college credit for his work
+(D).</para>
+</explanation>
+</question>
+</gradItems>

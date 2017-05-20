@@ -1,0 +1,22 @@
+<gradItems>
+<question contentItemName="toeflPrac10203">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor suggest that the student do?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10203.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> Drop the class</answer-choice>
+<answer-choice> Reduce the number of hours he works</answer-choice>
+<answer-choice> Get ahead on the course reading</answer-choice>
+<answer-choice correct="yes"> Attend a later class section</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (D) is correct because the professor offers the student a position
+in the 10:00 A.M. class instead of in his current 8:00 A.M. class. Though
+the other three options are logical, the professor does not mention them to
+the student so they are incorrect.</para>
+</explanation>
+</question>
+</gradItems>

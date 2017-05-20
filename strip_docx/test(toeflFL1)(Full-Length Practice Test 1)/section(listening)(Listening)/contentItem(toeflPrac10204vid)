@@ -1,0 +1,26 @@
+<gradItems>
+<question contentItemName="toeflPrac10204vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10204_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> To indicate agreement with the student</answer-choice>
+<answer-choice> To encourage the student to elaborate</answer-choice>
+<answer-choice> To ask the student to repeat his question</answer-choice>
+<answer-choice> To end the discussion with the student</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (A) is correct because the function of the idiomatic expression "tell
+me about it" is to indicate agreement, so the professor supports the student's
+statement that the buses run late in the morning. The expression does not
+request additional information (B), nor does it indicate that she does not
+understand what he has said (C). There is also no indication that the discussion
+will stop (D).</para>
+</explanation>
+</question>
+</gradItems>

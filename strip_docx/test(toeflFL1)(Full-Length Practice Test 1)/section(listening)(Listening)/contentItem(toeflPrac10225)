@@ -1,0 +1,26 @@
+<gradItems>
+<question contentItemName="toeflPrac10225">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> How does the professor present the information about N-E-Os in this
+lecture?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10225.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> By discussing the real and potential effects
+of smaller to larger objects.</answer-choice>
+<answer-choice> By detailing the debate over their actual existence</answer-choice>
+<answer-choice> By explaining the effects of those objects throughout history
+in chronological order</answer-choice>
+<answer-choice> By comparing theories about why they hit the moon and Earth</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor begins by talking about a small asteroid that hit Tungusaka
+and continues by discussing medium and then large sized N-E-O's. The structure
+of this lecture is thus best represented by (A). Although the professor does
+mention a debate (B), it is important in the last part of the talk. Some of
+the effects are potential or theoretical and order is not chronological (C).
+No theories for why N-E-Os hit the moon and Earth are discussed (D).</para>
+</explanation>
+</question>
+</gradItems>

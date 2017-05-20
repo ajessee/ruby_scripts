@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10227">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say is surprising about medium-sized asteroids?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10227.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> They are thought to hit Earth every 500,000 years.</answer-choice>
+<answer-choice correct="yes"> More damage would be caused by atmospheric pollution
+than by their actual impact.</answer-choice>
+<answer-choice> There are several hundred of them discovered near Earth every
+year.</answer-choice>
+<answer-choice> More have hit Earth in the past million years than at any
+other time in Earth's history.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (B) is correct because the professor states that the surprising thing
+is that the most damage is not caused by the impact, but (is caused by) atmospheric
+poisoning. This is the only point of reference he makes to <emphasis emphasis-type="italic"> surprisingly, </emphasis>so
+(A), (C) and (D) are incorrect.</para>
+</explanation>
+</question>
+</gradItems>

@@ -1,0 +1,23 @@
+<gradItems>
+<question contentItemName="toeflPrac10207">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the librarian say about the printer?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10207.mp3"/></para>
+</question-stem>
+<answer-choice-set hide="no">
+<answer-choice> It is not working.</answer-choice>
+<answer-choice correct="yes">          It is slow</answer-choice>
+<answer-choice> It requires a pass code to use.</answer-choice>
+<answer-choice> It is on the second floor.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> Because the librarian says that the printer is a little slow and that
+the student may have to wait a minute or two for it to print, (B) is correct.
+(A) is contrary to fact (it <emphasis emphasis-type="italic"> is </emphasis>working).
+The printer requires an 10 number, not a pass code (C), and there is no mention
+of the floor where the printer is located (D).</para>
+</explanation>
+</question>
+</gradItems>

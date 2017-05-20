@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10209vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<mediaExhibit frameType="flv" mediaRef="toeflPrac10209_01.mp4"/>
+<para></para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> To indicate that he is repeating a previous
+instruction</answer-choice>
+<answer-choice> To indicate that the student will need to enter the article
+title again</answer-choice>
+<answer-choice> To indicate that the student needs to choose a different option</answer-choice>
+<answer-choice> To indicate that he is unsure about what the student wants</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (A) is correct because the function of the expression <emphasis emphasis-type="italic"> so
+again </emphasis>is to highlight the fact that the librarian is repeating
+something he has already stated. The student is asked to select a subtopic,
+not the title of an article (B). He does not ask the student to change her
+topic (C). It is clear that the librarian understands what the student wants
+(D), not that he is unsure.</para>
+</explanation>
+</question>
+</gradItems>

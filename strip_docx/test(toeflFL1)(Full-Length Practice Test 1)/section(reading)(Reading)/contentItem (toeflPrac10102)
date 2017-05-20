@@ -1,0 +1,497 @@
+<gradItems>
+<question-set contentItemName="toeflPrac10102">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <emphasis emphasis-type="italic">             American Neoclassicism
+and the U.S. Capitol Building</emphasis>         </para>
+<para>           Visitors to America's capital city, Washington, D.C., have
+long been impressed by its majestic, white stone buildings and one in particular:
+the U.S. Capitol. With its lofty dome, triangular pediment depicting various
+historical scenes, and supporting row of columns, the building hearkens back
+to the temples of ancient Greece and Rome. These design elements, replicated
+in countless public buildings in the capital and around the country, were
+more than mere flights of fancy on the part of its designers. The building's
+visionaries were attempting to anchor the young democracy to the very cradle
+of Western civilization, while at the same time asserting the nation's own
+unique identity.<sentence-insertion-point id="1"></sentence-insertion-point></para>
+<para>           This incorporation of classic Greek and Roman <highlightSpan
+id="toeflPrac10102_01"> motifs</highlightSpan> in art and architecture&mdash;neoclassicism,
+as the movement came to be called&mdash;was not a novel idea at the time of
+the Capitol's design. The emerging field of archaeology yielded several previously
+undiscovered Roman ruins in the early 18th century, renewing appreciation
+for Greco-Roman architectural sophistication. <sentence-insertion-point id="2"></sentence-insertion-point>Enthusiasm
+for these physical forms was closely tied to the political and philosophical
+principles the re resented: democracy and rationalism. This was especially
+the case later in the century, as the ferment of democratic revolution grew,
+and archaeologists made spectacular discoveries at Pompeii and Herculaneum.</para>
+<para>           Imported from Great Britain, neoclassicism found expression
+in the American colonies, primarily in New England, and in the buildings of
+Edmund Woolley and Ebenezer Tomlinson. The Pennsylvania Statehouse (later
+named Independence Hall) is an outstanding example of American neoclassicism
+as <highlightSpan id="toeflPrac10102_02"> it</highlightSpan> existed before
+the Revolutionary War, <highlightSpan id="toeflPrac10102_05"> Due to material
+and technical limitations, innovations were mostly confined to detail and
+ornamentation.</highlightSpan> It was not until after the Revolution and the
+opportunity it afforded to fashion a capital city from the ground up that
+American neoclassicism assumed its unique and monumental character.<sentence-insertion-point
+id="3"></sentence-insertion-point></para>
+<para>           The American statesman most responsible for this shift was
+Thomas Jefferson, an architect in his own right. Unlike his New England compatriots,
+Jefferson's classical inspiration came largely by way of France, where he
+had spent a great deal of time before the Revolution and later as ambassador
+under President Washington. In the throes of its own democratic revolution,
+France similarly looked to the ancient world in erecting its new institutions
+and monuments. Jefferson was awed by Roman ruins, as well as more recent constructions
+that sought to resurrect not just the details, but the very scale and grandeur
+of ancient Roman temples.</para>
+<para>           Jefferson was emotionally and administratively involved in
+almost all aspects of the capital's design and construction, including the
+decision to entrust the task of planning the new city to tho French officer
+Charles L'Enfant. Jefferson's sensibilities were also reflected in the design
+for the capitol building, approved in a public competition in 1793. <sentence-insertion-point
+id="4"></sentence-insertion-point>Submitted by William Thornton, the plan
+was <highlightSpan id="toeflPrac10102_03"> reminiscent of</highlightSpan> the
+Roman Pantheon, with its distinctive circular rotunda, colonnade and dome.
+Jefferson's <highlightSpan id="toeflPrac10102_04"> fondness</highlightSpan> for
+the style, and the dome in particular, could be seen in the way he fashioned
+his own famous estate, Monticello. It is thus not surprising that this period
+is alternately referred to as the Idealistic or Jeffersonian era of American
+neoclassicism, and that the dome has become one of its defining features.</para>
+<para>           <catRef-GRAD-UQTopic categoryName="rc.vocab"/> Before it
+was completed in 1826, the Capitol building went through four a architects
+and one complete reconstruction after being burnt to the ground by the British
+in 1812. While its final form did not deviate greatly from Thornton's original
+design, the building's final architect, Benjamin Latrobe, is credited with
+imbuing the Capitol with a distinctively American sensibility. One of the
+building's most admired features, said to have been suggested by Jefferson,
+reflects this synthesis: the columns in the rotunda , whose orders were adorned
+with American crops like tobacco leaves and corn. It is a fitting irony that
+Latrobe, who has been given the title of America's first professional architect
+and would go on to design some of the country's most celebrated edifices,
+was an immigrant from England.</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10102.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> motifs</highlightSpan> in the passage
+is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           goals</answer-choice>
+<answer-choice correct="yes">           themes</answer-choice>
+<answer-choice>           ruins</answer-choice>
+<answer-choice>           artists</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_01"/>
+<explanation interaction="true">
+<para>           A <emphasis emphasis-type="italic"> motif </emphasis>is a
+central theme (B). A clue to meaning is in the same sentence: "movement,"<emphasis
+emphasis-type="italic"></emphasis>which in art and architecture implies a
+central organizing theme. (A) <emphasis emphasis-type="italic"> goals </emphasis>and
+(C) <emphasis emphasis-type="italic"> artist; </emphasis>are incorrect; neither
+could be incorporated into art and architecture. (C) <emphasis emphasis-type="italic"> ruins </emphasis>is
+attractive because ancient temples were mentioned in the previous paragraph.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.02">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.reference"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> it</highlightSpan> in paragraph
+3 refers to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           capital city</answer-choice>
+<answer-choice>           monumental character</answer-choice>
+<answer-choice correct="yes">           the Revolution</answer-choice>
+<answer-choice>           American neoclassicism</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_02"/>
+<explanation interaction="true">
+<para>           The pronominal referent must precede the word <emphasis emphasis-type="italic"> it. </emphasis>Part
+of the challenge here is to understand the function of <emphasis emphasis-type="italic"> it </emphasis>within
+this clause. Meaning becomes clearer if the clause is reordered such that
+the object follows the verb: "it afforded (made available) the opportunity
+to fashion (create) a capital city. The Revolution (C) made available such
+an opportunity. The other choices are attractive because they appear in the
+same paragraph.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.03">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The words <highlightSpan> reminiscent of</highlightSpan> in
+the passage are closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">           similar to</answer-choice>
+<answer-choice>           smaller than</answer-choice>
+<answer-choice>           copied from</answer-choice>
+<answer-choice>           confused with</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_03"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">             Reminiscent </emphasis>comes
+from the word remember and means a tendency to remind, which would require
+that the two items be (A) <emphasis emphasis-type="italic"> similar to </emphasis>each
+other. (C) copied <emphasis emphasis-type="italic"> from </emphasis>is attractive,
+because a copy would certainly remind one of the original. (D) <emphasis emphasis-type="italic"> confused
+with </emphasis>is attractive because two items that are similar might be
+confused with each other. (B) <emphasis emphasis-type="italic"> smaller than </emphasis>is
+incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.04">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>           The word <highlightSpan> fondness</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>           familiarity</answer-choice>
+<answer-choice>           talent</answer-choice>
+<answer-choice>           labor</answer-choice>
+<answer-choice correct="yes">           liking</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_04"/>
+<explanation interaction="true">
+<para>           (D) <emphasis emphasis-type="italic"> liking </emphasis>is
+a synonym of <emphasis emphasis-type="italic"> fondness. </emphasis>(A) <emphasis
+emphasis-type="italic"> familiarity</emphasis> is attractive because Jefferson
+would</para>
+<para>           have to be familiar with the style in order to use in fashioning
+his own estate,  but familiarity can be eliminated because it requires the
+preposition <emphasis emphasis-type="italic"> with, </emphasis>not <emphasis
+emphasis-type="italic"> for </emphasis>(which follows <emphasis emphasis-type="italic"> fondness). </emphasis>(B) <emphasis
+emphasis-type="italic"> talent </emphasis>and (C) <emphasis emphasis-type="italic"> labor </emphasis>are
+incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.05">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.diction"/></categoryRefs>
+<question-stem>
+<para>            Which of the following best expresses the essential information
+in the highlighted sentence in the passage? <emphasis emphasis-type="italic"> Incorrect </emphasis>choices
+change the meaning in important ways or leave out essential information.</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            A lack of resources limited the expression
+of   neoclassical architectural features in America</answer-choice>
+<answer-choice>            American colonists preferred to express neoclassicism
+in details rather than grand designs.</answer-choice>
+<answer-choice>            The only expressions of neoclassicism in America
+were seen in ornamentation.</answer-choice>
+<answer-choice>            Technical difficulties prevented American neoclassicists
+from attending to details.</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10102_05"/>
+<explanation interaction="true">
+<para>            Essential information noted in the highlighted sentence
+includes: "material and technical limitations," which means a lack of resources;
+"mostly confined to," which is paraphrased by "limited the expression of"
+and "detail and ornamentation," which is referred to as "architectural features."
+All of these are found in (A). Two other choices can be quickly eliminated
+because the paraphrased sentences use words contrary to the original statement:
+(B) preference is not noted; and (C) <emphasis emphasis-type="italic"> only </emphasis>implies
+severe restriction, the original uses <emphasis emphasis-type="italic"> mostly. </emphasis>(D)
+is incorrect because, due to technical limitations, neoclassicists "were mostly
+confined to details," not prevented from using detail.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.06">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            According to the passage, the original designer of the U.S.
+Capitol was</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            Ebenezer Tomlinson</answer-choice>
+<answer-choice>            Thomas Jefferson</answer-choice>
+<answer-choice correct="yes">            William Thornton</answer-choice>
+<answer-choice>            Benjamin Latrobe</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail is presented in paragraph 5, where it is stated
+that William Thornton (C) submitted a plan. The preceding sentence states
+that a public competition was held for design of the Capitol. (A) is attractive
+because Ebenezer Tomlinson applied neoclassicist design principles to buildings
+in Pennsylvania. (B) is attractive because Thomas Jefferson influenced the
+design of the Capitol. (D) is attractive because Benjamin Latrobe was the
+final architect of the Capitol.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.07">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            In the passage, all of the following are given as reasons
+for the rise of neoclassicism EXCEPT</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            the development of the field of archaeology</answer-choice>
+<answer-choice>            political revolution</answer-choice>
+<answer-choice>            the discoveries at Pompeii</answer-choice>
+<answer-choice correct="yes">            Washington's time spent in France</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            Paragraph 2 states that archaeological discoveries led to
+increased interest in neoclassicism; thus (A) is not the answer. Paragraph
+4 states that one result of the French Revolution was an interest in neoclassicism;
+thus (B) is not the answer. (C) is related to (A); paragraph 2 states that
+the discoveries at Pompeii were "especially" connected to "enthusiasm" for
+neoclassical forms. This leaves (D) as the answer; no mention is made of Washington
+spending time in France or of Washington being connected to the rise of neoclassicism
+(it was Jefferson who spent time in France and who later was interested in
+neoclassicism).</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.08">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            All of the following are true about Thomas Jefferson EXCEPT</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            He admired Greco-Roman architecture</answer-choice>
+<answer-choice correct="yes">            He hired Charles L'Enfant to build
+Monticello</answer-choice>
+<answer-choice>            He served as ambassador to France</answer-choice>
+<answer-choice>            He was involved in the planning and design of Washington,
+D.C.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            Here, it is essential to find the statement that is  NOT
+true. (C) is correct because in paragraph five it states that Jefferson "fashioned
+[designed] his own famous estate, Monticello," therefore he could not have
+hired Charles L'Enfant to do it, Jefferson did hire L'Enfant to design the
+capital city. The other choices are all true (and therefore not the correct
+answer): (A) is noted in paragraph 3; (C) is noted in paragraph 4; (D) is
+noted in paragraph 5.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.09">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.mainidea"/></categoryRefs>
+<question-stem>
+<para>            In paragraph two, the author explains the interest in neoclassicism
+in the 18th century by</para>
+<para>            Paragraph 2 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            discussing the discovery of archaeological
+sites from ancient Greece and Rome</answer-choice>
+<answer-choice>            demonstrating the connection between democratic
+revolutions and ancient Greece</answer-choice>
+<answer-choice>            pointing out the European royalty's admiration
+for ancient Rome</answer-choice>
+<answer-choice>            asserting that European culture had been influenced
+by ancient Greece and Rome for centuries</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="3"/></passage-arrow>
+<explanation interaction="true">
+<para>            In sentence 2 of paragraph 2, the author notes that the
+"emerging field of archaeology" yielded new discoveries of Roman ruins and
+thus renewed appreciation for Greco-Roman architecture (A). The author then
+links the new enthusiasm to the growing interest in democracy. (B) is attractive
+because democratic revolution is mentioned; however, no connection to ancient
+Greece is made. (C) is incorrect; royalty is not mentioned. (D) is incorrect;
+neither culture nor centuries are mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.010">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.organization"/></categoryRefs>
+<question-stem>
+<para>            There are four squares [ <insertion-point enabled="no"/> ]
+in the passage. These squares represent places where the sentence below could
+be added to the passage.</para>
+<para>           <emphasis emphasis-type="bold">              Jefferson carried
+this grand vision back to America with him.</emphasis>         </para>
+<para>            Where would the sentence best fit?</para>
+<para class="question-direction">            Click on the square [ <insertion-point
+enabled="no"/> ] in the passage where the sentence fits the best.</para>
+</question-stem>
+<insert-sentence section-class="passage">
+<sentence>Jefferson carried this grand vision back to America with him.</sentence>
+<insertion-points>
+<insertion-point id="1"/>
+<insertion-point id="2"/>
+<insertion-point id="3"/>
+<insertion-point id="4" correctAnswer="yes"/></insertion-points>
+</insert-sentence>
+<explanation interaction="true">
+<para>            There are two main ideas in the new sentence: "grand vision"
+and "carried ... back to America with him." The sentence preceding (D) discusses
+subject matter that qualifies as a grand vision: new construction that "sought
+to resurrect ... the very scale and grandeur of ancient Roman  temples" This
+passage also discusses Jefferson's visit to France, which would lead naturally
+to a statement about bringing an idea "back to America." Passages preceding
+the other choices are incorrect because: (A) Edmund Woolley and Ebenezer Tomlinson
+are noted, not Jefferson; (B) no mention of travel is made; (C) classical
+inspiration is noted, but is not discussed as a grand vision.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.011">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            An important feature of American neoclassicism is</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            artwork depicting American crops</answer-choice>
+<answer-choice>            ornamentation</answer-choice>
+<answer-choice correct="yes">            a dome</answer-choice>
+<answer-choice>            Greek inscriptions</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail is presented in the last sentence of paragraph
+5 where it is stated that the dome (C) became one of the defining features
+of American neoclassicism. (A) is attractive because depiction of American
+crops on the columns in the Capitol's rotunda is noted in paragraph 6. However,
+it is not said that this feature appeared regularly American neoclassicism.
+Ornamentation (B) is too general to be a defining feature; most architectural
+styles have ornamentation. (D) Greek inscriptions are not mentioned in the
+passage.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.012">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.verbs"/></categoryRefs>
+<question-stem>
+<para>           <emphasis emphasis-type="italic">             <emphasis emphasis-type="bold">
+             Directions:</emphasis>           </emphasis> Choose the phrases
+from the answer choices list and then match them to the form of journalism
+to which they relate. You will NOT use SIX of the answer choices. <emphasis
+emphasis-type="italic"><emphasis emphasis-type="bold"> This question is worth
+2 points.</emphasis></emphasis></para>
+<para>            Select the appropriate names and phrases and match them
+with the period of</para>
+<para>            American neoclassicism with which they are associated.</para>
+<!--The following para needs to be in grey box-->
+<para>            Use the mouse to drag the answer choices to the spaces where
+they belong. To remove an answer choice from the placeholder, click on it.
+To look at the reading passage again, click on 'View Text.'</para>
+<!--Should be divided in 2 groups.-->
+<!--First group has 2 bullets and should be entitled 'Pre-Revolution American Neoclassicism'-->
+<!--Second group has 3 bullets and should be entitled 'Post-Revolution American Neoclassicism'-->
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="2" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="no">            Jeffersonian era</answer-choice>
+<answer-choice correct="yes" group="1">            Edmund Wooley</answer-choice>
+<answer-choice>            Wrought-iron railings</answer-choice>
+<answer-choice correct="yes" group="1">            Pennsylvania Statehouse</answer-choice>
+<answer-choice correct="no">            Benjamin Latrobe</answer-choice>
+<answer-choice correct="no">            United States Capitol</answer-choice>
+<answer-choice>            Pantheon</answer-choice>
+<answer-choice>            George Washington</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            In order to answer this question, you must understand that
+the U.S. Capitol (F) was not built until after the American Revolution, and
+you must select answers that relate to American neoclassicism.</para>
+<para>           <emphasis emphasis-type="italic">              Pre-Revolution
+American Neoclassicism: </emphasis>(B) Edmund Wooley and (D) the Pennsylvania
+Statehouse are correct because paragraph 3 clearly states that Edmund Wooley
+was one of the people who designed the Pennsylvania Statehouse "before the
+Revolutionary War."</para>
+<para>           <emphasis emphasis-type="italic">              Post-Revolution
+American Neoclassicism: </emphasis>In paragraph 5, the Jeffersonian era (A)
+is linked to the building of the U.S. Capitol, which expressed neoclassicism.
+Benjamin Latrobe (E) was the Capitol's (F) final architect.</para>
+<para>           <emphasis emphasis-type="italic">              None: </emphasis>(C)
+is not mentioned in the passage. (G) is attractive because the Capitol is
+"reminiscent" of the Pantheon; however, the Pantheon is not an American building,
+nor is it neoclassical. (H) is not an answer because George Washington is
+only mentioned briefly in the passage (he was president when Jefferson was
+ambassador to France), and not in relation to neoclassicism.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.012b">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.verbs"/></categoryRefs>
+<question-stem>
+<para>           <emphasis emphasis-type="italic">             <emphasis emphasis-type="bold">
+             Directions:</emphasis>           </emphasis> Choose the phrases
+from the answer choices list and then match them to the form of journalism
+to which they relate. You will NOT use FIVE of the answer choices. <emphasis
+emphasis-type="italic"><emphasis emphasis-type="bold"> This question is worth
+2 points.</emphasis></emphasis></para>
+<para>            Select the appropriate names and phrases and match them
+with the period of</para>
+<para>            American neoclassicism with which they are associated.</para>
+<!--The following para needs to be in grey box-->
+<para>            Use the mouse to drag the answer choices to the spaces where
+they belong. To remove an answer choice from the placeholder, click on it.
+To look at the reading passage again, click on 'View Text.'</para>
+<!--Should be divided in 2 groups.-->
+<!--First group has 2 bullets and should be entitled 'Pre- Revolution American Neoclassicism'-->
+<!--Second group has 3 bullets and should be entitled 'Post- Revolution American Neoclassicism'-->
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="yes" group="1">            Jeffersonian era</answer-choice>
+<answer-choice correct="no">            Edmund Wooley</answer-choice>
+<answer-choice>            Wrought-iron railings</answer-choice>
+<answer-choice correct="no">            Pennsylvania Statehouse</answer-choice>
+<answer-choice correct="yes" group="1">            Benjamin Latrobe</answer-choice>
+<answer-choice correct="yes" group="1">            United States Capitol</answer-choice>
+<answer-choice>            Pantheon</answer-choice>
+<answer-choice>            George Washington</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            In order to answer this question, you must understand that
+the U.S. Capitol (F) was not built until after the American Revolution, and
+you must select answers that relate to American neoclassicism.</para>
+<para>           <emphasis emphasis-type="italic">              Pre-Revolution
+American Neoclassicism: </emphasis>(B) Edmund Wooley and (D) the Pennsylvania
+Statehouse are correct because paragraph 3 clearly states that Edmund Wooley
+was one of the people who designed the Pennsylvania Statehouse "before the
+Revolutionary War."</para>
+<para>           <emphasis emphasis-type="italic">              Post-Revolution
+American Neoclassicism: </emphasis>In paragraph 5, the Jeffersonian era (A)
+is linked to the building of the U.S. Capitol, which expressed neoclassicism.
+Benjamin Latrobe (E) was the Capitol's (F) final architect.</para>
+<para>           <emphasis emphasis-type="italic">              None: </emphasis>(C)
+is not mentioned in the passage. (G) is attractive because the Capitol is
+"reminiscent" of the Pantheon; however, the Pantheon is not an American building,
+nor is it neoclassical. (H) is not an answer because George Washington is
+only mentioned briefly in the passage (he was president when Jefferson was
+ambassador to France), and not in relation to neoclassicism.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10102.013">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            According to the passage, what is the significance of the
+designs found on the columns in the Capitol's rotunda?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            They reflect the use of distinctly American stone-working
+technique.</answer-choice>
+<answer-choice>            They show the genius of Benjamin Latrobe.</answer-choice>
+<answer-choice correct="yes">            They are a uniquely American expression
+of neoclassicism</answer-choice>
+<answer-choice>            They demonstrate Thomas Jefferson's willingness
+to compromise on design decisions.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            The main idea of the passage is how neoclassicism is expressed
+in American architecture. In the last paragraph the author notes that the
+designs on the rotunda's columns reflect a distinctly American sensibility."
+This detail (C) relates to the main idea. The other three choices are not
+true.</para>
+</explanation>
+</question-set-member>
+</question-set>
+</gradItems>

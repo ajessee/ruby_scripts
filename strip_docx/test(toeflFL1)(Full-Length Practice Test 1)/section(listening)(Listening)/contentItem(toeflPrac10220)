@@ -1,0 +1,26 @@
+<gradItems>
+<question contentItemName="toeflPrac10220">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the professor say Hawaii should do to save its seals?<mediaExhibit
+frameType="mp3" mediaRef="toeflPrac10220.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Exchange more scientific data with researchers
+in Florida</answer-choice>
+<answer-choice> Begin a research program to learn as much as possible about
+the habitat needs of monk seals</answer-choice>
+<answer-choice> Educate the public to prevent further poaching of monk seals</answer-choice>
+<answer-choice> Consider Florida's experience with monk seals a warning of
+what could happen in Hawaii</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor says that Hawaiian monk seals are endangered, probably
+for similar reasons the Caribbean monk seals became extinct in Florida: tourism
+and rapid, uncontrolled development. So (D) is the correct choice. Though
+they are logical, (A), (B), and (C) are never mentioned as ways to save Hawaii's
+seals.</para>
+</explanation>
+</question>
+</gradItems>

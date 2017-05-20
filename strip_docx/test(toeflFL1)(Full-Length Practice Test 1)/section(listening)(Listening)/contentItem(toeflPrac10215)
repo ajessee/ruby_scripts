@@ -1,0 +1,23 @@
+<gradItems>
+<question contentItemName="toeflPrac10215">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What type of music did Petrucci print?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10215.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> Music written for a large orchestra</answer-choice>
+<answer-choice> Rare religious music</answer-choice>
+<answer-choice> Music that had never been printed before</answer-choice>
+<answer-choice correct="yes"> Music that was well-known</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that Petrucci aimed to sell to people who wanted
+to hear familiar music; <emphasis emphasis-type="italic"> well-known </emphasis>is
+a synonym for <emphasis emphasis-type="italic"> familiar. </emphasis>(A) is
+not a given reason and Petrucci did not focus on rare religious music (B).
+(C) is contrary to fact.</para>
+</explanation>
+</question>
+</gradItems>

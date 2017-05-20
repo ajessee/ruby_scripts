@@ -1,0 +1,31 @@
+<gradItems>
+<question contentItemName="toeflPrac10221vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.subordclause"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10221_01.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes">         Marine biologists do not believe there
+are isolated populations of monk seals</answer-choice>
+<answer-choice>          Marine biologists hope science will find a way to
+restore the monk seal population.</answer-choice>
+<answer-choice>          Marine biologists feel the time has come for frank
+discussion about pollution in the Caribbean.</answer-choice>
+<answer-choice>          Marine biologists think isolated islands in the Caribbean
+offer the best chance of finding populations of monk seals.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>          The function of the idiomatic expression <emphasis emphasis-type="italic"> wishful
+thinking </emphasis>is to show that what is desired is impossible, or at least
+improbable, to achieve; therefore, marine biologists do not believe that they
+exist. <emphasis emphasis-type="italic"> Hopes, </emphasis>unlike wishes,
+indicate possibilities (B). <emphasis emphasis-type="italic"> Frank discussions </emphasis>(C)
+and <emphasis emphasis-type="italic"> offer the best chance </emphasis>(D)
+have nothing to do with the original statement.</para>
+</explanation>
+</question>
+</gradItems>

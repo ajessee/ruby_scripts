@@ -1,0 +1,1192 @@
+<gradItems>
+  <question-set contentItemName="tasc140001Atom" title="Start here">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140001" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140002Atom" title="About TASC">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140002" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140003Atom" title="Familiar with the old GED? Similarities and differences">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140003" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140006Atom" title="Sources of discouragement">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140006" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140008Atom" title="How to manage your discouragement">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140008" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140009Atom" title="How to get more help">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140009" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140010Atom" title="Introduction">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140010" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140011Atom" title="If you're taking one test at a time">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140011" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140012Atom" title="If you're taking 2-3 tests at one time ">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140012" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140013Atom" title="If you're taking all the tests on or close to the same day">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140013" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140014Atom" title="If you're retaking one or more tests you've taken previously">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140014" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140015Atom" title="Conclusion">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140015" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140016Atom" title="Introduction">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140016" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140017Atom" title="If you're taking one test at a time">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140017" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140018Atom" title="If you're taking 2-3 tests at one time ">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140018" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140019Atom" title="If you're taking all the tests on or close to the same day">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140019" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140020Atom" title="If you're retaking one or more tests you've taken previously">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140020" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140021Atom" title="Study habits dos and don'ts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140021" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140022Atom" title="Good luck!">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140022" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140023Atom" title="Introduction ">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140023" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140024Atom" title="When you can use a calculator on the TASC">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140024" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140025Atom" title="Types of calculators you might use on test day">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140025" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140026Atom" title="How to tell if you should use the calculator">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140026" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140027Atom" title="Studying with a calculator">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140027" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140028Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140028" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140029Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140029" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140030Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140030" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140031Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140031" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140032Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140032" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140033Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140033" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140034Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140034" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140035Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140035" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140036Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140036" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140037Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140037" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140038Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140038" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140039Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140039" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140040Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140040" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140041Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140041" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140042Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140042" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140043Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140043" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140044Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140044" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140045Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140045" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140046Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140046" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140047Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140047" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140048Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140048" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140049Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140049" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140050Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140050" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140051Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140051" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140052Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140052" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140053Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140053" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140054Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140054" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140055Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140055" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140056Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140056" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140057Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140057" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140058Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140058" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140059Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140059" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140060Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140060" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140061Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140061" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140062Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140062" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140063Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140063" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140064Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140064" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140065Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140065" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140066Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140066" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140067Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140067" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140068Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140068" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140069Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140069" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140070Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140070" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140071Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140071" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140072Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140072" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140073Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140073" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140074Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140074" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140075Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140075" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140076Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140076" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140077Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140077" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140078Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140078" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140079Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140079" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140080Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140080" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140081Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140081" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140082Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140082" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140083Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140083" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140084Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140084" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140085Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140085" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140086Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140086" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140087Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140087" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140088Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140088" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140089Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140089" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140090Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140090" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140091Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140091" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140092Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140092" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140093Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140093" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140094Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140094" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140095Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140095" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140096Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140096" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140097Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140097" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140098Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140098" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140099Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140099" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140100Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140100" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140101Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140101" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140102Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140102" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140103Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140103" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140104Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140104" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140105Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140105" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140106Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140106" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140107Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140107" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140108Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140108" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140109Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140109" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140110Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140110" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140111Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140111" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140112Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140112" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140113Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140113" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140114Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140114" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140115Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140115" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140116Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140116" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140117Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140117" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140118Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140118" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140119Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140119" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140120Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140120" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140121Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140121" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140122Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140122" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140123Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140123" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140124Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140124" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140125Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140125" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140126Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140126" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140127Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140127" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140128Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140128" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140129Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140129" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140130Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140130" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140131Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140131" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140132Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140132" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140133Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140133" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140134Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140134" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140135Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140135" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140136Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140136" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140137Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140137" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140138Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140138" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140139Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140139" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140140Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140140" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140141Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140141" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140142Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140142" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140143Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140143" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140144Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140144" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140145Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140145" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140146Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140146" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140147Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140147" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140148Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140148" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140149Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140149" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140150Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140150" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140151Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140151" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140152Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140152" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140153Atom" title="Activate what you already know">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140153" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140154Atom" title="How to study this material">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140154" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140155Atom" title="Key concepts">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140155" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140156Atom" title="Key test-taking strategies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140156" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140157Atom" title="Keep your study momentum">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140157" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140158Atom" title="Continuing your studies">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140158" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140159Atom" title="Final preparations for test day">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140159" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc140160Atom" title="Managing test day stress">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc140160" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150001Atom" title="Writing a High-Scoring Essay">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150001" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150002Atom" title="Comparing Functions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150002" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150003Atom" title="Rational vs Irrational Numbers">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150003" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150004Atom" title="The Complex Number System">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150004" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150005Atom" title="Transformations in the Plane">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150005" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150006Atom" title="Analyzing Historical Texts Part I: Central Ideas">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150006" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150007Atom" title="Analyzing Historical Texts Part II: Author Opinions">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150007" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150008Atom" title="Analyzing Historical Texts Part III: Inferences">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150008" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150009Atom" title="Modeling Systems">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150009" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150010Atom" title="Equilibrium, Change, and Cycles">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150010" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150011Atom" title="Electromagnetic Radiation">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150011" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc150012Atom" title="Mastering the Use of Science Formulas">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc150012" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+  <question-set contentItemName="tasc2014034Atom" title="Leading Up to Test Day">
+    <stimulus>
+      <para>
+        <atomVideo type="videojs" source="" referenceName="tasc2014034" height="" width="" controls="show"></atomVideo>
+      </para>
+    </stimulus>
+  </question-set>
+</gradItems>

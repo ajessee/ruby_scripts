@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10213vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<mediaExhibit frameType="flv" mediaRef="toeflPrac10213_01.mp4"/>
+<para></para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> That he is returning to his original topic after
+an interruption</answer-choice>
+<answer-choice> That he wants to find out what the students know</answer-choice>
+<answer-choice> That he is summarizing the argument so far</answer-choice>
+<answer-choice> That he is unsure what is being asked</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> "So ... what about the music?" means that the professor wants to explore
+the earlier topic of music further (A). This is a rhetorical question; therefore,
+he is not trying to discover (find out) or elicit his students' responses
+(B). <emphasis emphasis-type="italic"> So </emphasis>here does not mean <emphasis
+emphasis-type="italic"> therefore </emphasis>or <emphasis emphasis-type="italic"> to</emphasis><emphasis
+emphasis-type="italic"> summarize </emphasis>(C). The professor's tone is
+confident, rather than unsure of his topic (D).</para>
+</explanation>
+</question>
+</gradItems>

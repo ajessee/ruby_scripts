@@ -1,0 +1,28 @@
+<gradItems>
+<question contentItemName="toeflPrac10232">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.organization"/></categoryRefs>
+<question-stem>
+<para> How does the professor characterize the spoken language children use
+before they enter school?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10232.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> As primarily short sentences using simple words and phrases</answer-choice>
+<answer-choice> As more advanced than the language they use in reading and
+writing</answer-choice>
+<answer-choice correct="yes"> As centered on contexts involving "here" and
+"now"</answer-choice>
+<answer-choice> As grammatically inaccurate most of the time</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that the conversations of pre-schoolers are <emphasis
+emphasis-type="italic"> usually about </emphasis>things and people "here"
+and "now," so (C) is correct. (A) is incorrect because the professor states
+that written sentences are longer (than spoken sentences), but she doesn't
+limit this characteristic to pre-schoolers. (B) is false, and while she states
+that, in general, there are grammatical errors in spoken language, she does
+not state that pre-school children make mistakes in their language use "most
+of the time," so (D) is not correct.</para>
+</explanation>
+</question>
+</gradItems>

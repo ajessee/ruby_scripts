@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10206vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10206_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> East Asian politics</answer-choice>
+<answer-choice> Classical Greek poetry</answer-choice>
+<answer-choice> World history</answer-choice>
+<answer-choice correct="yes">         Japanese literature</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (D) is correct because the student says she is studying Japanese literature,
+specifically Classical Japanese Poetry (poetry is one form of literature).
+(A) is attractive because Japan is in East Asia, but the student is not studying
+politics. (D) is attractive because it repeats the words <emphasis emphasis-type="italic"> classical </emphasis>and <emphasis
+emphasis-type="italic"> poetry. </emphasis>(C) is not mentioned.</para>
+</explanation>
+</question>
+</gradItems>

@@ -1,0 +1,20 @@
+<gradItems>
+<question contentItemName="toeflPrac10205">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.inference"/></categoryRefs>
+<question-stem>
+<para> What can be inferred about the student's performance in class this
+semester?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10205.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> He has had good grades and attendance until
+recently.</answer-choice>
+<answer-choice> He is unlikely to improve his attendance.</answer-choice>
+<answer-choice> His grades have been decreasing steadily.</answer-choice>
+<answer-choice> His poor attendance has lowered his grade.</answer-choice>
+</answer-choice-set>
+<explanation>
+<para></para>
+</explanation>
+</question>
+</gradItems>

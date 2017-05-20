@@ -1,0 +1,24 @@
+<gradItems>
+<question contentItemName="toeflPrac10214">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.organization"/></categoryRefs>
+<question-stem>
+<para> According to the discussion, which of the following problems slowed
+down the rise of music printing?<mediaExhibit frameType="mp3" mediaRef="toeflPrac10214.mp3"/></para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3">
+<answer-choice> Professional musicians often could not read music.</answer-choice>
+<answer-choice correct="yes"> Music is complex to print.</answer-choice>
+<answer-choice correct="yes"> Printers were more interested in publishing
+other. material.</answer-choice>
+<answer-choice> Local rulers refused to grant licenses for printing music.</answer-choice>
+<answer-choice correct="yes"> There were not many potential customers.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> Three key reasons for the slowing down in the rise of music printing
+are that it was difficult to print, printers were more interested in other
+areas of concentration, and there was not a great demand for music printing
+at that time. (A) is not a main reason, and (D) is not mentioned.</para>
+</explanation>
+</question>
+</gradItems>

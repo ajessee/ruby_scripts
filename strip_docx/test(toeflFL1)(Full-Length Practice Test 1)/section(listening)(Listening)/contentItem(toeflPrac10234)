@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10234">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<question-stem>
+<para> Why does the professor say this: <mediaExhibit frameType="mp3" mediaRef="toeflPrac10234_02.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> To emphasize that all humans are born with an
+ability to learn language</answer-choice>
+<answer-choice> To indicate that genetic background plays a role in determining
+how well people acquire languages</answer-choice>
+<answer-choice> To correct a commonly held misperception about language acquisition</answer-choice>
+<answer-choice> To assure her audience that all children can be taught to
+read and write</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> The professor states that the language skill is innate, which means
+that all humans are born with it, so (A) is correct. This does not determine
+how well the language will be acquired, so (B) does not relate to her statement.
+She does not state that this contradicts a common misperception (C), and she
+is talking about spoken language, not reading and writing, so (D) is incorrect.</para>
+</explanation>
+</question>
+</gradItems>

@@ -1,0 +1,23 @@
+<gradItems>
+<question contentItemName="toeflPrac10202">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.vocab"/></categoryRefs>
+<question-stem>
+<para> What does the student say regarding his work?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10202.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice> His bakery job does not have a set schedule.</answer-choice>
+<answer-choice correct="yes"> His Environmental Systems job ends in four weeks.</answer-choice>
+<answer-choice> His job at the bakery conflicts with the class schedule.</answer-choice>
+<answer-choice> His Environmental Systems job begins at the end of the semester.</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para> (B) is correct because the student says that his job will last only
+another four weeks. His bakery job's hours are late at night and do not conflict
+with his class hours (A, C). His Environmental Systems job ends in four weeks,
+one week after the midterm (mid-semester), rather than starting at the end
+(D).</para>
+</explanation>
+</question>
+</gradItems>

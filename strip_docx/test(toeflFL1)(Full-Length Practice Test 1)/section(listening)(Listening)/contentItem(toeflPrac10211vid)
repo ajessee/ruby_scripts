@@ -1,0 +1,25 @@
+<gradItems>
+<question contentItemName="toeflPrac10211vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.context"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <mediaExhibit frameType="flv" mediaRef="toeflPrac10211_00.mp4"/>
+       </para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice> When manuscript copying was replaced by music printing</answer-choice>
+<answer-choice correct="yes"> How text printing led to the development of,
+music printing</answer-choice>
+<answer-choice> Why printed music is as elegant and beautiful as manuscripts</answer-choice>
+<answer-choice> Who bought printed music in the sixteenth century</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para>         <catRef-GRAD-UQTopic categoryName="listen.context"/> The professor
+begins his lecture by stating that the topic of the lecture is the beginnings
+of the music printing industry, which would lead to its development (B). The
+other options are details, not main ideas.</para>
+</explanation>
+</question>
+</gradItems>

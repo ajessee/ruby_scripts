@@ -1,0 +1,27 @@
+<scoreConversionTable name="speaking">
+  <scoreConversionEntry n="24" scaledScore="30"/>
+  <scoreConversionEntry n="23" scaledScore="29"/>
+  <scoreConversionEntry n="22" scaledScore="28"/>
+  <scoreConversionEntry n="21" scaledScore="27"/>
+  <scoreConversionEntry n="20" scaledScore="26"/>
+  <scoreConversionEntry n="19" scaledScore="24"/>
+  <scoreConversionEntry n="18" scaledScore="23"/>
+  <scoreConversionEntry n="17" scaledScore="22"/>
+  <scoreConversionEntry n="16" scaledScore="20"/>
+  <scoreConversionEntry n="15" scaledScore="19"/>
+  <scoreConversionEntry n="14" scaledScore="18"/>
+  <scoreConversionEntry n="13" scaledScore="17"/>
+  <scoreConversionEntry n="12" scaledScore="15"/>
+  <scoreConversionEntry n="11" scaledScore="14"/>
+  <scoreConversionEntry n="10" scaledScore="13"/>
+  <scoreConversionEntry n="9" scaledScore="11"/>
+  <scoreConversionEntry n="8.0" scaledScore="10"/>
+  <scoreConversionEntry n="7" scaledScore="9"/>
+  <scoreConversionEntry n="6" scaledScore="8"/>
+  <scoreConversionEntry n="5" scaledScore="6"/>
+  <scoreConversionEntry n="4" scaledScore="5"/>
+  <scoreConversionEntry n="3" scaledScore="4"/>
+  <scoreConversionEntry n="2" scaledScore="3"/>
+  <scoreConversionEntry n="1" scaledScore="1"/>
+  <scoreConversionEntry n="0" scaledScore="0"/>
+</scoreConversionTable>

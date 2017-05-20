@@ -1,0 +1,23 @@
+<gradItems>
+<question contentItemName="toeflPrac10210">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.inference"/></categoryRefs>
+<question-stem>
+<para> What will the student probably do next?<mediaExhibit frameType="mp3"
+mediaRef="toeflPrac10210.mp3"/></para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes"> Print an article</answer-choice>
+<answer-choice> Check the journal out from the library</answer-choice>
+<answer-choice> Show the librarian her student ID</answer-choice>
+<answer-choice> Save an article to a disk</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>The last statement in the dialogue is the librarian's instruction on
+how the student can print the article (A); therefore, you can infer that the
+student plans to use the printer. None of the other three choices are mentioned
+at the end of the conversation, so there is no evidence from which you can
+draw an inference.</para>
+</explanation>
+</question>
+</gradItems>

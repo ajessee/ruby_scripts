@@ -1,0 +1,84 @@
+  string = ""
+  row.cells[1].paragraphs.each { |p| string << p.to_html }
+  xml = Nokogiri::XML string
+
+
+
+  collect_array = []
+  xml.xpath("//span").each { |node| collect_array << node.children.text  }
+  collect_array.delete_if { |e| e == "" }
+  collect_array.map! { |e| e.lstrip }
+  collect_array.map! { |e| e.lstrip }
+  puts collect_array
+  text_array = []
+  collect_array.each_with_index  do |element, index|
+    if index.even? || index == 0
+     text_array << [element, collect_array[index+1]] if element != nil
+    end
+  end
+  hash[:array] = text_array
+  xml.xpath("//span").map { |child| child.remove if child.children.empty? }
+else
+  hash[row.cells[0].text] = row.cells[1].text.rstrip
+
+
+next step is to convert each of these ruby objects to a compliant XML file for Jasper
+research what a compliant XML file for TOEFL looks like and then use nokogiri to build the XML files
+give Oscar sample XML files to test if we can get it into the system
+
+doc = Nokogiri::XML
+h3 = Nokogiri::XML::Node.new "h3", doc
+
+# This takes the cell with the text from the listening stimulus and turns it into an HTML string:
+string = ""
+test_file.tables.first.rows[5].cells[1].paragraphs.each { |p| string << p.to_html }
+
+This takes that string and turns it into an XML file
+xml = Nokogiri::XML string
+To write it to a file
+File.write("test.xml", xml.to_xml)
+
+Find empty spans and delete
+xml.xpath("//span").map { |child| child.remove if child.children.empty? }
+
+what.xpath("//span").each_with_index { |s, i| s.children[i].name == "strong" ? hash[s.children[i].text] = s.children[i++].text : next }
+what.xpath("//span").each_cons(2) { |element, n| hash[element.children[0].text] =  n.children[0].text if element.children[0].name == "strong" ?  }
+
+what.xpath("//span").each_cons(2) do |element, n|
+  if element.child.name == "strong"
+   hash[element.children[0].text] =  n.children[0].text
+  end
+end
+
+array = []
+
+a.each_with_index  do |e, i|
+  if i.even? || i == 0
+   array << [e, a[i+1]]
+ end
+end
+
+
+xml.xpath("//span").each_cons(2) do
+  |s, s1| hash[s.children[0].text] = s1
+
+string = ""
+test_file.tables.first.rows[5].cells[1].paragraphs.each { |p| string << p.to_html }
+array = []
+xml = Nokogiri::XML string
+xml.xpath("//span").each { |n| a << n.children.text  }
+a.delete_if { |e| e == "" }
+a.map! { |e| e.lstrip }
+a.map! { |e| r.lstrip }
+
+
+load "doc_tables_to_ruby.rb"
+load "questions.rb"
+require 'docx'
+require 'nokogiri'
+require 'byebug'
+def convert(filename)
+  doc = Docx::Document.open(filename)
+end
+test_file = convert("original_files/01 Kaplan Progress Test 1.docx")
+array = doc_tables_to_ruby(test_file)

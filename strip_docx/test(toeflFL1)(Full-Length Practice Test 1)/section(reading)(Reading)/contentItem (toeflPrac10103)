@@ -1,0 +1,456 @@
+<gradItems>
+<question-set contentItemName="toeflPrac10103">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<stimulus>
+<passage>
+<para>           <emphasis emphasis-type="italic">             Agonistic Displays</emphasis>
+       </para>
+<para>           Animals exhibit many kinds of display behavior. Among the
+most familiar are courtship displays used when animals intend to mate. Another
+well-known set of display patterns are termed <highlightSpan id="toeflPrac10103_01"> agonistic</highlightSpan> ;
+these are displays used by animals in situations involving attack, escape,
+or fear. Scientists have discovered that there are three <highlightSpan id="toeflPrac10103_02"> discrete</highlightSpan> types
+of motor patterns used as basic building blocks for agonistic displays, all
+of which arise out of conflict between competing emotional motivations. Most
+agonistic displays are derived from these three sets of motor patterns.<sentence-insertion-point
+id="1"></sentence-insertion-point></para>
+<para>           The first motor pattern consists of irrelevant actions, which
+animal behaviorists call displacement activities. These are actions that appear
+to be performed in inappropriate contexts. In one experimental setting, male
+Wood Thrushes put in a position that required a choice between attacking <emphasis
+emphasis-type="italic"> or </emphasis>fleeing would begin to scratch, or clean
+their wings, eat,   or even sleep. Examples of a displacement activity in
+humans would be chewing one's nails or drumming one's fingers on the table
+when nervous, or whistling when scared. In such situations, there seems to
+be a feeling that an action-any action-is called for, whether it is appropriate
+or not. Displacement activities usually consist of actions normally associated
+with parts of an individual's daily maintenance routine-actions such as preening,
+scratching, yawning, stretching, and eating.</para>
+<para>           The second motor pattern consists of actions performed in
+the correct contexts, but directed towards the wrong objects, and are called
+redirected activities. These are most common when an initial intention is <highlightSpan
+id="toeflPrac10103_04"> thwarted</highlightSpan>, or otherwise unable to be
+completed. <sentence-insertion-point id="2"></sentence-insertion-point>For
+example, a male bird might be unable or unwilling to risk attacking another
+larger bird invading his territory, and in stead peck at the branch upon which
+he is perched. A dog on a leash might be tempted to bite another dog, but
+restrained by its owner from doing so, <highlightSpan id="toeflPrac10103_05"> it</highlightSpan> tries
+to bite its owner or a nearby object. An employee angry with his boss might
+yell at a friend or relative. Redirected activities, like displacement activities,
+arise out of conflict between motivations, and convey information about the
+emotional<highlightSpan id="toeflPrac10103_06"> state</highlightSpan> of the
+animal.</para>
+<para>           The third motor pattern consists of uncompleted initial stages
+of ordinary actions, called intention movements. Examples would be birds crouching
+just before taking off, or someone making a fist before hitting another person.
+The bird may not actually take off, and a person may not actually strike the
+opponent, but the intent has been signaled. An emotional conflict arises out
+of whether to follow through on the act once it has been signaled as having
+begun. These intention movements reveal information about the animal's emotional
+state.</para>
+<para>           Displacement activities, redirected activities, and intention
+movements all convey information about the animal's motivations and emotional
+state. <sentence-insertion-point id="3"></sentence-insertion-point>Over time,
+exaggeration and stereotyping ritualize these behaviors and incorporate them
+into displays. The exaggeration and stereotyping of the components of a display
+are important in creating unambiguous communication. If the movements vary
+too much between individuals within a species, or in one individual over time,
+then the information content becomes less clear.</para>
+<para>           While the information content of an agonistic display may
+be clear to the animals involved, it is less so to the scientists who study
+displays. Several key questions about agonistic displays remain unanswered:
+Do displays always reveal the true intentions of an animal? Do animals ever
+use displays to bluff or lie about their intentions?</para>
+<para>           Some scientists argue that it makes sense for animals to
+bluff. <highlightSpan id="toeflPrac10103_010"> If a display signaling a readiness
+to attack a rival over a food resource results in the rival's departure, then
+it is worth signaling, even if there is no true resolve to fight.</highlightSpan> In
+theory, an animal that always signals it intends to attack, regardless of
+its actual intention, will initially win more contests than one that signals
+honestly.<sentence-insertion-point id="4"></sentence-insertion-point></para>
+<para>           However, other researchers have pointed out that if winning
+contests plays a major role in gaining reproductive success, cheaters sending
+false signals would spread through the population rapidly, Soon, others would
+learn to ignore these signals. If the reliability of the information contained
+in the display decreases over time, eventually there would no point in reacting
+to it.</para>
+<para>           Much more research is needed before scientists have a full
+understanding of the complex information content and actual uses of agonistic
+displays.</para>
+</passage>
+</stimulus>
+<question-set-member contentItemName="toeflPrac10103.01">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            Based on the information in paragraph 1, <highlightSpan> agonistic</highlightSpan> display
+patterns</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            involve injury, pain, or suffering</answer-choice>
+<answer-choice>            help others through self-sacrifice</answer-choice>
+<answer-choice correct="yes">            have to do with attacking, escaping,
+or being afraid</answer-choice>
+<answer-choice>            show intent to perform an action before it is actually
+performed</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_01"/>
+<explanation interaction="true">
+<para>            In paragraph 1, <emphasis emphasis-type="italic"> agonistic </emphasis>is
+defined as "display used by animals in situations involving attack, escape,
+or fear." Therefore, (C) is correct. (A) is attractive because an animal might
+suffer injury or pain in such a situation. (B) is not mentioned. (D) is attractive
+because "intention movements" are mentioned in paragraph 4.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.02">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> discrete</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            distinct</answer-choice>
+<answer-choice>            similar</answer-choice>
+<answer-choice>            cautious</answer-choice>
+<answer-choice>            unknown</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_02"/>
+<explanation interaction="true">
+<para>            In this sentence <emphasis emphasis-type="italic"> discrete </emphasis>is
+an adjective modifying the word <emphasis emphasis-type="italic"> types. Discrete </emphasis>means
+separate or distinct (A). The passage goes on to describe three distinct types
+of motor patterns, which is a clue to meaning. (B) <emphasis emphasis-type="italic"> similar </emphasis>is
+attractive because the sentence speaks about building blocks, which might
+lead one to guess that the types of motor patterns are similar. (C) <emphasis
+emphasis-type="italic"> cautious </emphasis>is attractive because agonistic
+behaviors deal with situations that call for caution. (D) <emphasis emphasis-type="italic"> unknown </emphasis>is
+incorrect; a clue to meaning is that the passage goes on to describe the patterns,
+which would be impossible if they were unknown.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.03">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            What do animal behaviorists call acts that seem to be inappropriate
+for their contexts?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            bluffing</answer-choice>
+<answer-choice>            redirected activities</answer-choice>
+<answer-choice>            agnostic movements</answer-choice>
+<answer-choice correct="yes">            displacement activities</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This question requires you to link information in two sentences.
+The first sentence of paragraph 2 describes "irrelevant actions" called displacement
+activities (D). The following sentence states the actions are inappropriate
+for their contexts. (A) <emphasis emphasis-type="italic"> bluffing</emphasis> is
+not discussed in relation to any particular pattern typo (paragraphs 6 and
+7). In addition, it would <emphasis emphasis-type="italic"> not</emphasis> be
+inappropriate for an animal to bluff a rival over a food source. (B) <emphasis
+emphasis-type="italic"> redirected</emphasis><emphasis emphasis-type="italic"> activities</emphasis> is
+incorrect; see paragraph 3. (C) <emphasis emphasis-type="italic"> agonistic</emphasis><emphasis
+emphasis-type="italic"> movements</emphasis> is attractive because all the
+movement patterns are agonistic; this answer is too general.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.04">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> thwarted</highlightSpan> in the
+passage is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            replaced</answer-choice>
+<answer-choice correct="yes">            prevented</answer-choice>
+<answer-choice>            attempted</answer-choice>
+<answer-choice>            destroyed</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_04"/>
+<explanation interaction="true">
+<para>           <emphasis emphasis-type="italic">              Thwarted</emphasis> means
+to oppose successfully, which in this case would stop or (B) prevent the action.
+A clue to meaning is in the next clause : "unable to be completed." (A) <emphasis
+emphasis-type="italic"> replaced </emphasis>is attractive because the paragraph
+describes animals that direct action toward wrong objects, and thus could
+be said to replace one object for another. (C) <emphasis emphasis-type="italic"> attempted
+ </emphasis>is attractive because an animal may attempt one action and have
+to redirect its behavior. (D) <emphasis emphasis-type="italic"> destroyed</emphasis> means
+to put out of existence, which makes it attractive. However, the intention
+is not eliminated; it continues to exist, but is prevented.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.05">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.reference"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> it</highlightSpan>in paragraph
+3 refers to</para>
+<para>            Paragraph 3 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            a dog</answer-choice>
+<answer-choice>            a leash</answer-choice>
+<answer-choice>            a temptation</answer-choice>
+<answer-choice>            an object</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_05"/>
+<passage-arrow>
+<arrowSpan para-index="3"/></passage-arrow>
+<explanation interaction="true">
+<para>            The pronominal referent must precede the word It and must
+possess the ability to "try to bite its owner." The first clause of the sentence
+notes a dog that  "might be tempted to bite," therefore (D) dog is the correct
+answer. (B) a leash, (C) a <emphasis emphasis-type="italic"> temptation</emphasis>,
+and (D) an object are incorrect and could be eliminated quickly as none can
+bite its owner.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.06">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.vocab"/></categoryRefs>
+<question-stem>
+<para>            The word <highlightSpan> state</highlightSpan> in the passage
+is closest in meaning to</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            country</answer-choice>
+<answer-choice>            express</answer-choice>
+<answer-choice>            explain</answer-choice>
+<answer-choice correct="yes">            condition</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_06"/>
+<explanation interaction="true">
+<para>            In this sentence <emphasis emphasis-type="italic"> state</emphasis> is
+used as a noun and is  modified by the adjective <emphasis emphasis-type="italic"> emotional</emphasis>,
+which is a  clue to meaning: emotional condition (D) . Of the 4  words presented,
+only (A) <emphasis emphasis-type="italic"> country</emphasis> and (D)  <emphasis
+emphasis-type="italic"> condition</emphasis> are nouns. (A) is attractive
+because a  state is part of a country, however, it can be  eliminated because
+a country cannot be described  as emotional. (B) <emphasis emphasis-type="italic"> express</emphasis> and
+(C) <emphasis emphasis-type="italic"> explain</emphasis>, both  verbs, are
+attractive because they are synonyms  of <emphasis emphasis-type="italic"> state</emphasis> in
+its verb form.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.07">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            An important factor in creating display patterns is</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            vocalization of intent</answer-choice>
+<answer-choice>            repetition of complex acts</answer-choice>
+<answer-choice correct="yes">            stereotyping of behaviors</answer-choice>
+<answer-choice>            recognition of individual's markings</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail is presented in paragraph 5. Stereotyping (C)
+is mentioned in the second and third sentences. The importance of this factor
+in creating display patterns is explained in sentences 3 and 4. (A) is not
+mentioned. (B) is attractive because stereotyping can be defined as the repetition
+of complex acts . (D) is not mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.08">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.fact"/></categoryRefs>
+<question-stem>
+<para>            Which of the following is mentioned as a potential cause
+for miscommunication?</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            Variation in display movements</answer-choice>
+<answer-choice correct="no">            Display movements that are similar</answer-choice>
+<answer-choice correct="no">            Poor execution of display movements</answer-choice>
+<answer-choice correct="no">            Introduction of new display movements</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            This detail (A) is presented in the last sentence of paragraph
+5. A due to meaning is the phrase "unambiguous [clear] communication" in the
+preceding sentence, which locates the topic of communication. One must also
+understand that in the last sentence, "information content becomes less clear"
+means that miscommunication occurs. (B), (C), and (D) are attractive because
+each would logically result in miscommunication, however, none of these are
+mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.09">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.mainidea"/></categoryRefs>
+<question-stem>
+<para>            In paragraph 6, the author illustrates that there are unresolved
+issues regarding information content in agonistic displays by</para>
+<para>            Paragraph 6 is marked with an arrow [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="yes">            posing questions</answer-choice>
+<answer-choice correct="no">            citing examples of faulty research</answer-choice>
+<answer-choice correct="no">            describing the problems in detail</answer-choice>
+<answer-choice correct="no">            quoting the works of a well-known
+scientist</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="7"/></passage-arrow>
+<explanation interaction="true">
+<para>            In the first sentence of this paragraph the author introduces
+the idea that the information content of agonistic displays may be unclear
+to scientists. The author then poses or asks questions (A), each of which
+opens an area of doubt to be examined. Authors often use this device to illustrate
+unresolved issues. (B), (C), and (D) are incorrect.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.010">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.diction"/></categoryRefs>
+<question-stem>
+<para>            Which of the following best expresses the essential information
+in the highlighted sentence in the passage? <emphasis emphasis-type="italic"> Incorrect </emphasis>choices
+change the meaning in important ways or leave out essential information.</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice correct="no">            If an animal does not have the resolve
+to fight, it should not signal a readiness to attack.</answer-choice>
+<answer-choice correct="yes">            When signaling willingness to fight
+is enough to scare away rivals, then it should be done.</answer-choice>
+<answer-choice correct="no">            By attacking rivals for food resources,
+an animal signals that it is superior and therefore the best mate.</answer-choice>
+<answer-choice correct="no">            It is worth signaling the ownership
+of a rival's food resource if the rival does not have the resolve to fight.</answer-choice>
+</answer-choice-set>
+<passage-highlight id="toeflPrac10103_010"/>
+<explanation interaction="true">
+<para>            Essential information noted in the highlighted sentence
+includes three key phrases that are paraphrased in (B). "Readiness to attack"
+can be paraphrased as "willingness to fight." "Results in the rival's departure"
+is similar to "'scare away rivals," although the original phrase does not
+include the concept of fear. "Then it is worth signaling" implies "it should
+be done." The meaning of the second clause in (A) is contrary to that of the
+highlighted statement. (C) is incorrect; the quality of being a superior mate
+is not mentioned. (D) is incorrect; not having the resolve to fight is mentioned
+in relation to the animal that attacks a rival, not the rival.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.011">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.organization"/></categoryRefs>
+<question-stem>
+<para>            There are four squares [ <insertion-point enabled="no"/> ]
+in the passage. These squares represent places where the sentence below could
+be added to the passage.</para>
+<para>           <emphasis emphasis-type="bold">              Dishonest most
+likely results in the extinction of a display behavior.</emphasis>
+ </para>
+<para>            Where would the sentence best fit?</para>
+<para class="question-direction">            Click on the square [ <insertion-point
+enabled="no"/> ] in the passage where the sentence fits the best.</para>
+</question-stem>
+<insert-sentence section-class="passage">
+<sentence>Dishonest most likely results in the extinction of a display behavior.</sentence>
+<insertion-points>
+<insertion-point id="1"/>
+<insertion-point id="2"/>
+<insertion-point id="3" correctAnswer="yes"/>
+<insertion-point id="4"/></insertion-points>
+</insert-sentence>
+<explanation interaction="true">
+<para>            The key to coherence here is found in the words dishonesty
+and extinction. The sentence preceding (C) discusses tho reliability of information
+that decreases over time1 which forms a link to dishonesty. This sentence
+also introduces the idea of no longer reacting to a display, which leads naturally
+to a statement about the extinction (elimination) of a display behavior. (A)
+is attractive because dishonesty can be confused with information content
+becoming less dear. But dishonesty requires intent to deceive, which is not
+a factor here. (B) is attractive because honestly appears in the preceding
+sentence. But, t his sentence indicates that an animal that signals dishonestly
+will win, which is opposite in meaning to the new sentence. (D) is entirely
+unrelated.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.012">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="rc.inference"/></categoryRefs>
+<question-stem>
+<para>            Based on the information in paragraph 7 and paragraph 8,
+what can be inferred about bluffing?</para>
+<para>            Paragraph 7 and paragraph 8 are marked with arrows [<arrowSpan/>].</para>
+</question-stem>
+<answer-choice-set>
+<answer-choice>            It is not a genetic trait.</answer-choice>
+<answer-choice>            Most animals will bluff under certain conditions.</answer-choice>
+<answer-choice>            There is no scientific evidence to suggest that
+animals bluff.</answer-choice>
+<answer-choice correct="yes">            Scientists disagree as to whether
+it is advantageous for animals to bluff.</answer-choice>
+</answer-choice-set>
+<passage-arrow>
+<arrowSpan para-index="8"/>
+<arrowSpan para-index="9"/></passage-arrow>
+<explanation interaction="true">
+<para>            Paragraph 7 discusses why scientists believe that it would
+be advantageous for animals to bluff, and paragraph 8 takes the opposite position.
+Thus, the author infers that scientists disagree (D). (A) is incorrect; the
+author infers that bluffing Is a genetic trait by stating that "cheaters would
+spread through the population rapidly ." (B) is incorrect; neither paragraph
+states that animals actually bluff. Both paragraphs discuss imagined behavior.
+(C) is incorrect; while both paragraphs discuss imagined behavior--which is
+not scientific evidence--the concept of lack of scientific evidence is not
+mentioned.</para>
+</explanation>
+</question-set-member>
+<question-set-member contentItemName="toeflPrac10103.013">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="struc.nounphrases"/></categoryRefs>
+<question-stem>
+<para>            Directions: The sentence below is an introductory sentence
+for a short summary of the passage. Select THREE answer choices from the chart
+that represent important ideas in the passage. Some sentences are incorrect
+because they contain information that was not in the passage or contain information
+that is a minor detail. <emphasis emphasis-type="italic"><emphasis emphasis-type="bold"> This
+question is worth 2 points</emphasis>.</emphasis></para>
+<para>           <emphasis emphasis-type="bold">             The components
+of agonistic displays arise from conflicting emotional motivations and can
+be characterized as belonging to one of three basic categories.</emphasis>
+       </para>
+<!--The following para should be in a grey box-->
+<para class="question-direction">            Use the mouse to drag the answer
+choices tothe spaces where they belong. To remove an answer choice, click
+on it. To look at the reading passage again, click on 'View Text.'</para>
+</question-stem>
+<answer-choice-set multipleAnswer="yes" correctAnswerChoiceCount="3" draggable="yes"
+draggableHeight="50" draggableWidth="475">
+<answer-choice correct="no">            Animal behaviorists recognize displacement
+activities, redirected activities, and intention movements as being the building
+blocks of all agonistic displays.</answer-choice>
+<answer-choice correct="yes">            All emotional motivations are centered
+on enhancing access to food, shelter", and mates.</answer-choice>
+<answer-choice correct="no">            Agonistic displays convey information
+about an animal's emotional frame of mind.</answer-choice>
+<answer-choice correct="yes">            Of these three, intention movements
+convey the most information , and are therefore the most likely to be observed.</answer-choice>
+<answer-choice correct="yes">            The three categories of behavior
+animal behaviorists most often display are displacement activities, redirected
+activities, and intention movements.</answer-choice>
+<answer-choice correct="no">            Exaggeration and stereotyping of these
+three components is important in creating the final displays .</answer-choice>
+</answer-choice-set>
+<explanation interaction="true">
+<para>            A summary of the passage should note the 3 types of agonistic
+displays, which (A) does successfully. Competing emotional motivations (C)
+are identified in paragraph 1 as basic to agonistic displays; this idea is
+restated in paragraph s. Paragraph 5 states that exaggeration and stereotyping
+are important.</para>
+<para>            (B) and (D) do not appear in the passage. Throughout the
+passage, the word <emphasis emphasis-type="italic"> display </emphasis>appears
+as a noun or an adjective (e.g., display pattern). (E) uses <emphasis emphasis-type="italic"> display </emphasis>as
+a verb and incorrectly attributes the action to behaviorists .</para>
+</explanation>
+</question-set-member>
+</question-set>
+</gradItems>

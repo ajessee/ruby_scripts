@@ -1,0 +1,30 @@
+<gradItems>
+<question contentItemName="toeflPrac10208vid">
+<categoryRefs>
+<catRef-GRAD-UQTopic categoryName="listen.whwords"/></categoryRefs>
+<stimulus>
+<passage>
+<mediaExhibit frameType="flv" mediaRef="toeflPrac10208_01.mp4"/>
+<para></para>
+</passage>
+</stimulus>
+<answer-choice-set hide="yes">
+<answer-choice correct="yes"> To indicate that the student has not given him
+the correct Information</answer-choice>
+<answer-choice> To inform the student that she has entered the wrong journal
+title into the computer</answer-choice>
+<answer-choice> To find out whether the student knows how to use a database
+function</answer-choice>
+<answer-choice> To aid the student in finding additional articles by the same
+author</answer-choice>
+</answer-choice-set>
+<explanation interaction="true" hide="yes">
+<para> (A) is correct because the function of the expression "but what about
+the journal title" is to indicate that the librarian needs this information
+to help her. (C) is attractive because earlier the student says she is having
+trouble finding the information she needs, but the librarian is not implying
+anything about her understanding of databases here. Neither (B) or (D) is
+mentioned in the dialogue, nor are they implied in any way.</para>
+</explanation>
+</question>
+</gradItems>
