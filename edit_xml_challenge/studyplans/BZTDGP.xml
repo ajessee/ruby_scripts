@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="BZTDGP">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Consequat veniam nisi tempor nostrud mollit"/>
+        <Assignment Id="2" Name="Mollit sint ullamco ut"/>
+        <Assignment Id="3" Name="Ullamco sed dolore"/>
+        <Assignment Id="4" Name="Non ut veniam"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="5" Name="Excepteur velit aliquip irure ea pariatur"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="6" Name="Velit dolore mollit ex dolore" DifficultyLevel="moderate"/>
+        <Assignment Id="7" Name="Cupidatat dolore dolore"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="8" Name="Ut voluptate non sint" DifficultyLevel="easy"/>
+        <Assignment Id="9" Name="Do non tempor ea minim excepteur"/>
+        <Assignment Id="10" Name="Ea in veniam amet"/>
+        <Assignment Id="11" Name="Eu ex occaecat ipsum et consectetur"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="12" Name="Eu culpa nulla velit minim" DifficultyLevel="easy"/>
+        <Assignment Id="13" Name="In ipsum aliqua ut in"/>
+        <Assignment Id="14" Name="Tempor ex ad elit laborum"/>
+        <Assignment Id="15" Name="Incididunt cupidatat esse magna"/>
+        <Assignment Id="16" Name="Irure officia consequat incididunt in ut"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

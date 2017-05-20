@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="BQM5HA">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Elit nostrud aute" />
+        <Assignment Id="2" Name="Deserunt ut excepteur nisi sed amet" />
+        <Assignment Id="3" Name="Ut ut non" />
+        <Assignment Id="4" Name="Lorem ut non aute nulla sit" />
+        <Assignment Id="5" Name="Non ullamco commodo" />
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="6" Name="Veniam ut consectetur" />
+        <Assignment Id="7" Name="Veniam consequat ut cillum aute pariatur" />
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

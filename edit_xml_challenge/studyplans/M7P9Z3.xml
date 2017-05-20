@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="M7P9Z3">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Cupidatat eiusmod aute amet"/>
+        <Assignment Id="2" Name="Dolor eiusmod ut lorem"/>
+        <Assignment Id="3" Name="Nulla id adipisicing consectetur laboris magna"/>
+        <Assignment Id="4" Name="Pariatur duis laboris excepteur"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="5" Name="Dolor exercitation sed"/>
+        <Assignment Id="6" Name="Dolore in voluptate fugiat anim"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="7" Name="Velit ullamco eiusmod excepteur"/>
+        <Assignment Id="8" Name="Ut sunt quis"/>
+        <Assignment Id="9" Name="Velit enim ea"/>
+        <Assignment Id="10" Name="Ullamco minim consequat"/>
+        <Assignment Id="11" Name="Cillum irure nisi ut"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="12" Name="Eu elit sint dolor"/>
+        <Assignment Id="13" Name="Lorem in non aliquip enim"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="14" Name="Lorem sit ut reprehenderit amet" DifficultyLevel="easy"/>
+        <Assignment Id="15" Name="Esse sit laborum sint"/>
+        <Assignment Id="16" Name="Esse cupidatat nisi elit"/>
+        <Assignment Id="17" Name="Id nulla sint proident laborum"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

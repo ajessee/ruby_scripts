@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="NUHODQ">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Aute ea aliquip reprehenderit voluptate mollit" />
+        <Assignment Id="2" Name="Magna in eiusmod esse" />
+        <Assignment Id="3" Name="Aute elit id" />
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

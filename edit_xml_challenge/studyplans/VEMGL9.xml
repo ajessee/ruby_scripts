@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="VEMGL9">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Cupidatat officia aute"/>
+        <Assignment Id="2" Name="Occaecat excepteur reprehenderit adipisicing et"/>
+        <Assignment Id="3" Name="Tempor ex velit"/>
+        <Assignment Id="4" Name="Minim dolore in ad"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="5" Name="In nulla deserunt minim qui"/>
+        <Assignment Id="6" Name="Magna ut ex excepteur ut"/>
+        <Assignment Id="7" Name="Do officia nisi"/>
+        <Assignment Id="8" Name="Excepteur est mollit sit nisi"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="9" Name="Elit laborum sunt duis sint cillum" DifficultyLevel="easy"/>
+        <Assignment Id="10" Name="Cillum proident in"/>
+        <Assignment Id="11" Name="Consequat irure commodo pariatur qui ad"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="12" Name="Ea sit qui culpa"/>
+        <Assignment Id="13" Name="Velit ex est do in sint"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

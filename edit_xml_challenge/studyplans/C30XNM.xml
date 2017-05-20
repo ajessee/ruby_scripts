@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="C30XNM">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Velit tempor qui dolor et"/>
+        <Assignment Id="2" Name="Labore deserunt quis minim reprehenderit culpa"/>
+        <Assignment Id="3" Name="Tempor mollit nisi"/>
+        <Assignment Id="4" Name="Do non irure labore enim elit"/>
+        <Assignment Id="5" Name="Velit culpa in dolore reprehenderit do"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="6" Name="Ut irure et"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="7" Name="Qui veniam nostrud dolor in velit" DifficultyLevel="easy"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="8" Name="Dolore non ex labore voluptate laboris"/>
+        <Assignment Id="9" Name="Qui quis ea occaecat laboris in"/>
+        <Assignment Id="10" Name="Qui cupidatat mollit quis"/>
+        <Assignment Id="11" Name="Esse nisi proident mollit non"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="12" Name="Fugiat et qui"/>
+        <Assignment Id="13" Name="Velit in tempor sunt aliqua"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

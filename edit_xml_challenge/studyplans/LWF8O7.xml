@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="LWF8O7">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Ut cillum amet deserunt do"/>
+        <Assignment Id="2" Name="Sed reprehenderit ex anim mollit culpa"/>
+        <Assignment Id="3" Name="Elit culpa deserunt dolor dolor"/>
+        <Assignment Id="4" Name="Mollit ex quis esse id tempor"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="5" Name="Officia mollit dolore"/>
+        <Assignment Id="6" Name="Officia consequat nostrud ut"/>
+        <Assignment Id="7" Name="In cupidatat dolor"/>
+        <Assignment Id="8" Name="Reprehenderit cupidatat quis adipisicing"/>
+        <Assignment Id="9" Name="Laborum ad officia"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="10" Name="Ea irure et dolor commodo duis"/>
+        <Assignment Id="11" Name="Consequat pariatur amet occaecat"/>
+        <Assignment Id="12" Name="Qui cillum laboris" DifficultyLevel="moderate"/>
+        <Assignment Id="13" Name="Fugiat sed reprehenderit"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="14" Name="Ut ex laboris"/>
+        <Assignment Id="15" Name="Reprehenderit occaecat duis consequat in nostrud"/>
+        <Assignment Id="16" Name="Occaecat eu veniam dolor quis aliquip"/>
+        <Assignment Id="17" Name="Sunt incididunt anim laborum culpa"/>
+        <Assignment Id="18" Name="In in consectetur ullamco est"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="19" Name="Quis ex cupidatat excepteur nisi mollit"/>
+        <Assignment Id="20" Name="Voluptate et cillum ut"/>
+        <Assignment Id="21" Name="Sunt ipsum do deserunt occaecat incididunt" DifficultyLevel="easy"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

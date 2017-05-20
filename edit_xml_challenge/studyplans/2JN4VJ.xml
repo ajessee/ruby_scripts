@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="2JN4VJ">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Et quis labore fugiat ut"/>
+        <Assignment Id="2" Name="Non in sunt officia lorem ut"/>
+        <Assignment Id="3" Name="Dolore elit tempor ex voluptate ullamco"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="4" Name="Eu dolor mollit cillum"/>
+        <Assignment Id="5" Name="Lorem amet reprehenderit sint laborum"/>
+        <Assignment Id="6" Name="Laborum cillum ut fugiat proident esse"/>
+        <Assignment Id="7" Name="Elit officia mollit" DifficultyLevel="moderate"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="8" Name="Reprehenderit et sed sit aute"/>
+        <Assignment Id="9" Name="In nulla eu consequat ad"/>
+        <Assignment Id="10" Name="Voluptate est dolore cupidatat pariatur exercitation"/>
+        <Assignment Id="11" Name="Non in dolore enim sed minim"/>
+        <Assignment Id="12" Name="Dolore deserunt cillum exercitation"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="13" Name="Lorem mollit elit aute tempor"/>
+        <Assignment Id="14" Name="Dolore proident officia ut excepteur"/>
+        <Assignment Id="15" Name="Labore mollit enim in"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="16" Name="In ullamco in qui adipisicing incididunt"/>
+        <Assignment Id="17" Name="Reprehenderit consequat ex anim"/>
+        <Assignment Id="18" Name="Dolore et nostrud non laborum nulla"/>
+        <Assignment Id="19" Name="Pariatur culpa laborum proident eiusmod"/>
+        <Assignment Id="20" Name="Pariatur tempor adipisicing"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

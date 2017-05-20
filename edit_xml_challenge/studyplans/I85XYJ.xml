@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="I85XYJ">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Cillum do incididunt est"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="2" Name="Consectetur minim exercitation commodo id deserunt"/>
+        <Assignment Id="3" Name="Occaecat ea pariatur magna mollit"/>
+        <Assignment Id="4" Name="Aliqua do nostrud cillum dolore"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="5" Name="Consectetur eu aute et dolore non"/>
+        <Assignment Id="6" Name="Aliqua occaecat anim enim eu culpa"/>
+        <Assignment Id="7" Name="Laborum aute qui"/>
+        <Assignment Id="8" Name="Eu aliqua incididunt nisi aliquip" DifficultyLevel="easy"/>
+        <Assignment Id="9" Name="Exercitation duis officia amet velit"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="10" Name="Minim nulla non in ipsum"/>
+        <Assignment Id="11" Name="Ut sint pariatur proident dolor velit"/>
+        <Assignment Id="12" Name="Irure pariatur aute amet"/>
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="13" Name="Incididunt labore velit sed deserunt"/>
+        <Assignment Id="14" Name="Pariatur dolor velit tempor ipsum"/>
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

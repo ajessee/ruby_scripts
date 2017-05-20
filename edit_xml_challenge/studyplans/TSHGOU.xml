@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="TSHGOU">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Exercitation elit nisi" />
+        <Assignment Id="2" Name="Ea labore excepteur exercitation" />
+        <Assignment Id="3" Name="Velit elit ad magna" />
+        <Assignment Id="4" Name="Reprehenderit esse amet sunt minim" />
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

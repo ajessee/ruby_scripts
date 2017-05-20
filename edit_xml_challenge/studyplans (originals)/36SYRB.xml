@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="36SYRB">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Ullamco non irure nulla ut eiusmod" />
+        <Assignment Id="2" Name="Irure cillum aliquip excepteur" />
+        <Assignment Id="3" Name="Culpa pariatur esse" />
+        <Assignment Id="4" Name="Adipisicing cupidatat aliqua quis anim dolore" />
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="5" Name="Sint aute reprehenderit et id" />
+        <Assignment Id="6" Name="Velit proident ullamco" />
+        <Assignment Id="7" Name="Aliqua consectetur officia velit" />
+        <Assignment Id="8" Name="Ut ut nostrud esse dolore sed" />
+        <Assignment Id="9" Name="Sunt laborum et labore aliqua ut" />
+      </Assignments>
+    </Lesson>
+    <Lesson Id="3">
+      <Assignments>
+        <Assignment Id="10" Name="In aliquip nulla laborum aliqua culpa" />
+        <Assignment Id="11" Name="Quis est excepteur commodo consequat" />
+        <Assignment Id="12" Name="Dolor eiusmod proident esse" />
+        <Assignment Id="13" Name="Sit velit do adipisicing cillum" />
+        <Assignment Id="14" Name="Id laborum cillum" />
+      </Assignments>
+    </Lesson>
+    <Lesson Id="4">
+      <Assignments>
+        <Assignment Id="15" Name="In exercitation ea" />
+        <Assignment Id="16" Name="Aliquip ipsum ullamco" />
+        <Assignment Id="17" Name="Nostrud laboris irure nisi magna" />
+        <Assignment Id="18" Name="Aute consectetur dolor exercitation cupidatat" />
+        <Assignment Id="19" Name="Laboris lorem dolor minim aliquip sed" />
+      </Assignments>
+    </Lesson>
+    <Lesson Id="5">
+      <Assignments>
+        <Assignment Id="20" Name="Eiusmod sunt do dolor" />
+        <Assignment Id="21" Name="Proident ut minim excepteur lorem" />
+        <Assignment Id="22" Name="Nisi in minim adipisicing culpa laboris" />
+        <Assignment Id="23" Name="Nostrud enim exercitation cupidatat" />
+        <Assignment Id="24" Name="Qui culpa dolor" />
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

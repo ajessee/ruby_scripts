@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="KWBSNA">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Irure id proident officia dolore fugiat" />
+        <Assignment Id="2" Name="Nulla ut quis" />
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>

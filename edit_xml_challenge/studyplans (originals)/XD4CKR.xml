@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<StudyPlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="XD4CKR">
+  <Lessons>
+    <Lesson Id="1">
+      <Assignments>
+        <Assignment Id="1" Name="Deserunt nisi cillum sed" />
+        <Assignment Id="2" Name="Dolor qui in pariatur ullamco" />
+        <Assignment Id="3" Name="Nostrud elit in deserunt enim" />
+        <Assignment Id="4" Name="In nisi sint sit duis" />
+      </Assignments>
+    </Lesson>
+    <Lesson Id="2">
+      <Assignments>
+        <Assignment Id="5" Name="Esse aliquip ea in dolor" />
+        <Assignment Id="6" Name="Labore ad excepteur elit" />
+        <Assignment Id="7" Name="Deserunt commodo dolore tempor sunt" />
+        <Assignment Id="8" Name="Aute duis adipisicing enim proident" />
+        <Assignment Id="9" Name="Sunt tempor pariatur aliquip aliqua ut" />
+      </Assignments>
+    </Lesson>
+  </Lessons>
+</StudyPlan>
