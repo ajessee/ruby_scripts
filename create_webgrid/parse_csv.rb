@@ -49,8 +49,16 @@ class QuestionSetChild
 
   def initialize(row)
     @question = row['Question']
-    @answers = row['Correct Answer']
-    @tag = row['Tag']
+      if row['Correct Answer'] != nil
+      @answers = row['Correct Answer']
+      else
+      @answers = ""
+      end
+      if row['Tag'] != nil
+      @tag = row['Tag']
+      else
+      @tag = nil
+      end 
     @answers = clean_answers(@answers)
   end
 

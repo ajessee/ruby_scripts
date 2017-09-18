@@ -9,9 +9,11 @@ def create_xml(question_array)
           xml.stimulus{}
           question_set.children.each do |question|
             xml.send(:"question-set-member", 'contentItemName' => "#{question_set.content_item_id}.0#{question.question}") {
+                  if question.tag != nil
                   xml.categoryRefs {
                     xml.send(:"catRef-IELTS-QTopic", 'categoryName' => "#{question.tag}"){}
                   }
+                  end
                   xml.fillInInteraction {
                     xml.fillInInput{
                       question.answers.each do |answer|
